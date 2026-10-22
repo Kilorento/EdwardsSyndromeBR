@@ -95,8 +95,8 @@ A anotação "Anonimização: …" na coluna `observacao` de `julgados.csv` desc
 
 ## Autoria
 
-- **Pesquisa:** Pedro Farnese Dias de Assis Lima
-- **Organização da base e do repositório:** Lucas Vilas Boas Iwano
+- **Pesquisa e organização da base:** Pedro Farnese Dias de Assis Lima
+- **Organização do repositório:** Lucas Vilas Boas Iwano
 
 Encontrou um erro? Abra uma *issue* neste repositório.
 
@@ -203,7 +203,7 @@ The note "Anonimização: …" in the `observacao` column of `julgados.csv` desc
 
 ## Authors
 
-- **Research:** Pedro Farnese Dias de Assis Lima
-- **Dataset and repository organization:** Lucas Vilas Boas Iwano
+- **Research and dataset organization:** Pedro Farnese Dias de Assis Lima
+- **Repository organization:** Lucas Vilas Boas Iwano
 
 Found an error? Open an *issue* in this repository.
