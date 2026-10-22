@@ -4,7 +4,7 @@
 
 Base de jurisprudência brasileira sobre pedidos judiciais de interrupção da gestação de fetos com **Síndrome de Edwards** (trissomia do cromossomo 18, T18).
 
-A base reúne 139 decisões de 10 Tribunais de Justiça e do Superior Tribunal de Justiça, proferidas entre 1998 e 2026. Ela foi construída para a pesquisa *Dificuldades para julgar crimes contra a vida de pessoas com síndrome de Edwards*, de Pedro Farnese Dias de Assis Lima.
+A base reúne 139 decisões de 10 Tribunais de Justiça e do Superior Tribunal de Justiça, proferidas entre 1998 e 2026. Ela foi construída para a pesquisa *O ABORTO DE NASCITUROS COM SÍNDROME DE EDWARDS: ENTRE A LITERATURA MÉDICA E O STATUS JURÍDICO BRASILEIRO*, de Pedro Farnese Dias de Assis Lima.
 
 ## Conteúdo
 
@@ -110,7 +110,7 @@ Encontrou um erro? Abra uma *issue* neste repositório.
 
 A dataset of Brazilian court decisions on requests to terminate pregnancies of fetuses with **Edwards syndrome** (trisomy 18, T18).
 
-The dataset covers 139 decisions from 10 Brazilian Courts of Justice (state-level courts and their first-instance judges) and the Superior Court of Justice (STJ), issued between 1998 and 2026. It was built for the research project *Dificuldades para julgar crimes contra a vida de pessoas com síndrome de Edwards* ("Difficulties in judging crimes against the life of people with Edwards syndrome"), by Pedro Farnese Dias de Assis Lima.
+The dataset covers 139 decisions from 10 Brazilian Courts of Justice (state-level courts and their first-instance judges) and the Superior Court of Justice (STJ), issued between 1998 and 2026. It was built for the research project *O ABORTO DE NASCITUROS COM SÍNDROME DE EDWARDS: ENTRE A LITERATURA MÉDICA E O STATUS JURÍDICO BRASILEIRO* ("THE ABORTION OF UNBORN CHILDREN WITH EDWARDS SYNDROME: BETWEEN MEDICAL LITERATURE AND THE BRAZILIAN LEGAL STATUS"), by Pedro Farnese Dias de Assis Lima.
 
 All data, variable names, values and supporting documents are in Portuguese.
 
