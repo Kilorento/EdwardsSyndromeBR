@@ -1,0 +1,81 @@
+﻿lote,ref,campo,valor_gemini,problema,tipo
+01,J002,falso_positivo,Não,"Criança já nascida, sem pedido de interrupção: pela regra 8 é falso positivo.",regra do protocolo
+01,J002,falso_positivo,Não,O próprio B2 do Gemini confirma 'não há discussão sobre interrupção' (criança nascida). Mesmo problema no J003.,inconsistência entre blocos
+01,J002,via_processual,Autorização prévia contra operadora de plano,'Autorização prévia contra operadora de plano' para ação de rescisão contratual e obrigação de fazer após o nascimento. Idem J003.,possível erro
+01,J003,falso_positivo,Não,"Criança já nascida, sem pedido de interrupção: pela regra 8 é falso positivo.",regra do protocolo
+01,J005,cita_hc_932495,Sim,Marcado 'Sim' em decisão anterior a 06/08/2024 (data do HC 932.495).,erro factual
+01,J005,genero_relator_declarado,Feminino,Tratamento 'Juiz' não bate com gênero 'Feminino'.,inconsistência interna
+01,J008,provimento,REPORTAR,Marcado REPORTAR (lacuna conhecida: inadmissão de REsp na origem).,lacuna de vocabulário
+01,J011,falso_positivo,Não,Condição fetal 'Outra' com falso_positivo 'Não'.,inconsistência interna
+01,J011,falso_positivo,Não,"'Não', mas o B2 do Gemini sustenta 'o feto não tem síndrome de Edwards' (agenesia renal).",inconsistência entre blocos
+01,J012,comparacao_com_anencefalia,Equipara,Trecho citado fala de 'síndrome de body-stalk' e é idêntico ao do J001. Pode ser transcrição de precedente ou contaminação entre documentos: conferir.,trecho suspeito
+01,J012,provimento,Liminar deferida,"'Liminar deferida' com trecho 'DEFIRO a liminar', mas o B2 do Gemini sustenta que o relator requisitou informações 'sem decidir a liminar'. Um dos dois está errado: conferir no texto.",inconsistência entre blocos
+01,J014,faixa_etaria_gestante,37,Idade em anos no lugar da faixa.,vocabulário
+01,J014,fundamento_*,,Decisão que nega e enfrenta a tipificação com todos os fundamentos 'Não'. Indício de que o Gemini leu 'Sim' como 'acolhe' (regra 4 diz 'enfrentado em qualquer sentido').,regra do protocolo
+01,J015,faixa_etaria_gestante,37,Idade em anos no lugar da faixa.,vocabulário
+01,J016,fundamento_*,,Decisão que nega e enfrenta a tipificação com todos os fundamentos 'Não'. Indício de que o Gemini leu 'Sim' como 'acolhe' (regra 4 diz 'enfrentado em qualquer sentido').,regra do protocolo
+01,J018,fundamento_risco_vida_gestante,Não,"'Não', mas o B2 do Gemini confirma que o relator examinou o art. 128, I. Pela regra 3, é 'Sim'.",regra do protocolo
+01,J019,fundamento_*,,Decisão que nega e enfrenta a tipificação com todos os fundamentos 'Não'. Indício de que o Gemini leu 'Sim' como 'acolhe' (regra 4 diz 'enfrentado em qualquer sentido').,regra do protocolo
+01,J021,falso_positivo,Não,Condição fetal 'Outra' com falso_positivo 'Não'.,inconsistência interna
+02,J024,data_inicial,05/05/2007,"05/05/2007 em ação de 2020: provavelmente data do contrato de plano, não do processo.",possível erro
+02,J029,fundamento_*,,Decisão que nega e enfrenta a tipificação com todos os fundamentos 'Não'. Indício de que o Gemini leu 'Sim' como 'acolhe' (regra 4 diz 'enfrentado em qualquer sentido').,regra do protocolo
+02,J029,via_processual,Autorização prévia contra o Estado,"Pedidos de jurisdição voluntária e HCs marcados 'Autorização prévia contra o Estado' (J029–J037, J042–J061). Parece valor-padrão aplicado em bloco.",possível erro sistemático
+02,J030,condicao_fetal,Múltipla,Valor fora do vocabulário (T18 com outras malformações).,vocabulário
+02,J031,provimento,Não conhecido,"'Não conhecido' para 'nego seguimento ao recurso, em face à sua prejudicialidade' (prejudicado).",possível erro
+02,J032,faixa_etaria_gestante,39,Idade em anos no lugar da faixa.,vocabulário
+02,J034,fundamento_*,,Decisão que nega e enfrenta a tipificação com todos os fundamentos 'Não'. Indício de que o Gemini leu 'Sim' como 'acolhe' (regra 4 diz 'enfrentado em qualquer sentido').,regra do protocolo
+02,J035,faixa_etaria_gestante,41,Idade em anos no lugar da faixa.,vocabulário
+02,J035,fundamento_*,,Decisão que nega e enfrenta a tipificação com todos os fundamentos 'Não'. Indício de que o Gemini leu 'Sim' como 'acolhe' (regra 4 diz 'enfrentado em qualquer sentido').,regra do protocolo
+02,J036,faixa_etaria_gestante,35,Idade em anos no lugar da faixa.,vocabulário
+02,J039,faixa_etaria_gestante,22,Idade em anos no lugar da faixa.,vocabulário
+03,J043,faixa_etaria_gestante,35-39,"Observação diz 41 anos, mas faixa marcada 35-39.",inconsistência interna
+03,J044,faixa_etaria_gestante,35-39,"Observação diz 40 anos, mas faixa marcada 35-39.",inconsistência interna
+03,J045,cita_adpf54,Não,"'Não'. Pela regra 5, conta a menção à decisão do STF sem número. Conferir J045 e J046.",regra do protocolo
+03,J045,tratamento_relator,Des.,"Abreviação 'Des.' não flexiona gênero: pela regra 6, tratamento e gênero ficam 'Não consta' (o Gemini marcou gênero 'Feminino').",regra do protocolo
+03,J046,tratamento_relator,Des.,"Abreviação 'Des.' não flexiona gênero: pela regra 6, tratamento e gênero ficam 'Não consta' (o Gemini marcou gênero 'Feminino').",regra do protocolo
+03,J047,comparacao_com_anencefalia,Não,Vocabulário é Equipara/Distingue/Não faz; 'Não' provavelmente = 'Não faz'.,vocabulário
+03,J047,tratamento_relator,Des.,"Abreviação 'Des.' não flexiona gênero: pela regra 6, tratamento e gênero ficam 'Não consta' (o Gemini marcou gênero 'Masculino').",regra do protocolo
+03,J049,comparacao_com_anencefalia,Não,Vocabulário é Equipara/Distingue/Não faz; 'Não' provavelmente = 'Não faz'.,vocabulário
+03,J050,comparacao_com_anencefalia,Não,Vocabulário é Equipara/Distingue/Não faz; 'Não' provavelmente = 'Não faz'.,vocabulário
+03,J050,situacao_vital_na_decisao,Óbito após nascimento,Observação fala em natimorto; marcado 'Óbito após nascimento'.,inconsistência interna
+03,J050,tratamento_relator,DES.,"Abreviação 'DES.' não flexiona gênero: pela regra 6, tratamento e gênero ficam 'Não consta' (o Gemini marcou gênero 'Feminino').",regra do protocolo
+03,J051,tratamento_relator,Des(a).,"Tratamento não flexionado: pela regra 6, fica 'Não consta' (e gênero 'Não consta').",regra do protocolo
+03,J053,comparacao_com_anencefalia,Não,Vocabulário é Equipara/Distingue/Não faz; 'Não' provavelmente = 'Não faz'.,vocabulário
+03,J053,provimento,Ordem denegada,Mandado de segurança do MP: 'denegar a segurança' virou 'Ordem denegada' (o efeito prático é manter a autorização). Idem J052 'Ordem concedida' para MS.,vocabulário
+03,J054,comparacao_com_anencefalia,Não,Vocabulário é Equipara/Distingue/Não faz; 'Não' provavelmente = 'Não faz'.,vocabulário
+03,J054,provimento,Não conhecido,"Competência declinada marcada 'Não conhecido' (na minha extração, REPORTAR).",lacuna de vocabulário
+03,J054,tratamento_relator,Des.,"Abreviação 'Des.' não flexiona gênero: pela regra 6, tratamento e gênero ficam 'Não consta' (o Gemini marcou gênero 'Masculino').",regra do protocolo
+03,J055,tratamento_relator,Des.,"Abreviação 'Des.' não flexiona gênero: pela regra 6, tratamento e gênero ficam 'Não consta' (o Gemini marcou gênero 'Masculino').",regra do protocolo
+03,J056,comparacao_com_anencefalia,Não,Vocabulário é Equipara/Distingue/Não faz; 'Não' provavelmente = 'Não faz'.,vocabulário
+03,J056,tratamento_relator,Des.,"Abreviação 'Des.' não flexiona gênero: pela regra 6, tratamento e gênero ficam 'Não consta' (o Gemini marcou gênero 'Masculino').",regra do protocolo
+03,J057,comparacao_com_anencefalia,Não,Vocabulário é Equipara/Distingue/Não faz; 'Não' provavelmente = 'Não faz'.,vocabulário
+03,J058,comparacao_com_anencefalia,Não,Vocabulário é Equipara/Distingue/Não faz; 'Não' provavelmente = 'Não faz'.,vocabulário
+03,J058,fundamento_*,,Decisão que nega e enfrenta a tipificação com todos os fundamentos 'Não'. Indício de que o Gemini leu 'Sim' como 'acolhe' (regra 4 diz 'enfrentado em qualquer sentido').,regra do protocolo
+03,J058,fundamento_inviabilidade_extrauterina,Não,"'Não', mas a Parte 2 do próprio Gemini cita o trecho sobre vida fora do ventre por '2 a 3 meses'. Pela regra 4, é 'Sim'. Idem J060.",regra do protocolo
+03,J058,tratamento_relator,Des.,"Abreviação 'Des.' não flexiona gênero: pela regra 6, tratamento e gênero ficam 'Não consta' (o Gemini marcou gênero 'Masculino').",regra do protocolo
+03,J059,comparacao_com_anencefalia,Não,Vocabulário é Equipara/Distingue/Não faz; 'Não' provavelmente = 'Não faz'.,vocabulário
+03,J059,tratamento_relator,Des.,"Abreviação 'Des.' não flexiona gênero: pela regra 6, tratamento e gênero ficam 'Não consta' (o Gemini marcou gênero 'Masculino').",regra do protocolo
+03,J060,comparacao_com_anencefalia,Não,Vocabulário é Equipara/Distingue/Não faz; 'Não' provavelmente = 'Não faz'.,vocabulário
+03,J060,fundamento_*,,Decisão que nega e enfrenta a tipificação com todos os fundamentos 'Não'. Indício de que o Gemini leu 'Sim' como 'acolhe' (regra 4 diz 'enfrentado em qualquer sentido').,regra do protocolo
+03,J061,comparacao_com_anencefalia,Não,Vocabulário é Equipara/Distingue/Não faz; 'Não' provavelmente = 'Não faz'.,vocabulário
+03,J061,tratamento_relator,Des.,"Abreviação 'Des.' não flexiona gênero: pela regra 6, tratamento e gênero ficam 'Não consta' (o Gemini marcou gênero 'Masculino').",regra do protocolo
+04,J063,via_processual,Apenasprivada?,Valor fora do vocabulário.,vocabulário
+04,J063,via_processual,Apenasprivada?,Valor sem sentido ('Apenasprivada?'). É apelação criminal por crime sexual; T18 só em depoimento (falso positivo correto).,vocabulário
+04,J065,condicao_fetal,Múltipla,Valor fora do vocabulário (T18 com outras malformações).,vocabulário
+04,J070,provimento,Não conhecido,"Documento só com linha de referência: pela regra 1, os campos de conteúdo ficam 'Não acessível'.",regra do protocolo
+05,J082,enfrenta_tipificacao,Não,"Sentenças-modelo da 1ª Vara do Júri (inexigibilidade de conduta diversa) marcadas 'Não' em J082, J083, J085, J087, J089 e J093, embora o B2 confirme que o juiz enfrenta a culpabilidade. No J093 (T18 em mosaico, não é falso positivo) isso pesa.",inconsistência entre blocos
+05,J092,fundamento_*,,Decisão que nega e enfrenta a tipificação com todos os fundamentos 'Não'. Indício de que o Gemini leu 'Sim' como 'acolhe' (regra 4 diz 'enfrentado em qualquer sentido').,regra do protocolo
+05,J093,enfrenta_tipificacao,Não,Autoriza a interrupção de T18 mas está marcado 'Não enfrenta a tipificação'.,inconsistência interna
+05,J100,fundamento_*,,Decisão que nega e enfrenta a tipificação com todos os fundamentos 'Não'. Indício de que o Gemini leu 'Sim' como 'acolhe' (regra 4 diz 'enfrentado em qualquer sentido').,regra do protocolo
+05,J101,fundamento_*,,Decisão que nega e enfrenta a tipificação com todos os fundamentos 'Não'. Indício de que o Gemini leu 'Sim' como 'acolhe' (regra 4 diz 'enfrentado em qualquer sentido').,regra do protocolo
+06,J105,cita_hc_932495,Sim,Marcado 'Sim' em decisão anterior a 06/08/2024 (data do HC 932.495).,erro factual
+06,J105,cita_hc_932495,Sim,"O trecho que o Gemini dá como prova é do HC 84.025/RJ (STF, Joaquim Barbosa). Mesmo erro em J106, J108 e J110.",erro factual
+06,J105,fundamento_risco_vida_gestante,Não,"'Não', mas o B2 confirma que o juiz afirmou que o caso 'não se subsume' ao art. 128, I. Pela regra 3, é 'Sim'. Idem J107.",regra do protocolo
+06,J106,cita_hc_932495,Sim,Marcado 'Sim' em decisão anterior a 06/08/2024 (data do HC 932.495).,erro factual
+06,J108,cita_hc_932495,Sim,Marcado 'Sim' em decisão anterior a 06/08/2024 (data do HC 932.495).,erro factual
+06,J110,cita_hc_932495,Sim,Marcado 'Sim' em decisão anterior a 06/08/2024 (data do HC 932.495).,erro factual
+06,J119,faixa_etaria_gestante,38,Idade em anos no lugar da faixa.,vocabulário
+07,J128,fundamento_*,,Decisão que nega e enfrenta a tipificação com todos os fundamentos 'Não'. Indício de que o Gemini leu 'Sim' como 'acolhe' (regra 4 diz 'enfrentado em qualquer sentido').,regra do protocolo
+07,J128,precedentes_citados,Mandado de Segurança nº 0162591-89.2012.8.26.0000; Habeas Corpus nº 0045924-20.2012.8.26.0000; Mandado de Segurança nº 458.690.3/4-00; Mandado de Segurança 990.08.124924-3; ADPF nº 54; Apelação Cível com Revisão nº 516.299-4/5; Mandado de Segurança nº 309.340-3; Mandado de Segurança nº 418.592-3/4; Mandado de Segurança nº 375.201-3; Mandado de Segurança nº 884.716-3/6; Mandado de Segurança nº 886.650-3/9,Decisão de 2001 'cita' processos de [2012]: lista provavelmente copiada de outro documento.,erro factual
+07,J128,precedentes_citados,Mandado de Segurança nº 0162591-89.2012.8.26.0000; Habeas Corpus nº 0045924-20.2012.8.26.0000; Mandado de Segurança nº 458.690.3/4-00; Mandado de Segurança 990.08.124924-3; ADPF nº 54; Apelação Cível com Revisão nº 516.299-4/5; Mandado de Segurança nº 309.340-3; Mandado de Segurança nº 418.592-3/4; Mandado de Segurança nº 375.201-3; Mandado de Segurança nº 884.716-3/6; Mandado de Segurança nº 886.650-3/9,Lista idêntica à do J124 (2012). Contaminação entre documentos.,erro factual
+07,J128,votos_separados,Voto vencido; Voto divergente,Dois valores na mesma célula.,vocabulário

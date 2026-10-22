@@ -1,0 +1,1815 @@
+﻿n,base,registro,campo,antes,depois,criterio,julgado_fonte
+255,casos.csv,C001,ig_semanas,22 (pedido),22,IG,J001
+256,casos.csv,C001,ig_momento,(coluna nova),Pedido,IG,J001
+257,casos.csv,C001,fonte_dos_fundamentos,(coluna nova),Não aplicável,CF,Não aplicável
+258,casos.csv,C001,instancia,(coluna nova),Não aplicável,CF,Não aplicável
+259,casos.csv,C001,orgao_julgador,(coluna nova),Não aplicável,CF,Não aplicável
+260,casos.csv,C001,via_processual,(coluna nova),Não aplicável,CF,Não aplicável
+261,casos.csv,C001,art128_I,(coluna nova),Não aplicável,CF,Não aplicável
+262,casos.csv,C001,fundamento_risco_vida_gestante,(coluna nova),Não aplicável,CF,Não aplicável
+263,casos.csv,C001,fundamento_inviabilidade_extrauterina,(coluna nova),Não aplicável,CF,Não aplicável
+264,casos.csv,C001,fundamento_dignidade_autonomia,(coluna nova),Não aplicável,CF,Não aplicável
+265,casos.csv,C001,comparacao_com_anencefalia,(coluna nova),Não aplicável,CF,Não aplicável
+266,casos.csv,C001,cita_adpf54,(coluna nova),Não aplicável,CF,Não aplicável
+267,casos.csv,C001,cita_hc_932495,(coluna nova),Não aplicável,CF,Não aplicável
+268,casos.csv,C001,forma_do_texto,(coluna nova),Não aplicável,CF,Não aplicável
+269,casos.csv,C001,perda_de_objeto,(coluna nova),Não aplicável,CF,Não aplicável
+270,casos.csv,C002,ig_momento,(coluna nova),Não consta,IG,Não aplicável
+271,casos.csv,C002,fonte_dos_fundamentos,(coluna nova),Não aplicável,CF,Não aplicável
+272,casos.csv,C002,instancia,(coluna nova),Não aplicável,CF,Não aplicável
+273,casos.csv,C002,orgao_julgador,(coluna nova),Não aplicável,CF,Não aplicável
+274,casos.csv,C002,via_processual,(coluna nova),Não aplicável,CF,Não aplicável
+275,casos.csv,C002,art128_I,(coluna nova),Não aplicável,CF,Não aplicável
+276,casos.csv,C002,fundamento_risco_vida_gestante,(coluna nova),Não aplicável,CF,Não aplicável
+277,casos.csv,C002,fundamento_inviabilidade_extrauterina,(coluna nova),Não aplicável,CF,Não aplicável
+278,casos.csv,C002,fundamento_dignidade_autonomia,(coluna nova),Não aplicável,CF,Não aplicável
+279,casos.csv,C002,comparacao_com_anencefalia,(coluna nova),Não aplicável,CF,Não aplicável
+280,casos.csv,C002,cita_adpf54,(coluna nova),Não aplicável,CF,Não aplicável
+281,casos.csv,C002,cita_hc_932495,(coluna nova),Não aplicável,CF,Não aplicável
+282,casos.csv,C002,forma_do_texto,(coluna nova),Não aplicável,CF,Não aplicável
+283,casos.csv,C002,perda_de_objeto,(coluna nova),Não aplicável,CF,Não aplicável
+284,casos.csv,C003,ig_momento,(coluna nova),Não consta,IG,Não aplicável
+285,casos.csv,C003,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J004
+286,casos.csv,C003,instancia,(coluna nova),1º grau,CF,J004
+287,casos.csv,C003,orgao_julgador,(coluna nova),1ª Vara Criminal da Comarca de Mossoró (TJRN),CF,J004
+288,casos.csv,C003,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J004
+289,casos.csv,C003,art128_I,(coluna nova),Afastado,CF,J004
+290,casos.csv,C003,fundamento_risco_vida_gestante,(coluna nova),Rejeita,CF,J004
+291,casos.csv,C003,fundamento_inviabilidade_extrauterina,(coluna nova),Rejeita,CF,J004
+292,casos.csv,C003,fundamento_dignidade_autonomia,(coluna nova),Não enfrenta,CF,J004
+293,casos.csv,C003,comparacao_com_anencefalia,(coluna nova),Distingue,CF,J004
+294,casos.csv,C003,cita_adpf54,(coluna nova),Sim,CF,J004
+295,casos.csv,C003,cita_hc_932495,(coluna nova),Não,CF,J004
+296,casos.csv,C003,forma_do_texto,(coluna nova),Inteiro teor colado no espelho,CF,J004
+297,casos.csv,C003,perda_de_objeto,(coluna nova),Não,CF,J004
+298,casos.csv,C004,ig_semanas,22 (pedido),22,IG,J005
+299,casos.csv,C004,ig_momento,(coluna nova),Pedido,IG,J005
+300,casos.csv,C004,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J005
+301,casos.csv,C004,instancia,(coluna nova),1º grau,CF,J005
+302,casos.csv,C004,orgao_julgador,(coluna nova),Plantão Noturno Cível e Criminal (TJRN),CF,J005
+303,casos.csv,C004,via_processual,(coluna nova),Autorização prévia contra o Estado,CF,J005
+304,casos.csv,C004,art128_I,(coluna nova),Afastado,CF,J005
+305,casos.csv,C004,fundamento_risco_vida_gestante,(coluna nova),Acolhe,CF,J005
+306,casos.csv,C004,fundamento_inviabilidade_extrauterina,(coluna nova),Rejeita,CF,J005
+307,casos.csv,C004,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J005
+308,casos.csv,C004,comparacao_com_anencefalia,(coluna nova),Distingue,CF,J005
+309,casos.csv,C004,cita_adpf54,(coluna nova),Sim,CF,J005
+310,casos.csv,C004,cita_hc_932495,(coluna nova),Não,CF,J005
+311,casos.csv,C004,forma_do_texto,(coluna nova),Inteiro teor colado no espelho,CF,J005
+312,casos.csv,C004,perda_de_objeto,(coluna nova),Não,CF,J005
+313,casos.csv,C005,ig_momento,(coluna nova),Não consta,IG,Não aplicável
+314,casos.csv,C005,fonte_dos_fundamentos,(coluna nova),Não aplicável,CF,Não aplicável
+315,casos.csv,C005,instancia,(coluna nova),Não acessível,CF,Não aplicável
+316,casos.csv,C005,orgao_julgador,(coluna nova),Não acessível,CF,Não aplicável
+317,casos.csv,C005,via_processual,(coluna nova),Não acessível,CF,Não aplicável
+318,casos.csv,C005,art128_I,(coluna nova),Não acessível,CF,Não aplicável
+319,casos.csv,C005,fundamento_risco_vida_gestante,(coluna nova),Não acessível,CF,Não aplicável
+320,casos.csv,C005,fundamento_inviabilidade_extrauterina,(coluna nova),Não acessível,CF,Não aplicável
+321,casos.csv,C005,fundamento_dignidade_autonomia,(coluna nova),Não acessível,CF,Não aplicável
+322,casos.csv,C005,comparacao_com_anencefalia,(coluna nova),Não acessível,CF,Não aplicável
+323,casos.csv,C005,cita_adpf54,(coluna nova),Não acessível,CF,Não aplicável
+324,casos.csv,C005,cita_hc_932495,(coluna nova),Não acessível,CF,Não aplicável
+325,casos.csv,C005,forma_do_texto,(coluna nova),Não acessível,CF,Não aplicável
+326,casos.csv,C005,perda_de_objeto,(coluna nova),Não acessível,CF,Não aplicável
+327,casos.csv,C005,observacao,Não aplicável,data_ultima_decisao não recuperável: o J009 não traz data de julgamento nem de publicação.,DP,J009
+328,casos.csv,C006,ig_semanas,16 (pedido),16,IG,J010
+329,casos.csv,C006,ig_momento,(coluna nova),Pedido,IG,J010
+330,casos.csv,C006,fonte_dos_fundamentos,(coluna nova),Não aplicável,CF,Não aplicável
+331,casos.csv,C006,instancia,(coluna nova),Não aplicável,CF,Não aplicável
+332,casos.csv,C006,orgao_julgador,(coluna nova),Não aplicável,CF,Não aplicável
+333,casos.csv,C006,via_processual,(coluna nova),Não aplicável,CF,Não aplicável
+334,casos.csv,C006,art128_I,(coluna nova),Não aplicável,CF,Não aplicável
+335,casos.csv,C006,fundamento_risco_vida_gestante,(coluna nova),Não aplicável,CF,Não aplicável
+336,casos.csv,C006,fundamento_inviabilidade_extrauterina,(coluna nova),Não aplicável,CF,Não aplicável
+337,casos.csv,C006,fundamento_dignidade_autonomia,(coluna nova),Não aplicável,CF,Não aplicável
+338,casos.csv,C006,comparacao_com_anencefalia,(coluna nova),Não aplicável,CF,Não aplicável
+339,casos.csv,C006,cita_adpf54,(coluna nova),Não aplicável,CF,Não aplicável
+340,casos.csv,C006,cita_hc_932495,(coluna nova),Não aplicável,CF,Não aplicável
+341,casos.csv,C006,forma_do_texto,(coluna nova),Não aplicável,CF,Não aplicável
+342,casos.csv,C006,perda_de_objeto,(coluna nova),Não aplicável,CF,Não aplicável
+343,casos.csv,C007,ig_semanas,25 (pedido),25,IG,J011
+344,casos.csv,C007,ig_momento,(coluna nova),Pedido,IG,J011
+345,casos.csv,C007,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J011
+346,casos.csv,C007,instancia,(coluna nova),1º grau,CF,J011
+347,casos.csv,C007,orgao_julgador,(coluna nova),Juízo da Comarca de Gurupi (TJTO) — vara não consta,CF,J011
+348,casos.csv,C007,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J011
+349,casos.csv,C007,art128_I,(coluna nova),Não mencionado,CF,J011
+350,casos.csv,C007,fundamento_risco_vida_gestante,(coluna nova),Não enfrenta,CF,J011
+351,casos.csv,C007,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J011
+352,casos.csv,C007,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J011
+353,casos.csv,C007,comparacao_com_anencefalia,(coluna nova),Equipara,CF,J011
+354,casos.csv,C007,cita_adpf54,(coluna nova),Sim,CF,J011
+355,casos.csv,C007,cita_hc_932495,(coluna nova),Não,CF,J011
+356,casos.csv,C007,forma_do_texto,(coluna nova),Inteiro teor colado no espelho,CF,J011
+357,casos.csv,C007,perda_de_objeto,(coluna nova),Não,CF,J011
+358,casos.csv,C008,ig_momento,(coluna nova),Não consta,IG,Não aplicável
+359,casos.csv,C008,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J046
+360,casos.csv,C008,instancia,(coluna nova),2º grau,CF,J046
+361,casos.csv,C008,orgao_julgador,(coluna nova),7ª Câmara Criminal do Tribunal de Justiça do Estado do Rio de Janeiro (TJRJ),CF,J046
+362,casos.csv,C008,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J046
+363,casos.csv,C008,art128_I,(coluna nova),Não mencionado,CF,J046
+364,casos.csv,C008,fundamento_risco_vida_gestante,(coluna nova),Não enfrenta,CF,J046
+365,casos.csv,C008,fundamento_inviabilidade_extrauterina,(coluna nova),Não enfrenta,CF,J046
+366,casos.csv,C008,fundamento_dignidade_autonomia,(coluna nova),Não enfrenta,CF,J046
+367,casos.csv,C008,comparacao_com_anencefalia,(coluna nova),Não faz,CF,J046
+368,casos.csv,C008,cita_adpf54,(coluna nova),Não,CF,J046
+369,casos.csv,C008,cita_hc_932495,(coluna nova),Não,CF,J046
+370,casos.csv,C008,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J046
+371,casos.csv,C008,perda_de_objeto,(coluna nova),Não,CF,J046
+372,casos.csv,C009,ig_semanas,36 (julgamento),36,IG,J069
+373,casos.csv,C009,ig_momento,(coluna nova),Julgamento,IG,J069
+374,casos.csv,C009,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J014
+375,casos.csv,C009,instancia,(coluna nova),Tribunal Superior,CF,J014
+376,casos.csv,C009,orgao_julgador,(coluna nova),Relatora no Superior Tribunal de Justiça (STJ),CF,J014
+377,casos.csv,C009,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J014
+378,casos.csv,C009,art128_I,(coluna nova),Risco discutido sem o artigo,CF,J014
+379,casos.csv,C009,fundamento_risco_vida_gestante,(coluna nova),Rejeita,CF,J014
+380,casos.csv,C009,fundamento_inviabilidade_extrauterina,(coluna nova),Rejeita,CF,J014
+381,casos.csv,C009,fundamento_dignidade_autonomia,(coluna nova),Não enfrenta,CF,J014
+382,casos.csv,C009,comparacao_com_anencefalia,(coluna nova),Distingue,CF,J014
+383,casos.csv,C009,cita_adpf54,(coluna nova),Sim,CF,J014
+384,casos.csv,C009,cita_hc_932495,(coluna nova),Não,CF,J014
+385,casos.csv,C009,forma_do_texto,(coluna nova),Inteiro teor colado no espelho,CF,J014
+386,casos.csv,C009,perda_de_objeto,(coluna nova),Não,CF,J014
+387,casos.csv,C010,ig_semanas,25 (julgamento),25,IG,J016
+388,casos.csv,C010,ig_momento,(coluna nova),Julgamento,IG,J016
+389,casos.csv,C010,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J016
+390,casos.csv,C010,instancia,(coluna nova),Tribunal Superior,CF,J016
+391,casos.csv,C010,orgao_julgador,(coluna nova),Relator no Superior Tribunal de Justiça (STJ),CF,J016
+392,casos.csv,C010,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J016
+393,casos.csv,C010,art128_I,(coluna nova),Afastado,CF,J016
+394,casos.csv,C010,fundamento_risco_vida_gestante,(coluna nova),Rejeita,CF,J016
+395,casos.csv,C010,fundamento_inviabilidade_extrauterina,(coluna nova),Rejeita,CF,J016
+396,casos.csv,C010,fundamento_dignidade_autonomia,(coluna nova),Não enfrenta,CF,J016
+397,casos.csv,C010,comparacao_com_anencefalia,(coluna nova),Distingue,CF,J016
+398,casos.csv,C010,cita_adpf54,(coluna nova),Sim,CF,J016
+399,casos.csv,C010,cita_hc_932495,(coluna nova),Não,CF,J016
+400,casos.csv,C010,forma_do_texto,(coluna nova),Inteiro teor colado no espelho,CF,J016
+401,casos.csv,C010,perda_de_objeto,(coluna nova),Não,CF,J016
+402,casos.csv,C011,ig_semanas,30 (pedido),30,IG,J018
+403,casos.csv,C011,ig_momento,(coluna nova),Pedido,IG,J018
+404,casos.csv,C011,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J018
+405,casos.csv,C011,instancia,(coluna nova),Tribunal Superior,CF,J018
+406,casos.csv,C011,orgao_julgador,(coluna nova),Quinta Turma do Superior Tribunal de Justiça (STJ),CF,J018
+407,casos.csv,C011,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J018
+408,casos.csv,C011,art128_I,(coluna nova),Afastado,CF,J018
+409,casos.csv,C011,fundamento_risco_vida_gestante,(coluna nova),Rejeita,CF,J018
+410,casos.csv,C011,fundamento_inviabilidade_extrauterina,(coluna nova),Rejeita,CF,J018
+411,casos.csv,C011,fundamento_dignidade_autonomia,(coluna nova),Não enfrenta,CF,J018
+412,casos.csv,C011,comparacao_com_anencefalia,(coluna nova),Distingue,CF,J018
+413,casos.csv,C011,cita_adpf54,(coluna nova),Sim,CF,J018
+414,casos.csv,C011,cita_hc_932495,(coluna nova),Não aplicável,CF,J018
+415,casos.csv,C011,forma_do_texto,(coluna nova),Inteiro teor colado no espelho,CF,J018
+416,casos.csv,C011,perda_de_objeto,(coluna nova),Não,CF,J018
+417,casos.csv,C012,ig_semanas,21 (pedido),21,IG,J019
+418,casos.csv,C012,ig_momento,(coluna nova),Pedido,IG,J019
+419,casos.csv,C012,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J019
+420,casos.csv,C012,instancia,(coluna nova),1º grau,CF,J019
+421,casos.csv,C012,orgao_julgador,(coluna nova),37ª Vara Cível da Comarca de Fortaleza (TJCE),CF,J019
+422,casos.csv,C012,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J019
+423,casos.csv,C012,art128_I,(coluna nova),Não mencionado,CF,J019
+424,casos.csv,C012,fundamento_risco_vida_gestante,(coluna nova),Não enfrenta,CF,J019
+425,casos.csv,C012,fundamento_inviabilidade_extrauterina,(coluna nova),Rejeita,CF,J019
+426,casos.csv,C012,fundamento_dignidade_autonomia,(coluna nova),Rejeita,CF,J019
+427,casos.csv,C012,comparacao_com_anencefalia,(coluna nova),Distingue,CF,J019
+428,casos.csv,C012,cita_adpf54,(coluna nova),Sim,CF,J019
+429,casos.csv,C012,cita_hc_932495,(coluna nova),Não,CF,J019
+430,casos.csv,C012,forma_do_texto,(coluna nova),Inteiro teor colado no espelho,CF,J019
+431,casos.csv,C012,perda_de_objeto,(coluna nova),Não,CF,J019
+432,casos.csv,C012,observacao,A sentença indeferiu o alvará (J019). A apelação foi julgada em 2025 com perda superveniente do objeto (J020).,A sentença indeferiu o alvará (J019). A apelação foi julgada em 2025 com perda superveniente do objeto (J020). data_ultima_decisao não recuperável: o J020 não traz data de julgamento nem de publicação.,DP,J020
+433,casos.csv,C013,ig_momento,(coluna nova),Não consta,IG,Não aplicável
+434,casos.csv,C013,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J021
+435,casos.csv,C013,instancia,(coluna nova),2º grau,CF,J021
+436,casos.csv,C013,orgao_julgador,(coluna nova),2ª Câmara de Direito Privado do Tribunal de Justiça do Estado do Ceará (TJCE),CF,J021
+437,casos.csv,C013,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J021
+438,casos.csv,C013,art128_I,(coluna nova),Afastado,CF,J021
+439,casos.csv,C013,fundamento_risco_vida_gestante,(coluna nova),Rejeita,CF,J021
+440,casos.csv,C013,fundamento_inviabilidade_extrauterina,(coluna nova),Rejeita,CF,J021
+441,casos.csv,C013,fundamento_dignidade_autonomia,(coluna nova),Rejeita,CF,J021
+442,casos.csv,C013,comparacao_com_anencefalia,(coluna nova),Distingue,CF,J021
+443,casos.csv,C013,cita_adpf54,(coluna nova),Sim,CF,J021
+444,casos.csv,C013,cita_hc_932495,(coluna nova),Não,CF,J021
+445,casos.csv,C013,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J021
+446,casos.csv,C013,perda_de_objeto,(coluna nova),Não,CF,J021
+447,casos.csv,C014,ig_semanas,25 (julgamento),25,IG,J022
+448,casos.csv,C014,ig_momento,(coluna nova),Julgamento,IG,J022
+449,casos.csv,C014,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J022
+450,casos.csv,C014,instancia,(coluna nova),1º grau,CF,J022
+451,casos.csv,C014,orgao_julgador,(coluna nova),2ª Vara da Comarca de Trairi (TJCE),CF,J022
+452,casos.csv,C014,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J022
+453,casos.csv,C014,art128_I,(coluna nova),Mencionado sem exame,CF,J022
+454,casos.csv,C014,fundamento_risco_vida_gestante,(coluna nova),Não enfrenta,CF,J022
+455,casos.csv,C014,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J022
+456,casos.csv,C014,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J022
+457,casos.csv,C014,comparacao_com_anencefalia,(coluna nova),Equipara,CF,J022
+458,casos.csv,C014,cita_adpf54,(coluna nova),Sim,CF,J022
+459,casos.csv,C014,cita_hc_932495,(coluna nova),Não,CF,J022
+460,casos.csv,C014,forma_do_texto,(coluna nova),Inteiro teor colado no espelho,CF,J022
+461,casos.csv,C014,perda_de_objeto,(coluna nova),Não,CF,J022
+462,casos.csv,C015,ig_semanas,16 (pedido),16,IG,J023
+463,casos.csv,C015,ig_momento,(coluna nova),Pedido,IG,J023
+464,casos.csv,C015,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J023
+465,casos.csv,C015,instancia,(coluna nova),1º grau,CF,J023
+466,casos.csv,C015,orgao_julgador,(coluna nova),2ª Vara da Comarca de Trairi (TJCE),CF,J023
+467,casos.csv,C015,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J023
+468,casos.csv,C015,art128_I,(coluna nova),Mencionado sem exame,CF,J023
+469,casos.csv,C015,fundamento_risco_vida_gestante,(coluna nova),Não enfrenta,CF,J023
+470,casos.csv,C015,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J023
+471,casos.csv,C015,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J023
+472,casos.csv,C015,comparacao_com_anencefalia,(coluna nova),Equipara,CF,J023
+473,casos.csv,C015,cita_adpf54,(coluna nova),Sim,CF,J023
+474,casos.csv,C015,cita_hc_932495,(coluna nova),Não,CF,J023
+475,casos.csv,C015,forma_do_texto,(coluna nova),Inteiro teor colado no espelho,CF,J023
+476,casos.csv,C015,perda_de_objeto,(coluna nova),Não,CF,J023
+477,casos.csv,C016,ig_momento,(coluna nova),Não consta,IG,Não aplicável
+478,casos.csv,C016,fonte_dos_fundamentos,(coluna nova),Não aplicável,CF,Não aplicável
+479,casos.csv,C016,instancia,(coluna nova),Não aplicável,CF,Não aplicável
+480,casos.csv,C016,orgao_julgador,(coluna nova),Não aplicável,CF,Não aplicável
+481,casos.csv,C016,via_processual,(coluna nova),Não aplicável,CF,Não aplicável
+482,casos.csv,C016,art128_I,(coluna nova),Não aplicável,CF,Não aplicável
+483,casos.csv,C016,fundamento_risco_vida_gestante,(coluna nova),Não aplicável,CF,Não aplicável
+484,casos.csv,C016,fundamento_inviabilidade_extrauterina,(coluna nova),Não aplicável,CF,Não aplicável
+485,casos.csv,C016,fundamento_dignidade_autonomia,(coluna nova),Não aplicável,CF,Não aplicável
+486,casos.csv,C016,comparacao_com_anencefalia,(coluna nova),Não aplicável,CF,Não aplicável
+487,casos.csv,C016,cita_adpf54,(coluna nova),Não aplicável,CF,Não aplicável
+488,casos.csv,C016,cita_hc_932495,(coluna nova),Não aplicável,CF,Não aplicável
+489,casos.csv,C016,forma_do_texto,(coluna nova),Não aplicável,CF,Não aplicável
+490,casos.csv,C016,perda_de_objeto,(coluna nova),Não aplicável,CF,Não aplicável
+491,casos.csv,C016,observacao,Não aplicável,data_ultima_decisao não recuperável: o J024 não traz data de julgamento nem de publicação.,DP,J024
+492,casos.csv,C017,ig_semanas,14 (pedido),14,IG,J025
+493,casos.csv,C017,ig_momento,(coluna nova),Pedido,IG,J025
+494,casos.csv,C017,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J025
+495,casos.csv,C017,instancia,(coluna nova),1º grau,CF,J025
+496,casos.csv,C017,orgao_julgador,(coluna nova),1ª Vara Cível da Comarca de Eusébio (TJCE),CF,J025
+497,casos.csv,C017,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J025
+498,casos.csv,C017,art128_I,(coluna nova),Aplicado,CF,J025
+499,casos.csv,C017,fundamento_risco_vida_gestante,(coluna nova),Acolhe,CF,J025
+500,casos.csv,C017,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J025
+501,casos.csv,C017,fundamento_dignidade_autonomia,(coluna nova),Não enfrenta,CF,J025
+502,casos.csv,C017,comparacao_com_anencefalia,(coluna nova),Não faz,CF,J025
+503,casos.csv,C017,cita_adpf54,(coluna nova),Não,CF,J025
+504,casos.csv,C017,cita_hc_932495,(coluna nova),Não,CF,J025
+505,casos.csv,C017,forma_do_texto,(coluna nova),Inteiro teor colado no espelho,CF,J025
+506,casos.csv,C017,perda_de_objeto,(coluna nova),Não,CF,J025
+507,casos.csv,C018,ig_momento,(coluna nova),Não consta,IG,Não aplicável
+508,casos.csv,C018,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J026
+509,casos.csv,C018,instancia,(coluna nova),1º grau,CF,J026
+510,casos.csv,C018,orgao_julgador,(coluna nova),Vara Única da Comarca de Orós (TJCE),CF,J026
+511,casos.csv,C018,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J026
+512,casos.csv,C018,art128_I,(coluna nova),Aplicado,CF,J026
+513,casos.csv,C018,fundamento_risco_vida_gestante,(coluna nova),Acolhe,CF,J026
+514,casos.csv,C018,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J026
+515,casos.csv,C018,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J026
+516,casos.csv,C018,comparacao_com_anencefalia,(coluna nova),Equipara,CF,J026
+517,casos.csv,C018,cita_adpf54,(coluna nova),Sim,CF,J026
+518,casos.csv,C018,cita_hc_932495,(coluna nova),Não,CF,J026
+519,casos.csv,C018,forma_do_texto,(coluna nova),Inteiro teor colado no espelho,CF,J026
+520,casos.csv,C018,perda_de_objeto,(coluna nova),Não,CF,J026
+521,casos.csv,C019,ig_semanas,17 (julgamento),17,IG,J027
+522,casos.csv,C019,ig_momento,(coluna nova),Julgamento,IG,J027
+523,casos.csv,C019,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J027
+524,casos.csv,C019,instancia,(coluna nova),1º grau,CF,J027
+525,casos.csv,C019,orgao_julgador,(coluna nova),38ª Vara Cível da Comarca de Fortaleza (TJCE),CF,J027
+526,casos.csv,C019,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J027
+527,casos.csv,C019,art128_I,(coluna nova),Mencionado sem exame,CF,J027
+528,casos.csv,C019,fundamento_risco_vida_gestante,(coluna nova),Não enfrenta,CF,J027
+529,casos.csv,C019,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J027
+530,casos.csv,C019,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J027
+531,casos.csv,C019,comparacao_com_anencefalia,(coluna nova),Equipara,CF,J027
+532,casos.csv,C019,cita_adpf54,(coluna nova),Sim,CF,J027
+533,casos.csv,C019,cita_hc_932495,(coluna nova),Não,CF,J027
+534,casos.csv,C019,forma_do_texto,(coluna nova),Inteiro teor colado no espelho,CF,J027
+535,casos.csv,C019,perda_de_objeto,(coluna nova),Não,CF,J027
+536,casos.csv,C020,ig_semanas,22 (julgamento),22,IG,J028
+537,casos.csv,C020,ig_momento,(coluna nova),Julgamento,IG,J028
+538,casos.csv,C020,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J028
+539,casos.csv,C020,instancia,(coluna nova),1º grau,CF,J028
+540,casos.csv,C020,orgao_julgador,(coluna nova),1ª Vara da Comarca de Cascavel (TJCE),CF,J028
+541,casos.csv,C020,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J028
+542,casos.csv,C020,art128_I,(coluna nova),Afastado,CF,J028
+543,casos.csv,C020,fundamento_risco_vida_gestante,(coluna nova),Rejeita,CF,J028
+544,casos.csv,C020,fundamento_inviabilidade_extrauterina,(coluna nova),Não enfrenta,CF,J028
+545,casos.csv,C020,fundamento_dignidade_autonomia,(coluna nova),Não enfrenta,CF,J028
+546,casos.csv,C020,comparacao_com_anencefalia,(coluna nova),Não faz,CF,J028
+547,casos.csv,C020,cita_adpf54,(coluna nova),Sim,CF,J028
+548,casos.csv,C020,cita_hc_932495,(coluna nova),Não,CF,J028
+549,casos.csv,C020,forma_do_texto,(coluna nova),Inteiro teor colado no espelho,CF,J028
+550,casos.csv,C020,perda_de_objeto,(coluna nova),Não,CF,J028
+551,casos.csv,C021,ig_momento,(coluna nova),Não consta,IG,Não aplicável
+552,casos.csv,C021,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J029
+553,casos.csv,C021,instancia,(coluna nova),2º grau,CF,J029
+554,casos.csv,C021,orgao_julgador,(coluna nova),9ª Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais (TJMG),CF,J029
+555,casos.csv,C021,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J029
+556,casos.csv,C021,art128_I,(coluna nova),Afastado,CF,J029
+557,casos.csv,C021,fundamento_risco_vida_gestante,(coluna nova),Rejeita,CF,J029
+558,casos.csv,C021,fundamento_inviabilidade_extrauterina,(coluna nova),Rejeita,CF,J029
+559,casos.csv,C021,fundamento_dignidade_autonomia,(coluna nova),Rejeita,CF,J029
+560,casos.csv,C021,comparacao_com_anencefalia,(coluna nova),Distingue,CF,J029
+561,casos.csv,C021,cita_adpf54,(coluna nova),Sim,CF,J029
+562,casos.csv,C021,cita_hc_932495,(coluna nova),Não,CF,J029
+563,casos.csv,C021,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J029
+564,casos.csv,C021,perda_de_objeto,(coluna nova),Não,CF,J029
+565,casos.csv,C022,ig_momento,(coluna nova),Não consta,IG,Não aplicável
+566,casos.csv,C022,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J030
+567,casos.csv,C022,instancia,(coluna nova),2º grau,CF,J030
+568,casos.csv,C022,orgao_julgador,(coluna nova),2ª Câmara Criminal do Tribunal de Justiça do Estado de Minas Gerais (TJMG),CF,J030
+569,casos.csv,C022,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J030
+570,casos.csv,C022,art128_I,(coluna nova),Aplicado,CF,J030
+571,casos.csv,C022,fundamento_risco_vida_gestante,(coluna nova),Não enfrenta,CF,J030
+572,casos.csv,C022,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J030
+573,casos.csv,C022,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J030
+574,casos.csv,C022,comparacao_com_anencefalia,(coluna nova),Não faz,CF,J030
+575,casos.csv,C022,cita_adpf54,(coluna nova),Não,CF,J030
+576,casos.csv,C022,cita_hc_932495,(coluna nova),Não,CF,J030
+577,casos.csv,C022,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J030
+578,casos.csv,C022,perda_de_objeto,(coluna nova),Não,CF,J030
+579,casos.csv,C023,ig_semanas,23 (pedido),23,IG,J031
+580,casos.csv,C023,ig_momento,(coluna nova),Pedido,IG,J031
+581,casos.csv,C023,fonte_dos_fundamentos,(coluna nova),Julgado que relata a decisão,CF,J031
+582,casos.csv,C023,instancia,(coluna nova),2º grau,CF,J031
+583,casos.csv,C023,orgao_julgador,(coluna nova),Relator na Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais (TJMG),CF,J031
+584,casos.csv,C023,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J031
+585,casos.csv,C023,art128_I,(coluna nova),Não mencionado,CF,J031
+586,casos.csv,C023,fundamento_risco_vida_gestante,(coluna nova),Não enfrenta,CF,J031
+587,casos.csv,C023,fundamento_inviabilidade_extrauterina,(coluna nova),Não enfrenta,CF,J031
+588,casos.csv,C023,fundamento_dignidade_autonomia,(coluna nova),Não enfrenta,CF,J031
+589,casos.csv,C023,comparacao_com_anencefalia,(coluna nova),Não faz,CF,J031
+590,casos.csv,C023,cita_adpf54,(coluna nova),Não,CF,J031
+591,casos.csv,C023,cita_hc_932495,(coluna nova),Não,CF,J031
+592,casos.csv,C023,forma_do_texto,(coluna nova),Inteiro teor colado no espelho,CF,J031
+593,casos.csv,C023,perda_de_objeto,(coluna nova),Sim,CF,J031
+594,casos.csv,C024,ig_semanas,20 (pedido),20,IG,J032
+595,casos.csv,C024,ig_momento,(coluna nova),Pedido,IG,J032
+596,casos.csv,C024,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J032
+597,casos.csv,C024,instancia,(coluna nova),2º grau,CF,J032
+598,casos.csv,C024,orgao_julgador,(coluna nova),2ª Câmara Criminal do Tribunal de Justiça do Estado de Minas Gerais (TJMG),CF,J032
+599,casos.csv,C024,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J032
+600,casos.csv,C024,art128_I,(coluna nova),Aplicado,CF,J032
+601,casos.csv,C024,fundamento_risco_vida_gestante,(coluna nova),Acolhe,CF,J032
+602,casos.csv,C024,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J032
+603,casos.csv,C024,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J032
+604,casos.csv,C024,comparacao_com_anencefalia,(coluna nova),Equipara,CF,J032
+605,casos.csv,C024,cita_adpf54,(coluna nova),Sim,CF,J032
+606,casos.csv,C024,cita_hc_932495,(coluna nova),Sim,CF,J032
+607,casos.csv,C024,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J032
+608,casos.csv,C024,perda_de_objeto,(coluna nova),Não,CF,J032
+609,casos.csv,C025,ig_momento,(coluna nova),Não consta,IG,Não aplicável
+610,casos.csv,C025,fonte_dos_fundamentos,(coluna nova),Não aplicável,CF,Não aplicável
+611,casos.csv,C025,instancia,(coluna nova),Não aplicável,CF,Não aplicável
+612,casos.csv,C025,orgao_julgador,(coluna nova),Não aplicável,CF,Não aplicável
+613,casos.csv,C025,via_processual,(coluna nova),Não aplicável,CF,Não aplicável
+614,casos.csv,C025,art128_I,(coluna nova),Não aplicável,CF,Não aplicável
+615,casos.csv,C025,fundamento_risco_vida_gestante,(coluna nova),Não aplicável,CF,Não aplicável
+616,casos.csv,C025,fundamento_inviabilidade_extrauterina,(coluna nova),Não aplicável,CF,Não aplicável
+617,casos.csv,C025,fundamento_dignidade_autonomia,(coluna nova),Não aplicável,CF,Não aplicável
+618,casos.csv,C025,comparacao_com_anencefalia,(coluna nova),Não aplicável,CF,Não aplicável
+619,casos.csv,C025,cita_adpf54,(coluna nova),Não aplicável,CF,Não aplicável
+620,casos.csv,C025,cita_hc_932495,(coluna nova),Não aplicável,CF,Não aplicável
+621,casos.csv,C025,forma_do_texto,(coluna nova),Não aplicável,CF,Não aplicável
+622,casos.csv,C025,perda_de_objeto,(coluna nova),Não aplicável,CF,Não aplicável
+623,casos.csv,C026,ig_semanas,28 (julgamento),28,IG,J034
+624,casos.csv,C026,ig_momento,(coluna nova),Julgamento,IG,J034
+625,casos.csv,C026,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J034
+626,casos.csv,C026,instancia,(coluna nova),2º grau,CF,J034
+627,casos.csv,C026,orgao_julgador,(coluna nova),9ª Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais (TJMG),CF,J034
+628,casos.csv,C026,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J034
+629,casos.csv,C026,art128_I,(coluna nova),Afastado,CF,J034
+630,casos.csv,C026,fundamento_risco_vida_gestante,(coluna nova),Rejeita,CF,J034
+631,casos.csv,C026,fundamento_inviabilidade_extrauterina,(coluna nova),Rejeita,CF,J034
+632,casos.csv,C026,fundamento_dignidade_autonomia,(coluna nova),Rejeita,CF,J034
+633,casos.csv,C026,comparacao_com_anencefalia,(coluna nova),Distingue,CF,J034
+634,casos.csv,C026,cita_adpf54,(coluna nova),Sim,CF,J034
+635,casos.csv,C026,cita_hc_932495,(coluna nova),Sim,CF,J034
+636,casos.csv,C026,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J034
+637,casos.csv,C026,perda_de_objeto,(coluna nova),Não,CF,J034
+638,casos.csv,C027,ig_semanas,27 (pedido),27,IG,J035
+639,casos.csv,C027,ig_momento,(coluna nova),Pedido,IG,J035
+640,casos.csv,C027,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J035
+641,casos.csv,C027,instancia,(coluna nova),2º grau,CF,J035
+642,casos.csv,C027,orgao_julgador,(coluna nova),13ª Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais (TJMG),CF,J035
+643,casos.csv,C027,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J035
+644,casos.csv,C027,art128_I,(coluna nova),Afastado,CF,J035
+645,casos.csv,C027,fundamento_risco_vida_gestante,(coluna nova),Rejeita,CF,J035
+646,casos.csv,C027,fundamento_inviabilidade_extrauterina,(coluna nova),Rejeita,CF,J035
+647,casos.csv,C027,fundamento_dignidade_autonomia,(coluna nova),Rejeita,CF,J035
+648,casos.csv,C027,comparacao_com_anencefalia,(coluna nova),Distingue,CF,J035
+649,casos.csv,C027,cita_adpf54,(coluna nova),Sim,CF,J035
+650,casos.csv,C027,cita_hc_932495,(coluna nova),Não,CF,J035
+651,casos.csv,C027,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J035
+652,casos.csv,C027,perda_de_objeto,(coluna nova),Não,CF,J035
+653,casos.csv,C028,ig_semanas,21 (pedido),21,IG,J036
+654,casos.csv,C028,ig_momento,(coluna nova),Pedido,IG,J036
+655,casos.csv,C028,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J036
+656,casos.csv,C028,instancia,(coluna nova),2º grau,CF,J036
+657,casos.csv,C028,orgao_julgador,(coluna nova),15ª Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais (TJMG),CF,J036
+658,casos.csv,C028,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J036
+659,casos.csv,C028,art128_I,(coluna nova),Risco discutido sem o artigo,CF,J036
+660,casos.csv,C028,fundamento_risco_vida_gestante,(coluna nova),Acolhe,CF,J036
+661,casos.csv,C028,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J036
+662,casos.csv,C028,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J036
+663,casos.csv,C028,comparacao_com_anencefalia,(coluna nova),Equipara,CF,J036
+664,casos.csv,C028,cita_adpf54,(coluna nova),Sim,CF,J036
+665,casos.csv,C028,cita_hc_932495,(coluna nova),Não,CF,J036
+666,casos.csv,C028,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J036
+667,casos.csv,C028,perda_de_objeto,(coluna nova),Não,CF,J036
+668,casos.csv,C029,ig_momento,(coluna nova),Não consta,IG,Não aplicável
+669,casos.csv,C029,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J037
+670,casos.csv,C029,instancia,(coluna nova),2º grau,CF,J037
+671,casos.csv,C029,orgao_julgador,(coluna nova),18ª Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais (TJMG),CF,J037
+672,casos.csv,C029,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J037
+673,casos.csv,C029,art128_I,(coluna nova),Afastado,CF,J037
+674,casos.csv,C029,fundamento_risco_vida_gestante,(coluna nova),Rejeita,CF,J037
+675,casos.csv,C029,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J037
+676,casos.csv,C029,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J037
+677,casos.csv,C029,comparacao_com_anencefalia,(coluna nova),Equipara,CF,J037
+678,casos.csv,C029,cita_adpf54,(coluna nova),Sim,CF,J037
+679,casos.csv,C029,cita_hc_932495,(coluna nova),Não,CF,J037
+680,casos.csv,C029,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J037
+681,casos.csv,C029,perda_de_objeto,(coluna nova),Não,CF,J037
+682,casos.csv,C030,ig_momento,(coluna nova),Não consta,IG,Não aplicável
+683,casos.csv,C030,fonte_dos_fundamentos,(coluna nova),Não aplicável,CF,Não aplicável
+684,casos.csv,C030,instancia,(coluna nova),Não aplicável,CF,Não aplicável
+685,casos.csv,C030,orgao_julgador,(coluna nova),Não aplicável,CF,Não aplicável
+686,casos.csv,C030,via_processual,(coluna nova),Não aplicável,CF,Não aplicável
+687,casos.csv,C030,art128_I,(coluna nova),Não aplicável,CF,Não aplicável
+688,casos.csv,C030,fundamento_risco_vida_gestante,(coluna nova),Não aplicável,CF,Não aplicável
+689,casos.csv,C030,fundamento_inviabilidade_extrauterina,(coluna nova),Não aplicável,CF,Não aplicável
+690,casos.csv,C030,fundamento_dignidade_autonomia,(coluna nova),Não aplicável,CF,Não aplicável
+691,casos.csv,C030,comparacao_com_anencefalia,(coluna nova),Não aplicável,CF,Não aplicável
+692,casos.csv,C030,cita_adpf54,(coluna nova),Não aplicável,CF,Não aplicável
+693,casos.csv,C030,cita_hc_932495,(coluna nova),Não aplicável,CF,Não aplicável
+694,casos.csv,C030,forma_do_texto,(coluna nova),Não aplicável,CF,Não aplicável
+695,casos.csv,C030,perda_de_objeto,(coluna nova),Não aplicável,CF,Não aplicável
+696,casos.csv,C031,ig_momento,(coluna nova),Não consta,IG,Não aplicável
+697,casos.csv,C031,fonte_dos_fundamentos,(coluna nova),Não aplicável,CF,Não aplicável
+698,casos.csv,C031,instancia,(coluna nova),Não aplicável,CF,Não aplicável
+699,casos.csv,C031,orgao_julgador,(coluna nova),Não aplicável,CF,Não aplicável
+700,casos.csv,C031,via_processual,(coluna nova),Não aplicável,CF,Não aplicável
+701,casos.csv,C031,art128_I,(coluna nova),Não aplicável,CF,Não aplicável
+702,casos.csv,C031,fundamento_risco_vida_gestante,(coluna nova),Não aplicável,CF,Não aplicável
+703,casos.csv,C031,fundamento_inviabilidade_extrauterina,(coluna nova),Não aplicável,CF,Não aplicável
+704,casos.csv,C031,fundamento_dignidade_autonomia,(coluna nova),Não aplicável,CF,Não aplicável
+705,casos.csv,C031,comparacao_com_anencefalia,(coluna nova),Não aplicável,CF,Não aplicável
+706,casos.csv,C031,cita_adpf54,(coluna nova),Não aplicável,CF,Não aplicável
+707,casos.csv,C031,cita_hc_932495,(coluna nova),Não aplicável,CF,Não aplicável
+708,casos.csv,C031,forma_do_texto,(coluna nova),Não aplicável,CF,Não aplicável
+709,casos.csv,C031,perda_de_objeto,(coluna nova),Não aplicável,CF,Não aplicável
+710,casos.csv,C032,ig_momento,(coluna nova),Não consta,IG,Não aplicável
+711,casos.csv,C032,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J040
+712,casos.csv,C032,instancia,(coluna nova),2º grau,CF,J040
+713,casos.csv,C032,orgao_julgador,(coluna nova),1ª Câmara Criminal do Tribunal de Justiça do Estado do Paraná (TJPR),CF,J040
+714,casos.csv,C032,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J040
+715,casos.csv,C032,art128_I,(coluna nova),Não mencionado,CF,J040
+716,casos.csv,C032,fundamento_risco_vida_gestante,(coluna nova),Não enfrenta,CF,J040
+717,casos.csv,C032,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J040
+718,casos.csv,C032,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J040
+719,casos.csv,C032,comparacao_com_anencefalia,(coluna nova),Equipara,CF,J040
+720,casos.csv,C032,cita_adpf54,(coluna nova),Sim,CF,J040
+721,casos.csv,C032,cita_hc_932495,(coluna nova),Não acessível,CF,J040
+722,casos.csv,C032,forma_do_texto,(coluna nova),Apenas ementa,CF,J040
+723,casos.csv,C032,perda_de_objeto,(coluna nova),Não acessível,CF,J040
+724,casos.csv,C033,ig_momento,(coluna nova),Não consta,IG,Não aplicável
+725,casos.csv,C033,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J041
+726,casos.csv,C033,instancia,(coluna nova),2º grau,CF,J041
+727,casos.csv,C033,orgao_julgador,(coluna nova),1ª Câmara Criminal do Tribunal de Justiça do Estado do Paraná (TJPR),CF,J041
+728,casos.csv,C033,via_processual,(coluna nova),Impugnação da autorização,CF,J041
+729,casos.csv,C033,art128_I,(coluna nova),Aplicado,CF,J041
+730,casos.csv,C033,fundamento_risco_vida_gestante,(coluna nova),Acolhe,CF,J041
+731,casos.csv,C033,fundamento_inviabilidade_extrauterina,(coluna nova),Não acessível,CF,J041
+732,casos.csv,C033,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J041
+733,casos.csv,C033,comparacao_com_anencefalia,(coluna nova),Não acessível,CF,J041
+734,casos.csv,C033,cita_adpf54,(coluna nova),Não acessível,CF,J041
+735,casos.csv,C033,cita_hc_932495,(coluna nova),Não acessível,CF,J041
+736,casos.csv,C033,forma_do_texto,(coluna nova),Apenas ementa,CF,J041
+737,casos.csv,C033,perda_de_objeto,(coluna nova),Não acessível,CF,J041
+738,casos.csv,C034,ig_semanas,16 (não especificado),16,IG,J042
+739,casos.csv,C034,ig_momento,(coluna nova),Não especificado,IG,J042
+740,casos.csv,C034,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J042
+741,casos.csv,C034,instancia,(coluna nova),2º grau,CF,J042
+742,casos.csv,C034,orgao_julgador,(coluna nova),1ª Câmara Criminal do Tribunal de Justiça do Estado do Paraná (TJPR),CF,J042
+743,casos.csv,C034,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J042
+744,casos.csv,C034,art128_I,(coluna nova),Mencionado sem exame,CF,J042
+745,casos.csv,C034,fundamento_risco_vida_gestante,(coluna nova),Não enfrenta,CF,J042
+746,casos.csv,C034,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J042
+747,casos.csv,C034,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J042
+748,casos.csv,C034,comparacao_com_anencefalia,(coluna nova),Não acessível,CF,J042
+749,casos.csv,C034,cita_adpf54,(coluna nova),Não acessível,CF,J042
+750,casos.csv,C034,cita_hc_932495,(coluna nova),Não acessível,CF,J042
+751,casos.csv,C034,forma_do_texto,(coluna nova),Apenas ementa,CF,J042
+752,casos.csv,C034,perda_de_objeto,(coluna nova),Não,CF,J042
+753,casos.csv,C035,ig_semanas,20 (pedido),20,IG,J043
+754,casos.csv,C035,ig_momento,(coluna nova),Pedido,IG,J043
+755,casos.csv,C035,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J043
+756,casos.csv,C035,instancia,(coluna nova),2º grau,CF,J043
+757,casos.csv,C035,orgao_julgador,(coluna nova),1ª Câmara Criminal do Tribunal de Justiça do Estado do Paraná (TJPR),CF,J043
+758,casos.csv,C035,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J043
+759,casos.csv,C035,art128_I,(coluna nova),Mencionado sem exame,CF,J043
+760,casos.csv,C035,fundamento_risco_vida_gestante,(coluna nova),Não enfrenta,CF,J043
+761,casos.csv,C035,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J043
+762,casos.csv,C035,fundamento_dignidade_autonomia,(coluna nova),Não enfrenta,CF,J043
+763,casos.csv,C035,comparacao_com_anencefalia,(coluna nova),Equipara,CF,J043
+764,casos.csv,C035,cita_adpf54,(coluna nova),Sim,CF,J043
+765,casos.csv,C035,cita_hc_932495,(coluna nova),Não,CF,J043
+766,casos.csv,C035,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J043
+767,casos.csv,C035,perda_de_objeto,(coluna nova),Não,CF,J043
+768,casos.csv,C036,ig_momento,(coluna nova),Não consta,IG,Não aplicável
+769,casos.csv,C036,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J044
+770,casos.csv,C036,instancia,(coluna nova),2º grau,CF,J044
+771,casos.csv,C036,orgao_julgador,(coluna nova),1ª Câmara Criminal do Tribunal de Justiça do Estado do Paraná (TJPR),CF,J044
+772,casos.csv,C036,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J044
+773,casos.csv,C036,art128_I,(coluna nova),Risco discutido sem o artigo,CF,J044
+774,casos.csv,C036,fundamento_risco_vida_gestante,(coluna nova),Acolhe,CF,J044
+775,casos.csv,C036,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J044
+776,casos.csv,C036,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J044
+777,casos.csv,C036,comparacao_com_anencefalia,(coluna nova),Equipara,CF,J044
+778,casos.csv,C036,cita_adpf54,(coluna nova),Sim,CF,J044
+779,casos.csv,C036,cita_hc_932495,(coluna nova),Não,CF,J044
+780,casos.csv,C036,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J044
+781,casos.csv,C036,perda_de_objeto,(coluna nova),Não,CF,J044
+782,casos.csv,C037,ig_momento,(coluna nova),Não consta,IG,Não aplicável
+783,casos.csv,C037,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J045
+784,casos.csv,C037,instancia,(coluna nova),2º grau,CF,J045
+785,casos.csv,C037,orgao_julgador,(coluna nova),3ª Câmara Criminal do Tribunal de Justiça do Estado do Rio de Janeiro (TJRJ),CF,J045
+786,casos.csv,C037,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J045
+787,casos.csv,C037,art128_I,(coluna nova),Não mencionado,CF,J045
+788,casos.csv,C037,fundamento_risco_vida_gestante,(coluna nova),Não enfrenta,CF,J045
+789,casos.csv,C037,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J045
+790,casos.csv,C037,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J045
+791,casos.csv,C037,comparacao_com_anencefalia,(coluna nova),Equipara,CF,J045
+792,casos.csv,C037,cita_adpf54,(coluna nova),Sim,CF,J045
+793,casos.csv,C037,cita_hc_932495,(coluna nova),Não,CF,J045
+794,casos.csv,C037,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J045
+795,casos.csv,C037,perda_de_objeto,(coluna nova),Não,CF,J045
+796,casos.csv,C038,ig_momento,(coluna nova),Não consta,IG,Não aplicável
+797,casos.csv,C038,fonte_dos_fundamentos,(coluna nova),Não aplicável,CF,Não aplicável
+798,casos.csv,C038,instancia,(coluna nova),Não aplicável,CF,Não aplicável
+799,casos.csv,C038,orgao_julgador,(coluna nova),Não aplicável,CF,Não aplicável
+800,casos.csv,C038,via_processual,(coluna nova),Não aplicável,CF,Não aplicável
+801,casos.csv,C038,art128_I,(coluna nova),Não aplicável,CF,Não aplicável
+802,casos.csv,C038,fundamento_risco_vida_gestante,(coluna nova),Não aplicável,CF,Não aplicável
+803,casos.csv,C038,fundamento_inviabilidade_extrauterina,(coluna nova),Não aplicável,CF,Não aplicável
+804,casos.csv,C038,fundamento_dignidade_autonomia,(coluna nova),Não aplicável,CF,Não aplicável
+805,casos.csv,C038,comparacao_com_anencefalia,(coluna nova),Não aplicável,CF,Não aplicável
+806,casos.csv,C038,cita_adpf54,(coluna nova),Não aplicável,CF,Não aplicável
+807,casos.csv,C038,cita_hc_932495,(coluna nova),Não aplicável,CF,Não aplicável
+808,casos.csv,C038,forma_do_texto,(coluna nova),Não aplicável,CF,Não aplicável
+809,casos.csv,C038,perda_de_objeto,(coluna nova),Não aplicável,CF,Não aplicável
+810,casos.csv,C039,ig_semanas,15 (diagnóstico),15,IG,J048
+811,casos.csv,C039,ig_momento,(coluna nova),Diagnóstico,IG,J048
+812,casos.csv,C039,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J048
+813,casos.csv,C039,instancia,(coluna nova),2º grau,CF,J048
+814,casos.csv,C039,orgao_julgador,(coluna nova),1ª Câmara Criminal do Tribunal de Justiça do Estado do Rio de Janeiro (TJRJ),CF,J048
+815,casos.csv,C039,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J048
+816,casos.csv,C039,art128_I,(coluna nova),Aplicado,CF,J048
+817,casos.csv,C039,fundamento_risco_vida_gestante,(coluna nova),Acolhe,CF,J048
+818,casos.csv,C039,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J048
+819,casos.csv,C039,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J048
+820,casos.csv,C039,comparacao_com_anencefalia,(coluna nova),Não faz,CF,J048
+821,casos.csv,C039,cita_adpf54,(coluna nova),Não,CF,J048
+822,casos.csv,C039,cita_hc_932495,(coluna nova),Não,CF,J048
+823,casos.csv,C039,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J048
+824,casos.csv,C039,perda_de_objeto,(coluna nova),Não,CF,J048
+825,casos.csv,C040,ig_momento,(coluna nova),Não consta,IG,Não aplicável
+826,casos.csv,C040,fonte_dos_fundamentos,(coluna nova),Julgado que relata a decisão,CF,J049
+827,casos.csv,C040,instancia,(coluna nova),2º grau,CF,J049
+828,casos.csv,C040,orgao_julgador,(coluna nova),7ª Câmara Criminal do Tribunal de Justiça do Estado do Rio de Janeiro (TJRJ),CF,J049
+829,casos.csv,C040,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J049
+830,casos.csv,C040,art128_I,(coluna nova),Mencionado sem exame,CF,J049
+831,casos.csv,C040,fundamento_risco_vida_gestante,(coluna nova),Não enfrenta,CF,J049
+832,casos.csv,C040,fundamento_inviabilidade_extrauterina,(coluna nova),Não enfrenta,CF,J049
+833,casos.csv,C040,fundamento_dignidade_autonomia,(coluna nova),Não enfrenta,CF,J049
+834,casos.csv,C040,comparacao_com_anencefalia,(coluna nova),Não faz,CF,J049
+835,casos.csv,C040,cita_adpf54,(coluna nova),Sim,CF,J049
+836,casos.csv,C040,cita_hc_932495,(coluna nova),Não,CF,J049
+837,casos.csv,C040,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J049
+838,casos.csv,C040,perda_de_objeto,(coluna nova),Não,CF,J049
+839,casos.csv,C040,observacao,Não aplicável,data_ultima_decisao não recuperável: o J049 não traz data de julgamento nem de publicação.,DP,J049
+840,casos.csv,C041,ig_semanas,30 (não especificado),30,IG,J050
+841,casos.csv,C041,ig_momento,(coluna nova),Não especificado,IG,J050
+842,casos.csv,C041,fonte_dos_fundamentos,(coluna nova),Julgado que relata a decisão,CF,J050
+843,casos.csv,C041,instancia,(coluna nova),2º grau,CF,J050
+844,casos.csv,C041,orgao_julgador,(coluna nova),Relatora na 5ª Câmara Criminal do Tribunal de Justiça do Estado do Rio de Janeiro (TJRJ),CF,J050
+845,casos.csv,C041,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J050
+846,casos.csv,C041,art128_I,(coluna nova),Não mencionado,CF,J050
+847,casos.csv,C041,fundamento_risco_vida_gestante,(coluna nova),Não enfrenta,CF,J050
+848,casos.csv,C041,fundamento_inviabilidade_extrauterina,(coluna nova),Não enfrenta,CF,J050
+849,casos.csv,C041,fundamento_dignidade_autonomia,(coluna nova),Não enfrenta,CF,J050
+850,casos.csv,C041,comparacao_com_anencefalia,(coluna nova),Não faz,CF,J050
+851,casos.csv,C041,cita_adpf54,(coluna nova),Não,CF,J050
+852,casos.csv,C041,cita_hc_932495,(coluna nova),Não,CF,J050
+853,casos.csv,C041,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J050
+854,casos.csv,C041,perda_de_objeto,(coluna nova),Sim,CF,J050
+855,casos.csv,C042,ig_momento,(coluna nova),Não consta,IG,Não aplicável
+856,casos.csv,C042,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J051
+857,casos.csv,C042,instancia,(coluna nova),2º grau,CF,J051
+858,casos.csv,C042,orgao_julgador,(coluna nova),1ª Câmara Criminal do Tribunal de Justiça do Estado do Rio de Janeiro (TJRJ),CF,J051
+859,casos.csv,C042,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J051
+860,casos.csv,C042,art128_I,(coluna nova),Risco discutido sem o artigo,CF,J051
+861,casos.csv,C042,fundamento_risco_vida_gestante,(coluna nova),Acolhe,CF,J051
+862,casos.csv,C042,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J051
+863,casos.csv,C042,fundamento_dignidade_autonomia,(coluna nova),Não acessível,CF,J051
+864,casos.csv,C042,comparacao_com_anencefalia,(coluna nova),Equipara,CF,J051
+865,casos.csv,C042,cita_adpf54,(coluna nova),Sim,CF,J051
+866,casos.csv,C042,cita_hc_932495,(coluna nova),Não acessível,CF,J051
+867,casos.csv,C042,forma_do_texto,(coluna nova),Apenas ementa,CF,J051
+868,casos.csv,C042,perda_de_objeto,(coluna nova),Não acessível,CF,J051
+869,casos.csv,C043,ig_semanas,23 (pedido),23,IG,J052
+870,casos.csv,C043,ig_momento,(coluna nova),Pedido,IG,J052
+871,casos.csv,C043,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J052
+872,casos.csv,C043,instancia,(coluna nova),2º grau,CF,J052
+873,casos.csv,C043,orgao_julgador,(coluna nova),3ª Câmara Criminal do Tribunal de Justiça do Estado do Rio Grande do Sul (TJRS),CF,J052
+874,casos.csv,C043,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J052
+875,casos.csv,C043,art128_I,(coluna nova),Afastado,CF,J052
+876,casos.csv,C043,fundamento_risco_vida_gestante,(coluna nova),Rejeita,CF,J052
+877,casos.csv,C043,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J052
+878,casos.csv,C043,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J052
+879,casos.csv,C043,comparacao_com_anencefalia,(coluna nova),Equipara,CF,J052
+880,casos.csv,C043,cita_adpf54,(coluna nova),Sim,CF,J052
+881,casos.csv,C043,cita_hc_932495,(coluna nova),Não,CF,J052
+882,casos.csv,C043,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J052
+883,casos.csv,C043,perda_de_objeto,(coluna nova),Não,CF,J052
+884,casos.csv,C044,ig_semanas,23 (pedido),23,IG,J054
+885,casos.csv,C044,ig_momento,(coluna nova),Pedido,IG,J054
+886,casos.csv,C044,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J053
+887,casos.csv,C044,instancia,(coluna nova),2º grau,CF,J053
+888,casos.csv,C044,orgao_julgador,(coluna nova),3ª Câmara Criminal do Tribunal de Justiça do Estado do Rio Grande do Sul (TJRS),CF,J053
+889,casos.csv,C044,via_processual,(coluna nova),Impugnação da autorização,CF,J053
+890,casos.csv,C044,art128_I,(coluna nova),Aplicado,CF,J053
+891,casos.csv,C044,fundamento_risco_vida_gestante,(coluna nova),Acolhe,CF,J053
+892,casos.csv,C044,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J053
+893,casos.csv,C044,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J053
+894,casos.csv,C044,comparacao_com_anencefalia,(coluna nova),Não faz,CF,J053
+895,casos.csv,C044,cita_adpf54,(coluna nova),Não,CF,J053
+896,casos.csv,C044,cita_hc_932495,(coluna nova),Não,CF,J053
+897,casos.csv,C044,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J053
+898,casos.csv,C044,perda_de_objeto,(coluna nova),Não,CF,J053
+899,casos.csv,C045,ig_semanas,22 (pedido),22,IG,J055
+900,casos.csv,C045,ig_momento,(coluna nova),Pedido,IG,J055
+901,casos.csv,C045,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J055
+902,casos.csv,C045,instancia,(coluna nova),2º grau,CF,J055
+903,casos.csv,C045,orgao_julgador,(coluna nova),3ª Câmara Criminal do Tribunal de Justiça do Estado do Rio Grande do Sul (TJRS),CF,J055
+904,casos.csv,C045,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J055
+905,casos.csv,C045,art128_I,(coluna nova),Mencionado sem exame,CF,J055
+906,casos.csv,C045,fundamento_risco_vida_gestante,(coluna nova),Não enfrenta,CF,J055
+907,casos.csv,C045,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J055
+908,casos.csv,C045,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J055
+909,casos.csv,C045,comparacao_com_anencefalia,(coluna nova),Equipara,CF,J055
+910,casos.csv,C045,cita_adpf54,(coluna nova),Sim,CF,J055
+911,casos.csv,C045,cita_hc_932495,(coluna nova),Não,CF,J055
+912,casos.csv,C045,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J055
+913,casos.csv,C045,perda_de_objeto,(coluna nova),Não,CF,J055
+914,casos.csv,C046,ig_semanas,25 (diagnóstico),25,IG,J056
+915,casos.csv,C046,ig_momento,(coluna nova),Diagnóstico,IG,J056
+916,casos.csv,C046,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J056
+917,casos.csv,C046,instancia,(coluna nova),2º grau,CF,J056
+918,casos.csv,C046,orgao_julgador,(coluna nova),3ª Câmara Criminal do Tribunal de Justiça do Estado do Rio Grande do Sul (TJRS),CF,J056
+919,casos.csv,C046,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J056
+920,casos.csv,C046,art128_I,(coluna nova),Afastado,CF,J056
+921,casos.csv,C046,fundamento_risco_vida_gestante,(coluna nova),Rejeita,CF,J056
+922,casos.csv,C046,fundamento_inviabilidade_extrauterina,(coluna nova),Rejeita,CF,J056
+923,casos.csv,C046,fundamento_dignidade_autonomia,(coluna nova),Rejeita,CF,J056
+924,casos.csv,C046,comparacao_com_anencefalia,(coluna nova),Distingue,CF,J056
+925,casos.csv,C046,cita_adpf54,(coluna nova),Sim,CF,J056
+926,casos.csv,C046,cita_hc_932495,(coluna nova),Não,CF,J056
+927,casos.csv,C046,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J056
+928,casos.csv,C046,perda_de_objeto,(coluna nova),Não,CF,J056
+929,casos.csv,C047,ig_momento,(coluna nova),Não consta,IG,Não aplicável
+930,casos.csv,C047,fonte_dos_fundamentos,(coluna nova),Julgado que relata a decisão,CF,J057
+931,casos.csv,C047,instancia,(coluna nova),2º grau,CF,J057
+932,casos.csv,C047,orgao_julgador,(coluna nova),3ª Câmara Criminal do Tribunal de Justiça do Estado do Rio Grande do Sul (TJRS),CF,J057
+933,casos.csv,C047,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J057
+934,casos.csv,C047,art128_I,(coluna nova),Não mencionado,CF,J057
+935,casos.csv,C047,fundamento_risco_vida_gestante,(coluna nova),Não enfrenta,CF,J057
+936,casos.csv,C047,fundamento_inviabilidade_extrauterina,(coluna nova),Não enfrenta,CF,J057
+937,casos.csv,C047,fundamento_dignidade_autonomia,(coluna nova),Não enfrenta,CF,J057
+938,casos.csv,C047,comparacao_com_anencefalia,(coluna nova),Não faz,CF,J057
+939,casos.csv,C047,cita_adpf54,(coluna nova),Não,CF,J057
+940,casos.csv,C047,cita_hc_932495,(coluna nova),Não,CF,J057
+941,casos.csv,C047,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J057
+942,casos.csv,C047,perda_de_objeto,(coluna nova),Sim,CF,J057
+943,casos.csv,C048,ig_semanas,28 (pedido),28,IG,J058
+944,casos.csv,C048,ig_momento,(coluna nova),Pedido,IG,J058
+945,casos.csv,C048,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J058
+946,casos.csv,C048,instancia,(coluna nova),2º grau,CF,J058
+947,casos.csv,C048,orgao_julgador,(coluna nova),1ª Câmara Criminal do Tribunal de Justiça do Estado do Rio Grande do Sul (TJRS),CF,J058
+948,casos.csv,C048,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J058
+949,casos.csv,C048,art128_I,(coluna nova),Afastado,CF,J058
+950,casos.csv,C048,fundamento_risco_vida_gestante,(coluna nova),Rejeita,CF,J058
+951,casos.csv,C048,fundamento_inviabilidade_extrauterina,(coluna nova),Rejeita,CF,J058
+952,casos.csv,C048,fundamento_dignidade_autonomia,(coluna nova),Rejeita,CF,J058
+953,casos.csv,C048,comparacao_com_anencefalia,(coluna nova),Distingue,CF,J058
+954,casos.csv,C048,cita_adpf54,(coluna nova),Sim,CF,J058
+955,casos.csv,C048,cita_hc_932495,(coluna nova),Não,CF,J058
+956,casos.csv,C048,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J058
+957,casos.csv,C048,perda_de_objeto,(coluna nova),Não,CF,J058
+958,casos.csv,C049,ig_momento,(coluna nova),Não consta,IG,Não aplicável
+959,casos.csv,C049,fonte_dos_fundamentos,(coluna nova),Não aplicável,CF,Não aplicável
+960,casos.csv,C049,instancia,(coluna nova),Não aplicável,CF,Não aplicável
+961,casos.csv,C049,orgao_julgador,(coluna nova),Não aplicável,CF,Não aplicável
+962,casos.csv,C049,via_processual,(coluna nova),Não aplicável,CF,Não aplicável
+963,casos.csv,C049,art128_I,(coluna nova),Não aplicável,CF,Não aplicável
+964,casos.csv,C049,fundamento_risco_vida_gestante,(coluna nova),Não aplicável,CF,Não aplicável
+965,casos.csv,C049,fundamento_inviabilidade_extrauterina,(coluna nova),Não aplicável,CF,Não aplicável
+966,casos.csv,C049,fundamento_dignidade_autonomia,(coluna nova),Não aplicável,CF,Não aplicável
+967,casos.csv,C049,comparacao_com_anencefalia,(coluna nova),Não aplicável,CF,Não aplicável
+968,casos.csv,C049,cita_adpf54,(coluna nova),Não aplicável,CF,Não aplicável
+969,casos.csv,C049,cita_hc_932495,(coluna nova),Não aplicável,CF,Não aplicável
+970,casos.csv,C049,forma_do_texto,(coluna nova),Não aplicável,CF,Não aplicável
+971,casos.csv,C049,perda_de_objeto,(coluna nova),Não aplicável,CF,Não aplicável
+972,casos.csv,C050,ig_semanas,24 (diagnóstico),24,IG,J060
+973,casos.csv,C050,ig_momento,(coluna nova),Diagnóstico,IG,J060
+974,casos.csv,C050,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J060
+975,casos.csv,C050,instancia,(coluna nova),2º grau,CF,J060
+976,casos.csv,C050,orgao_julgador,(coluna nova),3ª Câmara Criminal do Tribunal de Justiça do Estado do Rio Grande do Sul (TJRS),CF,J060
+977,casos.csv,C050,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J060
+978,casos.csv,C050,art128_I,(coluna nova),Afastado,CF,J060
+979,casos.csv,C050,fundamento_risco_vida_gestante,(coluna nova),Rejeita,CF,J060
+980,casos.csv,C050,fundamento_inviabilidade_extrauterina,(coluna nova),Rejeita,CF,J060
+981,casos.csv,C050,fundamento_dignidade_autonomia,(coluna nova),Não enfrenta,CF,J060
+982,casos.csv,C050,comparacao_com_anencefalia,(coluna nova),Distingue,CF,J060
+983,casos.csv,C050,cita_adpf54,(coluna nova),Sim,CF,J060
+984,casos.csv,C050,cita_hc_932495,(coluna nova),Não,CF,J060
+985,casos.csv,C050,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J060
+986,casos.csv,C050,perda_de_objeto,(coluna nova),Não,CF,J060
+987,casos.csv,C051,ig_semanas,32 (pedido),32,IG,J061
+988,casos.csv,C051,ig_momento,(coluna nova),Pedido,IG,J061
+989,casos.csv,C051,fonte_dos_fundamentos,(coluna nova),Julgado que relata a decisão,CF,J061
+990,casos.csv,C051,instancia,(coluna nova),2º grau,CF,J061
+991,casos.csv,C051,orgao_julgador,(coluna nova),1ª Câmara Criminal do Tribunal de Justiça do Estado do Rio Grande do Sul (TJRS),CF,J061
+992,casos.csv,C051,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J061
+993,casos.csv,C051,art128_I,(coluna nova),Não mencionado,CF,J061
+994,casos.csv,C051,fundamento_risco_vida_gestante,(coluna nova),Não enfrenta,CF,J061
+995,casos.csv,C051,fundamento_inviabilidade_extrauterina,(coluna nova),Não enfrenta,CF,J061
+996,casos.csv,C051,fundamento_dignidade_autonomia,(coluna nova),Não enfrenta,CF,J061
+997,casos.csv,C051,comparacao_com_anencefalia,(coluna nova),Não faz,CF,J061
+998,casos.csv,C051,cita_adpf54,(coluna nova),Não,CF,J061
+999,casos.csv,C051,cita_hc_932495,(coluna nova),Não,CF,J061
+1000,casos.csv,C051,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J061
+1001,casos.csv,C051,perda_de_objeto,(coluna nova),Sim,CF,J061
+1002,casos.csv,C052,ig_momento,(coluna nova),Não consta,IG,Não aplicável
+1003,casos.csv,C052,data_ultima_decisao,Não consta,20/04/2016,DP,J062
+1004,casos.csv,C052,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J062
+1005,casos.csv,C052,instancia,(coluna nova),2º grau,CF,J062
+1006,casos.csv,C052,orgao_julgador,(coluna nova),1ª Câmara Criminal do Tribunal de Justiça do Estado de Santa Catarina (TJSC),CF,J062
+1007,casos.csv,C052,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J062
+1008,casos.csv,C052,art128_I,(coluna nova),Aplicado,CF,J062
+1009,casos.csv,C052,fundamento_risco_vida_gestante,(coluna nova),Acolhe,CF,J062
+1010,casos.csv,C052,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J062
+1011,casos.csv,C052,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J062
+1012,casos.csv,C052,comparacao_com_anencefalia,(coluna nova),Equipara,CF,J062
+1013,casos.csv,C052,cita_adpf54,(coluna nova),Sim,CF,J062
+1014,casos.csv,C052,cita_hc_932495,(coluna nova),Não,CF,J062
+1015,casos.csv,C052,forma_do_texto,(coluna nova),Apenas ementa,CF,J062
+1016,casos.csv,C052,perda_de_objeto,(coluna nova),Não,CF,J062
+1017,casos.csv,C052,observacao,Não aplicável,"data_ultima_decisao = data de publicação do J062, que não traz a data de julgamento.",DP,J062
+1018,casos.csv,C053,ig_momento,(coluna nova),Não consta,IG,Não aplicável
+1019,casos.csv,C053,fonte_dos_fundamentos,(coluna nova),Não aplicável,CF,Não aplicável
+1020,casos.csv,C053,instancia,(coluna nova),Não aplicável,CF,Não aplicável
+1021,casos.csv,C053,orgao_julgador,(coluna nova),Não aplicável,CF,Não aplicável
+1022,casos.csv,C053,via_processual,(coluna nova),Não aplicável,CF,Não aplicável
+1023,casos.csv,C053,art128_I,(coluna nova),Não aplicável,CF,Não aplicável
+1024,casos.csv,C053,fundamento_risco_vida_gestante,(coluna nova),Não aplicável,CF,Não aplicável
+1025,casos.csv,C053,fundamento_inviabilidade_extrauterina,(coluna nova),Não aplicável,CF,Não aplicável
+1026,casos.csv,C053,fundamento_dignidade_autonomia,(coluna nova),Não aplicável,CF,Não aplicável
+1027,casos.csv,C053,comparacao_com_anencefalia,(coluna nova),Não aplicável,CF,Não aplicável
+1028,casos.csv,C053,cita_adpf54,(coluna nova),Não aplicável,CF,Não aplicável
+1029,casos.csv,C053,cita_hc_932495,(coluna nova),Não aplicável,CF,Não aplicável
+1030,casos.csv,C053,forma_do_texto,(coluna nova),Não aplicável,CF,Não aplicável
+1031,casos.csv,C053,perda_de_objeto,(coluna nova),Não aplicável,CF,Não aplicável
+1032,casos.csv,C054,ig_momento,(coluna nova),Não consta,IG,Não aplicável
+1033,casos.csv,C054,fonte_dos_fundamentos,(coluna nova),Não aplicável,CF,Não aplicável
+1034,casos.csv,C054,instancia,(coluna nova),Não aplicável,CF,Não aplicável
+1035,casos.csv,C054,orgao_julgador,(coluna nova),Não aplicável,CF,Não aplicável
+1036,casos.csv,C054,via_processual,(coluna nova),Não aplicável,CF,Não aplicável
+1037,casos.csv,C054,art128_I,(coluna nova),Não aplicável,CF,Não aplicável
+1038,casos.csv,C054,fundamento_risco_vida_gestante,(coluna nova),Não aplicável,CF,Não aplicável
+1039,casos.csv,C054,fundamento_inviabilidade_extrauterina,(coluna nova),Não aplicável,CF,Não aplicável
+1040,casos.csv,C054,fundamento_dignidade_autonomia,(coluna nova),Não aplicável,CF,Não aplicável
+1041,casos.csv,C054,comparacao_com_anencefalia,(coluna nova),Não aplicável,CF,Não aplicável
+1042,casos.csv,C054,cita_adpf54,(coluna nova),Não aplicável,CF,Não aplicável
+1043,casos.csv,C054,cita_hc_932495,(coluna nova),Não aplicável,CF,Não aplicável
+1044,casos.csv,C054,forma_do_texto,(coluna nova),Não aplicável,CF,Não aplicável
+1045,casos.csv,C054,perda_de_objeto,(coluna nova),Não aplicável,CF,Não aplicável
+1046,casos.csv,C055,ig_semanas,31 (julgamento),31,IG,J065
+1047,casos.csv,C055,ig_momento,(coluna nova),Julgamento,IG,J065
+1048,casos.csv,C055,data_ultima_decisao,Não consta,21/03/2012,DP,J065
+1049,casos.csv,C055,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J065
+1050,casos.csv,C055,instancia,(coluna nova),2º grau,CF,J065
+1051,casos.csv,C055,orgao_julgador,(coluna nova),3ª Câmara Criminal do Tribunal de Justiça do Estado de Santa Catarina (TJSC),CF,J065
+1052,casos.csv,C055,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J065
+1053,casos.csv,C055,art128_I,(coluna nova),Risco discutido sem o artigo,CF,J065
+1054,casos.csv,C055,fundamento_risco_vida_gestante,(coluna nova),Rejeita,CF,J065
+1055,casos.csv,C055,fundamento_inviabilidade_extrauterina,(coluna nova),Rejeita,CF,J065
+1056,casos.csv,C055,fundamento_dignidade_autonomia,(coluna nova),Não enfrenta,CF,J065
+1057,casos.csv,C055,comparacao_com_anencefalia,(coluna nova),Não faz,CF,J065
+1058,casos.csv,C055,cita_adpf54,(coluna nova),Não,CF,J065
+1059,casos.csv,C055,cita_hc_932495,(coluna nova),Não,CF,J065
+1060,casos.csv,C055,forma_do_texto,(coluna nova),Apenas ementa,CF,J065
+1061,casos.csv,C055,perda_de_objeto,(coluna nova),Não,CF,J065
+1062,casos.csv,C055,observacao,Não aplicável,"data_ultima_decisao = data de publicação do J065, que não traz a data de julgamento.",DP,J065
+1063,casos.csv,C056,ig_momento,(coluna nova),Não consta,IG,Não aplicável
+1064,casos.csv,C056,data_ultima_decisao,Não consta,16/05/2011,DP,J067
+1065,casos.csv,C056,fonte_dos_fundamentos,(coluna nova),Não aplicável,CF,Não aplicável
+1066,casos.csv,C056,instancia,(coluna nova),Não aplicável,CF,Não aplicável
+1067,casos.csv,C056,orgao_julgador,(coluna nova),Não aplicável,CF,Não aplicável
+1068,casos.csv,C056,via_processual,(coluna nova),Não aplicável,CF,Não aplicável
+1069,casos.csv,C056,art128_I,(coluna nova),Não aplicável,CF,Não aplicável
+1070,casos.csv,C056,fundamento_risco_vida_gestante,(coluna nova),Não aplicável,CF,Não aplicável
+1071,casos.csv,C056,fundamento_inviabilidade_extrauterina,(coluna nova),Não aplicável,CF,Não aplicável
+1072,casos.csv,C056,fundamento_dignidade_autonomia,(coluna nova),Não aplicável,CF,Não aplicável
+1073,casos.csv,C056,comparacao_com_anencefalia,(coluna nova),Não aplicável,CF,Não aplicável
+1074,casos.csv,C056,cita_adpf54,(coluna nova),Não aplicável,CF,Não aplicável
+1075,casos.csv,C056,cita_hc_932495,(coluna nova),Não aplicável,CF,Não aplicável
+1076,casos.csv,C056,forma_do_texto,(coluna nova),Não aplicável,CF,Não aplicável
+1077,casos.csv,C056,perda_de_objeto,(coluna nova),Não aplicável,CF,Não aplicável
+1078,casos.csv,C056,observacao,"Apelações em ação cautelar e ação principal de família (mesmo relator, mesma data, ementas idênticas). Falso positivo.","Apelações em ação cautelar e ação principal de família (mesmo relator, mesma data, ementas idênticas). Falso positivo. data_ultima_decisao = data de publicação do J067, que não traz a data de julgamento.",DP,J067
+1079,casos.csv,C057,ig_momento,(coluna nova),Não consta,IG,Não aplicável
+1080,casos.csv,C057,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J068
+1081,casos.csv,C057,instancia,(coluna nova),2º grau,CF,J068
+1082,casos.csv,C057,orgao_julgador,(coluna nova),Tribunal de Justiça do Estado de Santa Catarina (TJSC) — câmara não consta (Gabinete Des. Getúlio Corrêa),CF,J068
+1083,casos.csv,C057,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J068
+1084,casos.csv,C057,art128_I,(coluna nova),Mencionado sem exame,CF,J068
+1085,casos.csv,C057,fundamento_risco_vida_gestante,(coluna nova),Não enfrenta,CF,J068
+1086,casos.csv,C057,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J068
+1087,casos.csv,C057,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J068
+1088,casos.csv,C057,comparacao_com_anencefalia,(coluna nova),Equipara,CF,J068
+1089,casos.csv,C057,cita_adpf54,(coluna nova),Sim,CF,J068
+1090,casos.csv,C057,cita_hc_932495,(coluna nova),Não,CF,J068
+1091,casos.csv,C057,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J068
+1092,casos.csv,C057,perda_de_objeto,(coluna nova),Não,CF,J068
+1093,casos.csv,C058,ig_momento,(coluna nova),Não consta,IG,Não aplicável
+1094,casos.csv,C058,data_ultima_decisao,Não consta,21/09/2019,DP,J070
+1095,casos.csv,C058,fonte_dos_fundamentos,(coluna nova),Não aplicável,CF,Não aplicável
+1096,casos.csv,C058,instancia,(coluna nova),Não acessível,CF,Não aplicável
+1097,casos.csv,C058,orgao_julgador,(coluna nova),Não acessível,CF,Não aplicável
+1098,casos.csv,C058,via_processual,(coluna nova),Não acessível,CF,Não aplicável
+1099,casos.csv,C058,art128_I,(coluna nova),Não acessível,CF,Não aplicável
+1100,casos.csv,C058,fundamento_risco_vida_gestante,(coluna nova),Não acessível,CF,Não aplicável
+1101,casos.csv,C058,fundamento_inviabilidade_extrauterina,(coluna nova),Não acessível,CF,Não aplicável
+1102,casos.csv,C058,fundamento_dignidade_autonomia,(coluna nova),Não acessível,CF,Não aplicável
+1103,casos.csv,C058,comparacao_com_anencefalia,(coluna nova),Não acessível,CF,Não aplicável
+1104,casos.csv,C058,cita_adpf54,(coluna nova),Não acessível,CF,Não aplicável
+1105,casos.csv,C058,cita_hc_932495,(coluna nova),Não acessível,CF,Não aplicável
+1106,casos.csv,C058,forma_do_texto,(coluna nova),Não acessível,CF,Não aplicável
+1107,casos.csv,C058,perda_de_objeto,(coluna nova),Não acessível,CF,Não aplicável
+1108,casos.csv,C058,observacao,Não aplicável,"data_ultima_decisao = data de publicação do J070, que não traz a data de julgamento.",DP,J070
+1109,casos.csv,C059,ig_semanas,27 (não especificado),27,IG,J071
+1110,casos.csv,C059,ig_momento,(coluna nova),Não especificado,IG,J071
+1111,casos.csv,C059,fonte_dos_fundamentos,(coluna nova),Não aplicável,CF,Não aplicável
+1112,casos.csv,C059,instancia,(coluna nova),Não aplicável,CF,Não aplicável
+1113,casos.csv,C059,orgao_julgador,(coluna nova),Não aplicável,CF,Não aplicável
+1114,casos.csv,C059,via_processual,(coluna nova),Não aplicável,CF,Não aplicável
+1115,casos.csv,C059,art128_I,(coluna nova),Não aplicável,CF,Não aplicável
+1116,casos.csv,C059,fundamento_risco_vida_gestante,(coluna nova),Não aplicável,CF,Não aplicável
+1117,casos.csv,C059,fundamento_inviabilidade_extrauterina,(coluna nova),Não aplicável,CF,Não aplicável
+1118,casos.csv,C059,fundamento_dignidade_autonomia,(coluna nova),Não aplicável,CF,Não aplicável
+1119,casos.csv,C059,comparacao_com_anencefalia,(coluna nova),Não aplicável,CF,Não aplicável
+1120,casos.csv,C059,cita_adpf54,(coluna nova),Não aplicável,CF,Não aplicável
+1121,casos.csv,C059,cita_hc_932495,(coluna nova),Não aplicável,CF,Não aplicável
+1122,casos.csv,C059,forma_do_texto,(coluna nova),Não aplicável,CF,Não aplicável
+1123,casos.csv,C059,perda_de_objeto,(coluna nova),Não aplicável,CF,Não aplicável
+1124,casos.csv,C060,ig_semanas,21 (pedido),21,IG,J072
+1125,casos.csv,C060,ig_momento,(coluna nova),Pedido,IG,J072
+1126,casos.csv,C060,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J072
+1127,casos.csv,C060,instancia,(coluna nova),1º grau,CF,J072
+1128,casos.csv,C060,orgao_julgador,(coluna nova),1ª Vara da Comarca de Itararé (TJSP),CF,J072
+1129,casos.csv,C060,via_processual,(coluna nova),Autorização prévia contra hospital ou médico,CF,J072
+1130,casos.csv,C060,art128_I,(coluna nova),Aplicado,CF,J072
+1131,casos.csv,C060,fundamento_risco_vida_gestante,(coluna nova),Acolhe,CF,J072
+1132,casos.csv,C060,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J072
+1133,casos.csv,C060,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J072
+1134,casos.csv,C060,comparacao_com_anencefalia,(coluna nova),Não faz,CF,J072
+1135,casos.csv,C060,cita_adpf54,(coluna nova),Sim,CF,J072
+1136,casos.csv,C060,cita_hc_932495,(coluna nova),Não,CF,J072
+1137,casos.csv,C060,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J072
+1138,casos.csv,C060,perda_de_objeto,(coluna nova),Não,CF,J072
+1139,casos.csv,C061,ig_semanas,23 (não especificado),23,IG,J073
+1140,casos.csv,C061,ig_momento,(coluna nova),Não especificado,IG,J073
+1141,casos.csv,C061,fonte_dos_fundamentos,(coluna nova),Não aplicável,CF,Não aplicável
+1142,casos.csv,C061,instancia,(coluna nova),Não aplicável,CF,Não aplicável
+1143,casos.csv,C061,orgao_julgador,(coluna nova),Não aplicável,CF,Não aplicável
+1144,casos.csv,C061,via_processual,(coluna nova),Não aplicável,CF,Não aplicável
+1145,casos.csv,C061,art128_I,(coluna nova),Não aplicável,CF,Não aplicável
+1146,casos.csv,C061,fundamento_risco_vida_gestante,(coluna nova),Não aplicável,CF,Não aplicável
+1147,casos.csv,C061,fundamento_inviabilidade_extrauterina,(coluna nova),Não aplicável,CF,Não aplicável
+1148,casos.csv,C061,fundamento_dignidade_autonomia,(coluna nova),Não aplicável,CF,Não aplicável
+1149,casos.csv,C061,comparacao_com_anencefalia,(coluna nova),Não aplicável,CF,Não aplicável
+1150,casos.csv,C061,cita_adpf54,(coluna nova),Não aplicável,CF,Não aplicável
+1151,casos.csv,C061,cita_hc_932495,(coluna nova),Não aplicável,CF,Não aplicável
+1152,casos.csv,C061,forma_do_texto,(coluna nova),Não aplicável,CF,Não aplicável
+1153,casos.csv,C061,perda_de_objeto,(coluna nova),Não aplicável,CF,Não aplicável
+1154,casos.csv,C062,ig_semanas,20 (pedido),20,IG,J074
+1155,casos.csv,C062,ig_momento,(coluna nova),Pedido,IG,J074
+1156,casos.csv,C062,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J074
+1157,casos.csv,C062,instancia,(coluna nova),1º grau,CF,J074
+1158,casos.csv,C062,orgao_julgador,(coluna nova),1ª Vara do Júri da Comarca de São Paulo (TJSP),CF,J074
+1159,casos.csv,C062,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J074
+1160,casos.csv,C062,art128_I,(coluna nova),Mencionado sem exame,CF,J074
+1161,casos.csv,C062,fundamento_risco_vida_gestante,(coluna nova),Não enfrenta,CF,J074
+1162,casos.csv,C062,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J074
+1163,casos.csv,C062,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J074
+1164,casos.csv,C062,comparacao_com_anencefalia,(coluna nova),Equipara,CF,J074
+1165,casos.csv,C062,cita_adpf54,(coluna nova),Sim,CF,J074
+1166,casos.csv,C062,cita_hc_932495,(coluna nova),Não,CF,J074
+1167,casos.csv,C062,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J074
+1168,casos.csv,C062,perda_de_objeto,(coluna nova),Não,CF,J074
+1169,casos.csv,C063,ig_semanas,12 (pedido),12,IG,J075
+1170,casos.csv,C063,ig_momento,(coluna nova),Pedido,IG,J075
+1171,casos.csv,C063,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J075
+1172,casos.csv,C063,instancia,(coluna nova),1º grau,CF,J075
+1173,casos.csv,C063,orgao_julgador,(coluna nova),1ª Vara do Júri da Comarca de São Paulo (TJSP),CF,J075
+1174,casos.csv,C063,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J075
+1175,casos.csv,C063,art128_I,(coluna nova),Mencionado sem exame,CF,J075
+1176,casos.csv,C063,fundamento_risco_vida_gestante,(coluna nova),Não enfrenta,CF,J075
+1177,casos.csv,C063,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J075
+1178,casos.csv,C063,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J075
+1179,casos.csv,C063,comparacao_com_anencefalia,(coluna nova),Não faz,CF,J075
+1180,casos.csv,C063,cita_adpf54,(coluna nova),Não,CF,J075
+1181,casos.csv,C063,cita_hc_932495,(coluna nova),Não,CF,J075
+1182,casos.csv,C063,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J075
+1183,casos.csv,C063,perda_de_objeto,(coluna nova),Não,CF,J075
+1184,casos.csv,C064,ig_semanas,18 (pedido),18,IG,J076
+1185,casos.csv,C064,ig_momento,(coluna nova),Pedido,IG,J076
+1186,casos.csv,C064,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J076
+1187,casos.csv,C064,instancia,(coluna nova),1º grau,CF,J076
+1188,casos.csv,C064,orgao_julgador,(coluna nova),1ª Vara do Júri da Comarca de São Paulo (TJSP),CF,J076
+1189,casos.csv,C064,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J076
+1190,casos.csv,C064,art128_I,(coluna nova),Mencionado sem exame,CF,J076
+1191,casos.csv,C064,fundamento_risco_vida_gestante,(coluna nova),Não enfrenta,CF,J076
+1192,casos.csv,C064,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J076
+1193,casos.csv,C064,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J076
+1194,casos.csv,C064,comparacao_com_anencefalia,(coluna nova),Não faz,CF,J076
+1195,casos.csv,C064,cita_adpf54,(coluna nova),Não,CF,J076
+1196,casos.csv,C064,cita_hc_932495,(coluna nova),Não,CF,J076
+1197,casos.csv,C064,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J076
+1198,casos.csv,C064,perda_de_objeto,(coluna nova),Não,CF,J076
+1199,casos.csv,C065,ig_semanas,17 (pedido),17,IG,J077
+1200,casos.csv,C065,ig_momento,(coluna nova),Pedido,IG,J077
+1201,casos.csv,C065,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J077
+1202,casos.csv,C065,instancia,(coluna nova),1º grau,CF,J077
+1203,casos.csv,C065,orgao_julgador,(coluna nova),2ª Vara Criminal da Comarca de Indaiatuba (TJSP),CF,J077
+1204,casos.csv,C065,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J077
+1205,casos.csv,C065,art128_I,(coluna nova),Mencionado sem exame,CF,J077
+1206,casos.csv,C065,fundamento_risco_vida_gestante,(coluna nova),Não enfrenta,CF,J077
+1207,casos.csv,C065,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J077
+1208,casos.csv,C065,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J077
+1209,casos.csv,C065,comparacao_com_anencefalia,(coluna nova),Não faz,CF,J077
+1210,casos.csv,C065,cita_adpf54,(coluna nova),Não,CF,J077
+1211,casos.csv,C065,cita_hc_932495,(coluna nova),Não,CF,J077
+1212,casos.csv,C065,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J077
+1213,casos.csv,C065,perda_de_objeto,(coluna nova),Não,CF,J077
+1214,casos.csv,C066,ig_semanas,24 (pedido),24,IG,J078
+1215,casos.csv,C066,ig_momento,(coluna nova),Pedido,IG,J078
+1216,casos.csv,C066,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J078
+1217,casos.csv,C066,instancia,(coluna nova),1º grau,CF,J078
+1218,casos.csv,C066,orgao_julgador,(coluna nova),1ª Vara do Júri da Comarca de São Paulo (TJSP),CF,J078
+1219,casos.csv,C066,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J078
+1220,casos.csv,C066,art128_I,(coluna nova),Mencionado sem exame,CF,J078
+1221,casos.csv,C066,fundamento_risco_vida_gestante,(coluna nova),Não enfrenta,CF,J078
+1222,casos.csv,C066,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J078
+1223,casos.csv,C066,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J078
+1224,casos.csv,C066,comparacao_com_anencefalia,(coluna nova),Não faz,CF,J078
+1225,casos.csv,C066,cita_adpf54,(coluna nova),Não,CF,J078
+1226,casos.csv,C066,cita_hc_932495,(coluna nova),Não,CF,J078
+1227,casos.csv,C066,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J078
+1228,casos.csv,C066,perda_de_objeto,(coluna nova),Não,CF,J078
+1229,casos.csv,C067,ig_semanas,22 (pedido),22,IG,J079
+1230,casos.csv,C067,ig_momento,(coluna nova),Pedido,IG,J079
+1231,casos.csv,C067,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J079
+1232,casos.csv,C067,instancia,(coluna nova),1º grau,CF,J079
+1233,casos.csv,C067,orgao_julgador,(coluna nova),1ª Vara do Júri da Comarca de São Paulo (TJSP),CF,J079
+1234,casos.csv,C067,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J079
+1235,casos.csv,C067,art128_I,(coluna nova),Mencionado sem exame,CF,J079
+1236,casos.csv,C067,fundamento_risco_vida_gestante,(coluna nova),Não enfrenta,CF,J079
+1237,casos.csv,C067,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J079
+1238,casos.csv,C067,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J079
+1239,casos.csv,C067,comparacao_com_anencefalia,(coluna nova),Não faz,CF,J079
+1240,casos.csv,C067,cita_adpf54,(coluna nova),Não,CF,J079
+1241,casos.csv,C067,cita_hc_932495,(coluna nova),Não,CF,J079
+1242,casos.csv,C067,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J079
+1243,casos.csv,C067,perda_de_objeto,(coluna nova),Não,CF,J079
+1244,casos.csv,C068,ig_semanas,28 (pedido),28,IG,J080
+1245,casos.csv,C068,ig_momento,(coluna nova),Pedido,IG,J080
+1246,casos.csv,C068,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J080
+1247,casos.csv,C068,instancia,(coluna nova),1º grau,CF,J080
+1248,casos.csv,C068,orgao_julgador,(coluna nova),1ª Vara do Júri da Comarca de São Paulo (TJSP),CF,J080
+1249,casos.csv,C068,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J080
+1250,casos.csv,C068,art128_I,(coluna nova),Mencionado sem exame,CF,J080
+1251,casos.csv,C068,fundamento_risco_vida_gestante,(coluna nova),Não enfrenta,CF,J080
+1252,casos.csv,C068,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J080
+1253,casos.csv,C068,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J080
+1254,casos.csv,C068,comparacao_com_anencefalia,(coluna nova),Não faz,CF,J080
+1255,casos.csv,C068,cita_adpf54,(coluna nova),Não,CF,J080
+1256,casos.csv,C068,cita_hc_932495,(coluna nova),Não,CF,J080
+1257,casos.csv,C068,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J080
+1258,casos.csv,C068,perda_de_objeto,(coluna nova),Não,CF,J080
+1259,casos.csv,C069,ig_semanas,21 (pedido),21,IG,J081
+1260,casos.csv,C069,ig_momento,(coluna nova),Pedido,IG,J081
+1261,casos.csv,C069,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J081
+1262,casos.csv,C069,instancia,(coluna nova),1º grau,CF,J081
+1263,casos.csv,C069,orgao_julgador,(coluna nova),1ª Vara do Júri da Comarca de São Paulo (TJSP),CF,J081
+1264,casos.csv,C069,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J081
+1265,casos.csv,C069,art128_I,(coluna nova),Mencionado sem exame,CF,J081
+1266,casos.csv,C069,fundamento_risco_vida_gestante,(coluna nova),Não enfrenta,CF,J081
+1267,casos.csv,C069,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J081
+1268,casos.csv,C069,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J081
+1269,casos.csv,C069,comparacao_com_anencefalia,(coluna nova),Não faz,CF,J081
+1270,casos.csv,C069,cita_adpf54,(coluna nova),Não,CF,J081
+1271,casos.csv,C069,cita_hc_932495,(coluna nova),Não,CF,J081
+1272,casos.csv,C069,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J081
+1273,casos.csv,C069,perda_de_objeto,(coluna nova),Não,CF,J081
+1274,casos.csv,C070,ig_semanas,23 (pedido),23,IG,J082
+1275,casos.csv,C070,ig_momento,(coluna nova),Pedido,IG,J082
+1276,casos.csv,C070,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J082
+1277,casos.csv,C070,instancia,(coluna nova),1º grau,CF,J082
+1278,casos.csv,C070,orgao_julgador,(coluna nova),1ª Vara do Júri da Comarca de São Paulo (TJSP),CF,J082
+1279,casos.csv,C070,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J082
+1280,casos.csv,C070,art128_I,(coluna nova),Mencionado sem exame,CF,J082
+1281,casos.csv,C070,fundamento_risco_vida_gestante,(coluna nova),Não enfrenta,CF,J082
+1282,casos.csv,C070,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J082
+1283,casos.csv,C070,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J082
+1284,casos.csv,C070,comparacao_com_anencefalia,(coluna nova),Não faz,CF,J082
+1285,casos.csv,C070,cita_adpf54,(coluna nova),Não,CF,J082
+1286,casos.csv,C070,cita_hc_932495,(coluna nova),Não,CF,J082
+1287,casos.csv,C070,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J082
+1288,casos.csv,C070,perda_de_objeto,(coluna nova),Não,CF,J082
+1289,casos.csv,C071,ig_semanas,23 (pedido),23,IG,J083
+1290,casos.csv,C071,ig_momento,(coluna nova),Pedido,IG,J083
+1291,casos.csv,C071,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J083
+1292,casos.csv,C071,instancia,(coluna nova),1º grau,CF,J083
+1293,casos.csv,C071,orgao_julgador,(coluna nova),1ª Vara do Júri da Comarca de São Paulo (TJSP),CF,J083
+1294,casos.csv,C071,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J083
+1295,casos.csv,C071,art128_I,(coluna nova),Mencionado sem exame,CF,J083
+1296,casos.csv,C071,fundamento_risco_vida_gestante,(coluna nova),Não enfrenta,CF,J083
+1297,casos.csv,C071,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J083
+1298,casos.csv,C071,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J083
+1299,casos.csv,C071,comparacao_com_anencefalia,(coluna nova),Não faz,CF,J083
+1300,casos.csv,C071,cita_adpf54,(coluna nova),Não,CF,J083
+1301,casos.csv,C071,cita_hc_932495,(coluna nova),Não,CF,J083
+1302,casos.csv,C071,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J083
+1303,casos.csv,C071,perda_de_objeto,(coluna nova),Não,CF,J083
+1304,casos.csv,C072,ig_momento,(coluna nova),Não consta,IG,Não aplicável
+1305,casos.csv,C072,fonte_dos_fundamentos,(coluna nova),Não aplicável,CF,Não aplicável
+1306,casos.csv,C072,instancia,(coluna nova),Não aplicável,CF,Não aplicável
+1307,casos.csv,C072,orgao_julgador,(coluna nova),Não aplicável,CF,Não aplicável
+1308,casos.csv,C072,via_processual,(coluna nova),Não aplicável,CF,Não aplicável
+1309,casos.csv,C072,art128_I,(coluna nova),Não aplicável,CF,Não aplicável
+1310,casos.csv,C072,fundamento_risco_vida_gestante,(coluna nova),Não aplicável,CF,Não aplicável
+1311,casos.csv,C072,fundamento_inviabilidade_extrauterina,(coluna nova),Não aplicável,CF,Não aplicável
+1312,casos.csv,C072,fundamento_dignidade_autonomia,(coluna nova),Não aplicável,CF,Não aplicável
+1313,casos.csv,C072,comparacao_com_anencefalia,(coluna nova),Não aplicável,CF,Não aplicável
+1314,casos.csv,C072,cita_adpf54,(coluna nova),Não aplicável,CF,Não aplicável
+1315,casos.csv,C072,cita_hc_932495,(coluna nova),Não aplicável,CF,Não aplicável
+1316,casos.csv,C072,forma_do_texto,(coluna nova),Não aplicável,CF,Não aplicável
+1317,casos.csv,C072,perda_de_objeto,(coluna nova),Não aplicável,CF,Não aplicável
+1318,casos.csv,C073,ig_semanas,24 (pedido),24,IG,J085
+1319,casos.csv,C073,ig_momento,(coluna nova),Pedido,IG,J085
+1320,casos.csv,C073,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J085
+1321,casos.csv,C073,instancia,(coluna nova),1º grau,CF,J085
+1322,casos.csv,C073,orgao_julgador,(coluna nova),1ª Vara do Júri da Comarca de São Paulo (TJSP),CF,J085
+1323,casos.csv,C073,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J085
+1324,casos.csv,C073,art128_I,(coluna nova),Mencionado sem exame,CF,J085
+1325,casos.csv,C073,fundamento_risco_vida_gestante,(coluna nova),Não enfrenta,CF,J085
+1326,casos.csv,C073,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J085
+1327,casos.csv,C073,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J085
+1328,casos.csv,C073,comparacao_com_anencefalia,(coluna nova),Não faz,CF,J085
+1329,casos.csv,C073,cita_adpf54,(coluna nova),Não,CF,J085
+1330,casos.csv,C073,cita_hc_932495,(coluna nova),Não,CF,J085
+1331,casos.csv,C073,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J085
+1332,casos.csv,C073,perda_de_objeto,(coluna nova),Não,CF,J085
+1333,casos.csv,C074,ig_semanas,16 (pedido),16,IG,J086
+1334,casos.csv,C074,ig_momento,(coluna nova),Pedido,IG,J086
+1335,casos.csv,C074,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J086
+1336,casos.csv,C074,instancia,(coluna nova),1º grau,CF,J086
+1337,casos.csv,C074,orgao_julgador,(coluna nova),Vara Única da Comarca de Santa Cruz das Palmeiras (TJSP),CF,J086
+1338,casos.csv,C074,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J086
+1339,casos.csv,C074,art128_I,(coluna nova),Não mencionado,CF,J086
+1340,casos.csv,C074,fundamento_risco_vida_gestante,(coluna nova),Não enfrenta,CF,J086
+1341,casos.csv,C074,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J086
+1342,casos.csv,C074,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J086
+1343,casos.csv,C074,comparacao_com_anencefalia,(coluna nova),Não faz,CF,J086
+1344,casos.csv,C074,cita_adpf54,(coluna nova),Sim,CF,J086
+1345,casos.csv,C074,cita_hc_932495,(coluna nova),Não,CF,J086
+1346,casos.csv,C074,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J086
+1347,casos.csv,C074,perda_de_objeto,(coluna nova),Não,CF,J086
+1348,casos.csv,C075,ig_semanas,27 (pedido),27,IG,J087
+1349,casos.csv,C075,ig_momento,(coluna nova),Pedido,IG,J087
+1350,casos.csv,C075,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J087
+1351,casos.csv,C075,instancia,(coluna nova),1º grau,CF,J087
+1352,casos.csv,C075,orgao_julgador,(coluna nova),1ª Vara do Júri da Comarca de São Paulo (TJSP),CF,J087
+1353,casos.csv,C075,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J087
+1354,casos.csv,C075,art128_I,(coluna nova),Mencionado sem exame,CF,J087
+1355,casos.csv,C075,fundamento_risco_vida_gestante,(coluna nova),Não enfrenta,CF,J087
+1356,casos.csv,C075,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J087
+1357,casos.csv,C075,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J087
+1358,casos.csv,C075,comparacao_com_anencefalia,(coluna nova),Não faz,CF,J087
+1359,casos.csv,C075,cita_adpf54,(coluna nova),Não,CF,J087
+1360,casos.csv,C075,cita_hc_932495,(coluna nova),Não,CF,J087
+1361,casos.csv,C075,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J087
+1362,casos.csv,C075,perda_de_objeto,(coluna nova),Não,CF,J087
+1363,casos.csv,C076,ig_momento,(coluna nova),Não consta,IG,Não aplicável
+1364,casos.csv,C076,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J088
+1365,casos.csv,C076,instancia,(coluna nova),1º grau,CF,J088
+1366,casos.csv,C076,orgao_julgador,(coluna nova),1ª Vara do Júri da Comarca de São Paulo (TJSP),CF,J088
+1367,casos.csv,C076,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J088
+1368,casos.csv,C076,art128_I,(coluna nova),Mencionado sem exame,CF,J088
+1369,casos.csv,C076,fundamento_risco_vida_gestante,(coluna nova),Não enfrenta,CF,J088
+1370,casos.csv,C076,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J088
+1371,casos.csv,C076,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J088
+1372,casos.csv,C076,comparacao_com_anencefalia,(coluna nova),Equipara,CF,J088
+1373,casos.csv,C076,cita_adpf54,(coluna nova),Sim,CF,J088
+1374,casos.csv,C076,cita_hc_932495,(coluna nova),Não,CF,J088
+1375,casos.csv,C076,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J088
+1376,casos.csv,C076,perda_de_objeto,(coluna nova),Não,CF,J088
+1377,casos.csv,C077,ig_semanas,14 (pedido),14,IG,J089
+1378,casos.csv,C077,ig_momento,(coluna nova),Pedido,IG,J089
+1379,casos.csv,C077,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J089
+1380,casos.csv,C077,instancia,(coluna nova),1º grau,CF,J089
+1381,casos.csv,C077,orgao_julgador,(coluna nova),1ª Vara do Júri da Comarca de São Paulo (TJSP),CF,J089
+1382,casos.csv,C077,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J089
+1383,casos.csv,C077,art128_I,(coluna nova),Mencionado sem exame,CF,J089
+1384,casos.csv,C077,fundamento_risco_vida_gestante,(coluna nova),Não enfrenta,CF,J089
+1385,casos.csv,C077,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J089
+1386,casos.csv,C077,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J089
+1387,casos.csv,C077,comparacao_com_anencefalia,(coluna nova),Não faz,CF,J089
+1388,casos.csv,C077,cita_adpf54,(coluna nova),Não,CF,J089
+1389,casos.csv,C077,cita_hc_932495,(coluna nova),Não,CF,J089
+1390,casos.csv,C077,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J089
+1391,casos.csv,C077,perda_de_objeto,(coluna nova),Não,CF,J089
+1392,casos.csv,C078,ig_momento,(coluna nova),Não consta,IG,Não aplicável
+1393,casos.csv,C078,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J090
+1394,casos.csv,C078,instancia,(coluna nova),1º grau,CF,J090
+1395,casos.csv,C078,orgao_julgador,(coluna nova),Vara do Júri da Comarca de Campinas (TJSP),CF,J090
+1396,casos.csv,C078,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J090
+1397,casos.csv,C078,art128_I,(coluna nova),Afastado,CF,J090
+1398,casos.csv,C078,fundamento_risco_vida_gestante,(coluna nova),Rejeita,CF,J090
+1399,casos.csv,C078,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J090
+1400,casos.csv,C078,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J090
+1401,casos.csv,C078,comparacao_com_anencefalia,(coluna nova),Equipara,CF,J090
+1402,casos.csv,C078,cita_adpf54,(coluna nova),Sim,CF,J090
+1403,casos.csv,C078,cita_hc_932495,(coluna nova),Não,CF,J090
+1404,casos.csv,C078,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J090
+1405,casos.csv,C078,perda_de_objeto,(coluna nova),Não,CF,J090
+1406,casos.csv,C079,ig_semanas,27 (pedido),27,IG,J091
+1407,casos.csv,C079,ig_momento,(coluna nova),Pedido,IG,J091
+1408,casos.csv,C079,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J091
+1409,casos.csv,C079,instancia,(coluna nova),1º grau,CF,J091
+1410,casos.csv,C079,orgao_julgador,(coluna nova),2ª Vara do Júri da Comarca de São Paulo (TJSP),CF,J091
+1411,casos.csv,C079,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J091
+1412,casos.csv,C079,art128_I,(coluna nova),Afastado,CF,J091
+1413,casos.csv,C079,fundamento_risco_vida_gestante,(coluna nova),Rejeita,CF,J091
+1414,casos.csv,C079,fundamento_inviabilidade_extrauterina,(coluna nova),Rejeita,CF,J091
+1415,casos.csv,C079,fundamento_dignidade_autonomia,(coluna nova),Não enfrenta,CF,J091
+1416,casos.csv,C079,comparacao_com_anencefalia,(coluna nova),Distingue,CF,J091
+1417,casos.csv,C079,cita_adpf54,(coluna nova),Sim,CF,J091
+1418,casos.csv,C079,cita_hc_932495,(coluna nova),Não,CF,J091
+1419,casos.csv,C079,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J091
+1420,casos.csv,C079,perda_de_objeto,(coluna nova),Não,CF,J091
+1421,casos.csv,C080,ig_semanas,26 (pedido),26,IG,J092
+1422,casos.csv,C080,ig_momento,(coluna nova),Pedido,IG,J092
+1423,casos.csv,C080,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J092
+1424,casos.csv,C080,instancia,(coluna nova),1º grau,CF,J092
+1425,casos.csv,C080,orgao_julgador,(coluna nova),2ª Vara do Júri da Comarca de São Paulo (TJSP),CF,J092
+1426,casos.csv,C080,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J092
+1427,casos.csv,C080,art128_I,(coluna nova),Não mencionado,CF,J092
+1428,casos.csv,C080,fundamento_risco_vida_gestante,(coluna nova),Não enfrenta,CF,J092
+1429,casos.csv,C080,fundamento_inviabilidade_extrauterina,(coluna nova),Rejeita,CF,J092
+1430,casos.csv,C080,fundamento_dignidade_autonomia,(coluna nova),Rejeita,CF,J092
+1431,casos.csv,C080,comparacao_com_anencefalia,(coluna nova),Distingue,CF,J092
+1432,casos.csv,C080,cita_adpf54,(coluna nova),Sim,CF,J092
+1433,casos.csv,C080,cita_hc_932495,(coluna nova),Não,CF,J092
+1434,casos.csv,C080,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J092
+1435,casos.csv,C080,perda_de_objeto,(coluna nova),Não,CF,J092
+1436,casos.csv,C081,ig_semanas,20 (pedido),20,IG,J093
+1437,casos.csv,C081,ig_momento,(coluna nova),Pedido,IG,J093
+1438,casos.csv,C081,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J093
+1439,casos.csv,C081,instancia,(coluna nova),1º grau,CF,J093
+1440,casos.csv,C081,orgao_julgador,(coluna nova),5ª Vara do Júri da Comarca de São Paulo (TJSP),CF,J093
+1441,casos.csv,C081,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J093
+1442,casos.csv,C081,art128_I,(coluna nova),Mencionado sem exame,CF,J093
+1443,casos.csv,C081,fundamento_risco_vida_gestante,(coluna nova),Não enfrenta,CF,J093
+1444,casos.csv,C081,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J093
+1445,casos.csv,C081,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J093
+1446,casos.csv,C081,comparacao_com_anencefalia,(coluna nova),Não faz,CF,J093
+1447,casos.csv,C081,cita_adpf54,(coluna nova),Não,CF,J093
+1448,casos.csv,C081,cita_hc_932495,(coluna nova),Não,CF,J093
+1449,casos.csv,C081,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J093
+1450,casos.csv,C081,perda_de_objeto,(coluna nova),Não,CF,J093
+1451,casos.csv,C082,ig_semanas,14 (diagnóstico),14,IG,J094
+1452,casos.csv,C082,ig_momento,(coluna nova),Diagnóstico,IG,J094
+1453,casos.csv,C082,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J094
+1454,casos.csv,C082,instancia,(coluna nova),1º grau,CF,J094
+1455,casos.csv,C082,orgao_julgador,(coluna nova),4ª Vara do Júri da Comarca de São Paulo (TJSP),CF,J094
+1456,casos.csv,C082,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J094
+1457,casos.csv,C082,art128_I,(coluna nova),Não mencionado,CF,J094
+1458,casos.csv,C082,fundamento_risco_vida_gestante,(coluna nova),Não enfrenta,CF,J094
+1459,casos.csv,C082,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J094
+1460,casos.csv,C082,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J094
+1461,casos.csv,C082,comparacao_com_anencefalia,(coluna nova),Equipara,CF,J094
+1462,casos.csv,C082,cita_adpf54,(coluna nova),Sim,CF,J094
+1463,casos.csv,C082,cita_hc_932495,(coluna nova),Não,CF,J094
+1464,casos.csv,C082,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J094
+1465,casos.csv,C082,perda_de_objeto,(coluna nova),Não,CF,J094
+1466,casos.csv,C083,ig_semanas,18 (pedido),18,IG,J095
+1467,casos.csv,C083,ig_momento,(coluna nova),Pedido,IG,J095
+1468,casos.csv,C083,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J095
+1469,casos.csv,C083,instancia,(coluna nova),1º grau,CF,J095
+1470,casos.csv,C083,orgao_julgador,(coluna nova),2ª Vara do Júri da Comarca de São Paulo (TJSP),CF,J095
+1471,casos.csv,C083,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J095
+1472,casos.csv,C083,art128_I,(coluna nova),Afastado,CF,J095
+1473,casos.csv,C083,fundamento_risco_vida_gestante,(coluna nova),Rejeita,CF,J095
+1474,casos.csv,C083,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J095
+1475,casos.csv,C083,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J095
+1476,casos.csv,C083,comparacao_com_anencefalia,(coluna nova),Equipara,CF,J095
+1477,casos.csv,C083,cita_adpf54,(coluna nova),Sim,CF,J095
+1478,casos.csv,C083,cita_hc_932495,(coluna nova),Não,CF,J095
+1479,casos.csv,C083,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J095
+1480,casos.csv,C083,perda_de_objeto,(coluna nova),Não,CF,J095
+1481,casos.csv,C084,ig_semanas,12 (pedido),12,IG,J096
+1482,casos.csv,C084,ig_momento,(coluna nova),Pedido,IG,J096
+1483,casos.csv,C084,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J096
+1484,casos.csv,C084,instancia,(coluna nova),1º grau,CF,J096
+1485,casos.csv,C084,orgao_julgador,(coluna nova),2ª Vara do Júri da Comarca de Campinas (TJSP),CF,J096
+1486,casos.csv,C084,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J096
+1487,casos.csv,C084,art128_I,(coluna nova),Mencionado sem exame,CF,J096
+1488,casos.csv,C084,fundamento_risco_vida_gestante,(coluna nova),Não enfrenta,CF,J096
+1489,casos.csv,C084,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J096
+1490,casos.csv,C084,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J096
+1491,casos.csv,C084,comparacao_com_anencefalia,(coluna nova),Não faz,CF,J096
+1492,casos.csv,C084,cita_adpf54,(coluna nova),Não,CF,J096
+1493,casos.csv,C084,cita_hc_932495,(coluna nova),Não,CF,J096
+1494,casos.csv,C084,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J096
+1495,casos.csv,C084,perda_de_objeto,(coluna nova),Não,CF,J096
+1496,casos.csv,C085,ig_semanas,9 (pedido),9,IG,J097
+1497,casos.csv,C085,ig_momento,(coluna nova),Pedido,IG,J097
+1498,casos.csv,C085,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J097
+1499,casos.csv,C085,instancia,(coluna nova),1º grau,CF,J097
+1500,casos.csv,C085,orgao_julgador,(coluna nova),Vara do Júri da Comarca de Guarulhos (TJSP),CF,J097
+1501,casos.csv,C085,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J097
+1502,casos.csv,C085,art128_I,(coluna nova),Afastado,CF,J097
+1503,casos.csv,C085,fundamento_risco_vida_gestante,(coluna nova),Rejeita,CF,J097
+1504,casos.csv,C085,fundamento_inviabilidade_extrauterina,(coluna nova),Rejeita,CF,J097
+1505,casos.csv,C085,fundamento_dignidade_autonomia,(coluna nova),Não enfrenta,CF,J097
+1506,casos.csv,C085,comparacao_com_anencefalia,(coluna nova),Distingue,CF,J097
+1507,casos.csv,C085,cita_adpf54,(coluna nova),Sim,CF,J097
+1508,casos.csv,C085,cita_hc_932495,(coluna nova),Não,CF,J097
+1509,casos.csv,C085,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J097
+1510,casos.csv,C085,perda_de_objeto,(coluna nova),Não,CF,J097
+1511,casos.csv,C086,ig_semanas,17 (julgamento),17,IG,J098
+1512,casos.csv,C086,ig_momento,(coluna nova),Julgamento,IG,J098
+1513,casos.csv,C086,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J098
+1514,casos.csv,C086,instancia,(coluna nova),1º grau,CF,J098
+1515,casos.csv,C086,orgao_julgador,(coluna nova),2ª Vara da Comarca de Peruíbe (TJSP),CF,J098
+1516,casos.csv,C086,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J098
+1517,casos.csv,C086,art128_I,(coluna nova),Mencionado sem exame,CF,J098
+1518,casos.csv,C086,fundamento_risco_vida_gestante,(coluna nova),Não enfrenta,CF,J098
+1519,casos.csv,C086,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J098
+1520,casos.csv,C086,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J098
+1521,casos.csv,C086,comparacao_com_anencefalia,(coluna nova),Não faz,CF,J098
+1522,casos.csv,C086,cita_adpf54,(coluna nova),Sim,CF,J098
+1523,casos.csv,C086,cita_hc_932495,(coluna nova),Não,CF,J098
+1524,casos.csv,C086,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J098
+1525,casos.csv,C086,perda_de_objeto,(coluna nova),Não,CF,J098
+1526,casos.csv,C087,ig_momento,(coluna nova),Não consta,IG,Não aplicável
+1527,casos.csv,C087,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J099
+1528,casos.csv,C087,instancia,(coluna nova),1º grau,CF,J099
+1529,casos.csv,C087,orgao_julgador,(coluna nova),Vara do Júri e Execuções Criminais da Comarca de São Bernardo do Campo (TJSP),CF,J099
+1530,casos.csv,C087,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J099
+1531,casos.csv,C087,art128_I,(coluna nova),Não mencionado,CF,J099
+1532,casos.csv,C087,fundamento_risco_vida_gestante,(coluna nova),Não enfrenta,CF,J099
+1533,casos.csv,C087,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J099
+1534,casos.csv,C087,fundamento_dignidade_autonomia,(coluna nova),Não enfrenta,CF,J099
+1535,casos.csv,C087,comparacao_com_anencefalia,(coluna nova),Equipara,CF,J099
+1536,casos.csv,C087,cita_adpf54,(coluna nova),Sim,CF,J099
+1537,casos.csv,C087,cita_hc_932495,(coluna nova),Não,CF,J099
+1538,casos.csv,C087,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J099
+1539,casos.csv,C087,perda_de_objeto,(coluna nova),Não,CF,J099
+1540,casos.csv,C088,ig_semanas,21 (pedido),21,IG,J100
+1541,casos.csv,C088,ig_momento,(coluna nova),Pedido,IG,J100
+1542,casos.csv,C088,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J120
+1543,casos.csv,C088,instancia,(coluna nova),2º grau,CF,J120
+1544,casos.csv,C088,orgao_julgador,(coluna nova),12ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo (TJSP),CF,J120
+1545,casos.csv,C088,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J120
+1546,casos.csv,C088,art128_I,(coluna nova),Mencionado sem exame,CF,J120
+1547,casos.csv,C088,fundamento_risco_vida_gestante,(coluna nova),Não enfrenta,CF,J120
+1548,casos.csv,C088,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J120
+1549,casos.csv,C088,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J120
+1550,casos.csv,C088,comparacao_com_anencefalia,(coluna nova),Equipara,CF,J120
+1551,casos.csv,C088,cita_adpf54,(coluna nova),Sim,CF,J120
+1552,casos.csv,C088,cita_hc_932495,(coluna nova),Não,CF,J120
+1553,casos.csv,C088,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J120
+1554,casos.csv,C088,perda_de_objeto,(coluna nova),Não,CF,J120
+1555,casos.csv,C089,ig_semanas,27 (pedido),27,IG,J101
+1556,casos.csv,C089,ig_momento,(coluna nova),Pedido,IG,J101
+1557,casos.csv,C089,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J101
+1558,casos.csv,C089,instancia,(coluna nova),1º grau,CF,J101
+1559,casos.csv,C089,orgao_julgador,(coluna nova),1ª Vara do Júri da Comarca de São Paulo (TJSP),CF,J101
+1560,casos.csv,C089,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J101
+1561,casos.csv,C089,art128_I,(coluna nova),Remetido ao médico,CF,J101
+1562,casos.csv,C089,fundamento_risco_vida_gestante,(coluna nova),Rejeita,CF,J101
+1563,casos.csv,C089,fundamento_inviabilidade_extrauterina,(coluna nova),Rejeita,CF,J101
+1564,casos.csv,C089,fundamento_dignidade_autonomia,(coluna nova),Não enfrenta,CF,J101
+1565,casos.csv,C089,comparacao_com_anencefalia,(coluna nova),Não faz,CF,J101
+1566,casos.csv,C089,cita_adpf54,(coluna nova),Não,CF,J101
+1567,casos.csv,C089,cita_hc_932495,(coluna nova),Não,CF,J101
+1568,casos.csv,C089,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J101
+1569,casos.csv,C089,perda_de_objeto,(coluna nova),Não,CF,J101
+1570,casos.csv,C090,ig_semanas,23 (pedido),23,IG,J102
+1571,casos.csv,C090,ig_momento,(coluna nova),Pedido,IG,J102
+1572,casos.csv,C090,fonte_dos_fundamentos,(coluna nova),Julgado que relata a decisão,CF,J121
+1573,casos.csv,C090,instancia,(coluna nova),2º grau,CF,J121
+1574,casos.csv,C090,orgao_julgador,(coluna nova),14ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo (TJSP),CF,J121
+1575,casos.csv,C090,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J121
+1576,casos.csv,C090,art128_I,(coluna nova),Mencionado sem exame,CF,J121
+1577,casos.csv,C090,fundamento_risco_vida_gestante,(coluna nova),Não enfrenta,CF,J121
+1578,casos.csv,C090,fundamento_inviabilidade_extrauterina,(coluna nova),Não enfrenta,CF,J121
+1579,casos.csv,C090,fundamento_dignidade_autonomia,(coluna nova),Não enfrenta,CF,J121
+1580,casos.csv,C090,comparacao_com_anencefalia,(coluna nova),Não faz,CF,J121
+1581,casos.csv,C090,cita_adpf54,(coluna nova),Não,CF,J121
+1582,casos.csv,C090,cita_hc_932495,(coluna nova),Não,CF,J121
+1583,casos.csv,C090,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J121
+1584,casos.csv,C090,perda_de_objeto,(coluna nova),Sim,CF,J121
+1585,casos.csv,C091,ig_semanas,26 (pedido),26,IG,J103
+1586,casos.csv,C091,ig_momento,(coluna nova),Pedido,IG,J103
+1587,casos.csv,C091,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J103
+1588,casos.csv,C091,instancia,(coluna nova),1º grau,CF,J103
+1589,casos.csv,C091,orgao_julgador,(coluna nova),1ª Vara do Júri da Comarca de São Paulo (TJSP),CF,J103
+1590,casos.csv,C091,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J103
+1591,casos.csv,C091,art128_I,(coluna nova),Remetido ao médico,CF,J103
+1592,casos.csv,C091,fundamento_risco_vida_gestante,(coluna nova),Acolhe,CF,J103
+1593,casos.csv,C091,fundamento_inviabilidade_extrauterina,(coluna nova),Rejeita,CF,J103
+1594,casos.csv,C091,fundamento_dignidade_autonomia,(coluna nova),Não enfrenta,CF,J103
+1595,casos.csv,C091,comparacao_com_anencefalia,(coluna nova),Equipara,CF,J103
+1596,casos.csv,C091,cita_adpf54,(coluna nova),Sim,CF,J103
+1597,casos.csv,C091,cita_hc_932495,(coluna nova),Não,CF,J103
+1598,casos.csv,C091,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J103
+1599,casos.csv,C091,perda_de_objeto,(coluna nova),Não,CF,J103
+1600,casos.csv,C092,ig_semanas,20 (pedido),20,IG,J104
+1601,casos.csv,C092,ig_momento,(coluna nova),Pedido,IG,J104
+1602,casos.csv,C092,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J104
+1603,casos.csv,C092,instancia,(coluna nova),1º grau,CF,J104
+1604,casos.csv,C092,orgao_julgador,(coluna nova),1ª Vara do Júri da Comarca de São Paulo (TJSP),CF,J104
+1605,casos.csv,C092,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J104
+1606,casos.csv,C092,art128_I,(coluna nova),Remetido ao médico,CF,J104
+1607,casos.csv,C092,fundamento_risco_vida_gestante,(coluna nova),Acolhe,CF,J104
+1608,casos.csv,C092,fundamento_inviabilidade_extrauterina,(coluna nova),Rejeita,CF,J104
+1609,casos.csv,C092,fundamento_dignidade_autonomia,(coluna nova),Não enfrenta,CF,J104
+1610,casos.csv,C092,comparacao_com_anencefalia,(coluna nova),Equipara,CF,J104
+1611,casos.csv,C092,cita_adpf54,(coluna nova),Sim,CF,J104
+1612,casos.csv,C092,cita_hc_932495,(coluna nova),Não,CF,J104
+1613,casos.csv,C092,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J104
+1614,casos.csv,C092,perda_de_objeto,(coluna nova),Não,CF,J104
+1615,casos.csv,C093,ig_momento,(coluna nova),Não consta,IG,Não aplicável
+1616,casos.csv,C093,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J105
+1617,casos.csv,C093,instancia,(coluna nova),1º grau,CF,J105
+1618,casos.csv,C093,orgao_julgador,(coluna nova),1ª Vara do Júri da Comarca de Campinas (TJSP),CF,J105
+1619,casos.csv,C093,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J105
+1620,casos.csv,C093,art128_I,(coluna nova),Afastado,CF,J105
+1621,casos.csv,C093,fundamento_risco_vida_gestante,(coluna nova),Rejeita,CF,J105
+1622,casos.csv,C093,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J105
+1623,casos.csv,C093,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J105
+1624,casos.csv,C093,comparacao_com_anencefalia,(coluna nova),Não faz,CF,J105
+1625,casos.csv,C093,cita_adpf54,(coluna nova),Não,CF,J105
+1626,casos.csv,C093,cita_hc_932495,(coluna nova),Não,CF,J105
+1627,casos.csv,C093,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J105
+1628,casos.csv,C093,perda_de_objeto,(coluna nova),Não,CF,J105
+1629,casos.csv,C094,ig_semanas,16 (pedido),16,IG,J106
+1630,casos.csv,C094,ig_momento,(coluna nova),Pedido,IG,J106
+1631,casos.csv,C094,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J106
+1632,casos.csv,C094,instancia,(coluna nova),1º grau,CF,J106
+1633,casos.csv,C094,orgao_julgador,(coluna nova),2ª Vara do Júri da Comarca de Campinas (TJSP),CF,J106
+1634,casos.csv,C094,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J106
+1635,casos.csv,C094,art128_I,(coluna nova),Mencionado sem exame,CF,J106
+1636,casos.csv,C094,fundamento_risco_vida_gestante,(coluna nova),Não enfrenta,CF,J106
+1637,casos.csv,C094,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J106
+1638,casos.csv,C094,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J106
+1639,casos.csv,C094,comparacao_com_anencefalia,(coluna nova),Não faz,CF,J106
+1640,casos.csv,C094,cita_adpf54,(coluna nova),Não,CF,J106
+1641,casos.csv,C094,cita_hc_932495,(coluna nova),Não,CF,J106
+1642,casos.csv,C094,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J106
+1643,casos.csv,C094,perda_de_objeto,(coluna nova),Não,CF,J106
+1644,casos.csv,C095,ig_momento,(coluna nova),Não consta,IG,Não aplicável
+1645,casos.csv,C095,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J107
+1646,casos.csv,C095,instancia,(coluna nova),1º grau,CF,J107
+1647,casos.csv,C095,orgao_julgador,(coluna nova),1ª Vara do Júri da Comarca de Campinas (TJSP),CF,J107
+1648,casos.csv,C095,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J107
+1649,casos.csv,C095,art128_I,(coluna nova),Afastado,CF,J107
+1650,casos.csv,C095,fundamento_risco_vida_gestante,(coluna nova),Rejeita,CF,J107
+1651,casos.csv,C095,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J107
+1652,casos.csv,C095,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J107
+1653,casos.csv,C095,comparacao_com_anencefalia,(coluna nova),Não faz,CF,J107
+1654,casos.csv,C095,cita_adpf54,(coluna nova),Não,CF,J107
+1655,casos.csv,C095,cita_hc_932495,(coluna nova),Não,CF,J107
+1656,casos.csv,C095,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J107
+1657,casos.csv,C095,perda_de_objeto,(coluna nova),Não,CF,J107
+1658,casos.csv,C096,ig_semanas,25 (pedido),25,IG,J108
+1659,casos.csv,C096,ig_momento,(coluna nova),Pedido,IG,J108
+1660,casos.csv,C096,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J108
+1661,casos.csv,C096,instancia,(coluna nova),1º grau,CF,J108
+1662,casos.csv,C096,orgao_julgador,(coluna nova),2ª Vara do Júri da Comarca de Campinas (TJSP),CF,J108
+1663,casos.csv,C096,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J108
+1664,casos.csv,C096,art128_I,(coluna nova),Mencionado sem exame,CF,J108
+1665,casos.csv,C096,fundamento_risco_vida_gestante,(coluna nova),Não enfrenta,CF,J108
+1666,casos.csv,C096,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J108
+1667,casos.csv,C096,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J108
+1668,casos.csv,C096,comparacao_com_anencefalia,(coluna nova),Não faz,CF,J108
+1669,casos.csv,C096,cita_adpf54,(coluna nova),Não,CF,J108
+1670,casos.csv,C096,cita_hc_932495,(coluna nova),Não,CF,J108
+1671,casos.csv,C096,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J108
+1672,casos.csv,C096,perda_de_objeto,(coluna nova),Não,CF,J108
+1673,casos.csv,C097,ig_semanas,21 (pedido),21,IG,J109
+1674,casos.csv,C097,ig_momento,(coluna nova),Pedido,IG,J109
+1675,casos.csv,C097,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J109
+1676,casos.csv,C097,instancia,(coluna nova),1º grau,CF,J109
+1677,casos.csv,C097,orgao_julgador,(coluna nova),1ª Vara do Júri da Comarca de São Paulo (TJSP),CF,J109
+1678,casos.csv,C097,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J109
+1679,casos.csv,C097,art128_I,(coluna nova),Remetido ao médico,CF,J109
+1680,casos.csv,C097,fundamento_risco_vida_gestante,(coluna nova),Acolhe,CF,J109
+1681,casos.csv,C097,fundamento_inviabilidade_extrauterina,(coluna nova),Rejeita,CF,J109
+1682,casos.csv,C097,fundamento_dignidade_autonomia,(coluna nova),Não enfrenta,CF,J109
+1683,casos.csv,C097,comparacao_com_anencefalia,(coluna nova),Equipara,CF,J109
+1684,casos.csv,C097,cita_adpf54,(coluna nova),Sim,CF,J109
+1685,casos.csv,C097,cita_hc_932495,(coluna nova),Não,CF,J109
+1686,casos.csv,C097,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J109
+1687,casos.csv,C097,perda_de_objeto,(coluna nova),Não,CF,J109
+1688,casos.csv,C098,ig_semanas,24 (pedido),24,IG,J110
+1689,casos.csv,C098,ig_momento,(coluna nova),Pedido,IG,J110
+1690,casos.csv,C098,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J110
+1691,casos.csv,C098,instancia,(coluna nova),1º grau,CF,J110
+1692,casos.csv,C098,orgao_julgador,(coluna nova),2ª Vara do Júri da Comarca de Campinas (TJSP),CF,J110
+1693,casos.csv,C098,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J110
+1694,casos.csv,C098,art128_I,(coluna nova),Mencionado sem exame,CF,J110
+1695,casos.csv,C098,fundamento_risco_vida_gestante,(coluna nova),Não enfrenta,CF,J110
+1696,casos.csv,C098,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J110
+1697,casos.csv,C098,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J110
+1698,casos.csv,C098,comparacao_com_anencefalia,(coluna nova),Não faz,CF,J110
+1699,casos.csv,C098,cita_adpf54,(coluna nova),Não,CF,J110
+1700,casos.csv,C098,cita_hc_932495,(coluna nova),Não,CF,J110
+1701,casos.csv,C098,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J110
+1702,casos.csv,C098,perda_de_objeto,(coluna nova),Não,CF,J110
+1703,casos.csv,C099,ig_semanas,25 (pedido),25,IG,J111
+1704,casos.csv,C099,ig_momento,(coluna nova),Pedido,IG,J111
+1705,casos.csv,C099,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J111
+1706,casos.csv,C099,instancia,(coluna nova),1º grau,CF,J111
+1707,casos.csv,C099,orgao_julgador,(coluna nova),1ª Vara do Júri da Comarca de São Paulo (TJSP),CF,J111
+1708,casos.csv,C099,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J111
+1709,casos.csv,C099,art128_I,(coluna nova),Remetido ao médico,CF,J111
+1710,casos.csv,C099,fundamento_risco_vida_gestante,(coluna nova),Acolhe,CF,J111
+1711,casos.csv,C099,fundamento_inviabilidade_extrauterina,(coluna nova),Rejeita,CF,J111
+1712,casos.csv,C099,fundamento_dignidade_autonomia,(coluna nova),Não enfrenta,CF,J111
+1713,casos.csv,C099,comparacao_com_anencefalia,(coluna nova),Equipara,CF,J111
+1714,casos.csv,C099,cita_adpf54,(coluna nova),Sim,CF,J111
+1715,casos.csv,C099,cita_hc_932495,(coluna nova),Não,CF,J111
+1716,casos.csv,C099,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J111
+1717,casos.csv,C099,perda_de_objeto,(coluna nova),Não,CF,J111
+1718,casos.csv,C100,ig_momento,(coluna nova),Não consta,IG,Não aplicável
+1719,casos.csv,C100,fonte_dos_fundamentos,(coluna nova),Não aplicável,CF,Não aplicável
+1720,casos.csv,C100,instancia,(coluna nova),Não aplicável,CF,Não aplicável
+1721,casos.csv,C100,orgao_julgador,(coluna nova),Não aplicável,CF,Não aplicável
+1722,casos.csv,C100,via_processual,(coluna nova),Não aplicável,CF,Não aplicável
+1723,casos.csv,C100,art128_I,(coluna nova),Não aplicável,CF,Não aplicável
+1724,casos.csv,C100,fundamento_risco_vida_gestante,(coluna nova),Não aplicável,CF,Não aplicável
+1725,casos.csv,C100,fundamento_inviabilidade_extrauterina,(coluna nova),Não aplicável,CF,Não aplicável
+1726,casos.csv,C100,fundamento_dignidade_autonomia,(coluna nova),Não aplicável,CF,Não aplicável
+1727,casos.csv,C100,comparacao_com_anencefalia,(coluna nova),Não aplicável,CF,Não aplicável
+1728,casos.csv,C100,cita_adpf54,(coluna nova),Não aplicável,CF,Não aplicável
+1729,casos.csv,C100,cita_hc_932495,(coluna nova),Não aplicável,CF,Não aplicável
+1730,casos.csv,C100,forma_do_texto,(coluna nova),Não aplicável,CF,Não aplicável
+1731,casos.csv,C100,perda_de_objeto,(coluna nova),Não aplicável,CF,Não aplicável
+1732,casos.csv,C101,ig_momento,(coluna nova),Não consta,IG,Não aplicável
+1733,casos.csv,C101,fonte_dos_fundamentos,(coluna nova),Não aplicável,CF,Não aplicável
+1734,casos.csv,C101,instancia,(coluna nova),Não aplicável,CF,Não aplicável
+1735,casos.csv,C101,orgao_julgador,(coluna nova),Não aplicável,CF,Não aplicável
+1736,casos.csv,C101,via_processual,(coluna nova),Não aplicável,CF,Não aplicável
+1737,casos.csv,C101,art128_I,(coluna nova),Não aplicável,CF,Não aplicável
+1738,casos.csv,C101,fundamento_risco_vida_gestante,(coluna nova),Não aplicável,CF,Não aplicável
+1739,casos.csv,C101,fundamento_inviabilidade_extrauterina,(coluna nova),Não aplicável,CF,Não aplicável
+1740,casos.csv,C101,fundamento_dignidade_autonomia,(coluna nova),Não aplicável,CF,Não aplicável
+1741,casos.csv,C101,comparacao_com_anencefalia,(coluna nova),Não aplicável,CF,Não aplicável
+1742,casos.csv,C101,cita_adpf54,(coluna nova),Não aplicável,CF,Não aplicável
+1743,casos.csv,C101,cita_hc_932495,(coluna nova),Não aplicável,CF,Não aplicável
+1744,casos.csv,C101,forma_do_texto,(coluna nova),Não aplicável,CF,Não aplicável
+1745,casos.csv,C101,perda_de_objeto,(coluna nova),Não aplicável,CF,Não aplicável
+1746,casos.csv,C102,ig_momento,(coluna nova),Não consta,IG,Não aplicável
+1747,casos.csv,C102,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J115
+1748,casos.csv,C102,instancia,(coluna nova),2º grau,CF,J115
+1749,casos.csv,C102,orgao_julgador,(coluna nova),2ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo (TJSP),CF,J115
+1750,casos.csv,C102,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J115
+1751,casos.csv,C102,art128_I,(coluna nova),Mencionado sem exame,CF,J115
+1752,casos.csv,C102,fundamento_risco_vida_gestante,(coluna nova),Não enfrenta,CF,J115
+1753,casos.csv,C102,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J115
+1754,casos.csv,C102,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J115
+1755,casos.csv,C102,comparacao_com_anencefalia,(coluna nova),Equipara,CF,J115
+1756,casos.csv,C102,cita_adpf54,(coluna nova),Sim,CF,J115
+1757,casos.csv,C102,cita_hc_932495,(coluna nova),Não,CF,J115
+1758,casos.csv,C102,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J115
+1759,casos.csv,C102,perda_de_objeto,(coluna nova),Não,CF,J115
+1760,casos.csv,C103,ig_semanas,28 (julgamento),28,IG,J116
+1761,casos.csv,C103,ig_momento,(coluna nova),Julgamento,IG,J116
+1762,casos.csv,C103,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J116
+1763,casos.csv,C103,instancia,(coluna nova),2º grau,CF,J116
+1764,casos.csv,C103,orgao_julgador,(coluna nova),14ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo (TJSP),CF,J116
+1765,casos.csv,C103,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J116
+1766,casos.csv,C103,art128_I,(coluna nova),Não mencionado,CF,J116
+1767,casos.csv,C103,fundamento_risco_vida_gestante,(coluna nova),Não enfrenta,CF,J116
+1768,casos.csv,C103,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J116
+1769,casos.csv,C103,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J116
+1770,casos.csv,C103,comparacao_com_anencefalia,(coluna nova),Equipara,CF,J116
+1771,casos.csv,C103,cita_adpf54,(coluna nova),Sim,CF,J116
+1772,casos.csv,C103,cita_hc_932495,(coluna nova),Não,CF,J116
+1773,casos.csv,C103,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J116
+1774,casos.csv,C103,perda_de_objeto,(coluna nova),Não,CF,J116
+1775,casos.csv,C104,ig_semanas,17 (pedido),17,IG,J117
+1776,casos.csv,C104,ig_momento,(coluna nova),Pedido,IG,J117
+1777,casos.csv,C104,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J117
+1778,casos.csv,C104,instancia,(coluna nova),2º grau,CF,J117
+1779,casos.csv,C104,orgao_julgador,(coluna nova),2ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo (TJSP),CF,J117
+1780,casos.csv,C104,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J117
+1781,casos.csv,C104,art128_I,(coluna nova),Aplicado,CF,J117
+1782,casos.csv,C104,fundamento_risco_vida_gestante,(coluna nova),Acolhe,CF,J117
+1783,casos.csv,C104,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J117
+1784,casos.csv,C104,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J117
+1785,casos.csv,C104,comparacao_com_anencefalia,(coluna nova),Equipara,CF,J117
+1786,casos.csv,C104,cita_adpf54,(coluna nova),Sim,CF,J117
+1787,casos.csv,C104,cita_hc_932495,(coluna nova),Não,CF,J117
+1788,casos.csv,C104,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J117
+1789,casos.csv,C104,perda_de_objeto,(coluna nova),Não,CF,J117
+1790,casos.csv,C105,ig_semanas,23 (pedido),23,IG,J118
+1791,casos.csv,C105,ig_momento,(coluna nova),Pedido,IG,J118
+1792,casos.csv,C105,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J118
+1793,casos.csv,C105,instancia,(coluna nova),2º grau,CF,J118
+1794,casos.csv,C105,orgao_julgador,(coluna nova),16ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo (TJSP),CF,J118
+1795,casos.csv,C105,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J118
+1796,casos.csv,C105,art128_I,(coluna nova),Aplicado,CF,J118
+1797,casos.csv,C105,fundamento_risco_vida_gestante,(coluna nova),Acolhe,CF,J118
+1798,casos.csv,C105,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J118
+1799,casos.csv,C105,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J118
+1800,casos.csv,C105,comparacao_com_anencefalia,(coluna nova),Equipara,CF,J118
+1801,casos.csv,C105,cita_adpf54,(coluna nova),Sim,CF,J118
+1802,casos.csv,C105,cita_hc_932495,(coluna nova),Não,CF,J118
+1803,casos.csv,C105,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J118
+1804,casos.csv,C105,perda_de_objeto,(coluna nova),Não,CF,J118
+1805,casos.csv,C106,ig_semanas,25 (pedido),25,IG,J119
+1806,casos.csv,C106,ig_momento,(coluna nova),Pedido,IG,J119
+1807,casos.csv,C106,fonte_dos_fundamentos,(coluna nova),Julgado que relata a decisão,CF,J119
+1808,casos.csv,C106,instancia,(coluna nova),2º grau,CF,J119
+1809,casos.csv,C106,orgao_julgador,(coluna nova),14ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo (TJSP),CF,J119
+1810,casos.csv,C106,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J119
+1811,casos.csv,C106,art128_I,(coluna nova),Mencionado sem exame,CF,J119
+1812,casos.csv,C106,fundamento_risco_vida_gestante,(coluna nova),Não enfrenta,CF,J119
+1813,casos.csv,C106,fundamento_inviabilidade_extrauterina,(coluna nova),Não enfrenta,CF,J119
+1814,casos.csv,C106,fundamento_dignidade_autonomia,(coluna nova),Não enfrenta,CF,J119
+1815,casos.csv,C106,comparacao_com_anencefalia,(coluna nova),Não faz,CF,J119
+1816,casos.csv,C106,cita_adpf54,(coluna nova),Não,CF,J119
+1817,casos.csv,C106,cita_hc_932495,(coluna nova),Não,CF,J119
+1818,casos.csv,C106,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J119
+1819,casos.csv,C106,perda_de_objeto,(coluna nova),Sim,CF,J119
+1820,casos.csv,C107,ig_semanas,22 (pedido),22,IG,J123
+1821,casos.csv,C107,ig_momento,(coluna nova),Pedido,IG,J123
+1822,casos.csv,C107,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J123
+1823,casos.csv,C107,instancia,(coluna nova),2º grau,CF,J123
+1824,casos.csv,C107,orgao_julgador,(coluna nova),16ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo (TJSP),CF,J123
+1825,casos.csv,C107,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J123
+1826,casos.csv,C107,art128_I,(coluna nova),Aplicado,CF,J123
+1827,casos.csv,C107,fundamento_risco_vida_gestante,(coluna nova),Acolhe,CF,J123
+1828,casos.csv,C107,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J123
+1829,casos.csv,C107,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J123
+1830,casos.csv,C107,comparacao_com_anencefalia,(coluna nova),Não faz,CF,J123
+1831,casos.csv,C107,cita_adpf54,(coluna nova),Não,CF,J123
+1832,casos.csv,C107,cita_hc_932495,(coluna nova),Não,CF,J123
+1833,casos.csv,C107,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J123
+1834,casos.csv,C107,perda_de_objeto,(coluna nova),Não,CF,J123
+1835,casos.csv,C108,ig_semanas,16 (pedido),16,IG,J124
+1836,casos.csv,C108,ig_momento,(coluna nova),Pedido,IG,J124
+1837,casos.csv,C108,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J124
+1838,casos.csv,C108,instancia,(coluna nova),2º grau,CF,J124
+1839,casos.csv,C108,orgao_julgador,(coluna nova),6ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo (TJSP),CF,J124
+1840,casos.csv,C108,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J124
+1841,casos.csv,C108,art128_I,(coluna nova),Mencionado sem exame,CF,J124
+1842,casos.csv,C108,fundamento_risco_vida_gestante,(coluna nova),Não enfrenta,CF,J124
+1843,casos.csv,C108,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J124
+1844,casos.csv,C108,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J124
+1845,casos.csv,C108,comparacao_com_anencefalia,(coluna nova),Equipara,CF,J124
+1846,casos.csv,C108,cita_adpf54,(coluna nova),Sim,CF,J124
+1847,casos.csv,C108,cita_hc_932495,(coluna nova),Não,CF,J124
+1848,casos.csv,C108,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J124
+1849,casos.csv,C108,perda_de_objeto,(coluna nova),Não,CF,J124
+1850,casos.csv,C109,ig_momento,(coluna nova),Não consta,IG,Não aplicável
+1851,casos.csv,C109,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J125
+1852,casos.csv,C109,instancia,(coluna nova),2º grau,CF,J125
+1853,casos.csv,C109,orgao_julgador,(coluna nova),10ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo (TJSP),CF,J125
+1854,casos.csv,C109,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J125
+1855,casos.csv,C109,art128_I,(coluna nova),Mencionado sem exame,CF,J125
+1856,casos.csv,C109,fundamento_risco_vida_gestante,(coluna nova),Não enfrenta,CF,J125
+1857,casos.csv,C109,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J125
+1858,casos.csv,C109,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J125
+1859,casos.csv,C109,comparacao_com_anencefalia,(coluna nova),Não faz,CF,J125
+1860,casos.csv,C109,cita_adpf54,(coluna nova),Não,CF,J125
+1861,casos.csv,C109,cita_hc_932495,(coluna nova),Não,CF,J125
+1862,casos.csv,C109,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J125
+1863,casos.csv,C109,perda_de_objeto,(coluna nova),Não,CF,J125
+1864,casos.csv,C110,ig_momento,(coluna nova),Não consta,IG,Não aplicável
+1865,casos.csv,C110,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J126
+1866,casos.csv,C110,instancia,(coluna nova),2º grau,CF,J126
+1867,casos.csv,C110,orgao_julgador,(coluna nova),1ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo (TJSP),CF,J126
+1868,casos.csv,C110,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J126
+1869,casos.csv,C110,art128_I,(coluna nova),Aplicado,CF,J126
+1870,casos.csv,C110,fundamento_risco_vida_gestante,(coluna nova),Acolhe,CF,J126
+1871,casos.csv,C110,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J126
+1872,casos.csv,C110,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J126
+1873,casos.csv,C110,comparacao_com_anencefalia,(coluna nova),Equipara,CF,J126
+1874,casos.csv,C110,cita_adpf54,(coluna nova),Sim,CF,J126
+1875,casos.csv,C110,cita_hc_932495,(coluna nova),Não,CF,J126
+1876,casos.csv,C110,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J126
+1877,casos.csv,C110,perda_de_objeto,(coluna nova),Não,CF,J126
+1878,casos.csv,C111,ig_semanas,16 (pedido),16,IG,J127
+1879,casos.csv,C111,ig_momento,(coluna nova),Pedido,IG,J127
+1880,casos.csv,C111,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J127
+1881,casos.csv,C111,instancia,(coluna nova),2º grau,CF,J127
+1882,casos.csv,C111,orgao_julgador,(coluna nova),13ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo (TJSP),CF,J127
+1883,casos.csv,C111,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J127
+1884,casos.csv,C111,art128_I,(coluna nova),Aplicado,CF,J127
+1885,casos.csv,C111,fundamento_risco_vida_gestante,(coluna nova),Acolhe,CF,J127
+1886,casos.csv,C111,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J127
+1887,casos.csv,C111,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J127
+1888,casos.csv,C111,comparacao_com_anencefalia,(coluna nova),Não faz,CF,J127
+1889,casos.csv,C111,cita_adpf54,(coluna nova),Não,CF,J127
+1890,casos.csv,C111,cita_hc_932495,(coluna nova),Não,CF,J127
+1891,casos.csv,C111,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J127
+1892,casos.csv,C111,perda_de_objeto,(coluna nova),Não,CF,J127
+1893,casos.csv,C112,ig_momento,(coluna nova),Não consta,IG,Não aplicável
+1894,casos.csv,C112,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J128
+1895,casos.csv,C112,instancia,(coluna nova),2º grau,CF,J128
+1896,casos.csv,C112,orgao_julgador,(coluna nova),3ª Câmara Criminal de Férias (julho/2001) do Tribunal de Justiça do Estado de São Paulo (TJSP),CF,J128
+1897,casos.csv,C112,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J128
+1898,casos.csv,C112,art128_I,(coluna nova),Afastado,CF,J128
+1899,casos.csv,C112,fundamento_risco_vida_gestante,(coluna nova),Rejeita,CF,J128
+1900,casos.csv,C112,fundamento_inviabilidade_extrauterina,(coluna nova),Rejeita,CF,J128
+1901,casos.csv,C112,fundamento_dignidade_autonomia,(coluna nova),Não enfrenta,CF,J128
+1902,casos.csv,C112,comparacao_com_anencefalia,(coluna nova),Não faz,CF,J128
+1903,casos.csv,C112,cita_adpf54,(coluna nova),Não,CF,J128
+1904,casos.csv,C112,cita_hc_932495,(coluna nova),Não,CF,J128
+1905,casos.csv,C112,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J128
+1906,casos.csv,C112,perda_de_objeto,(coluna nova),Não,CF,J128
+1907,casos.csv,C113,ig_momento,(coluna nova),Não consta,IG,Não aplicável
+1908,casos.csv,C113,fonte_dos_fundamentos,(coluna nova),Julgado que relata a decisão,CF,J130
+1909,casos.csv,C113,instancia,(coluna nova),2º grau,CF,J130
+1910,casos.csv,C113,orgao_julgador,(coluna nova),2ª Câmara Criminal do Tribunal de Justiça do Estado de São Paulo (TJSP),CF,J130
+1911,casos.csv,C113,via_processual,(coluna nova),Impugnação da autorização,CF,J130
+1912,casos.csv,C113,art128_I,(coluna nova),Mencionado sem exame,CF,J130
+1913,casos.csv,C113,fundamento_risco_vida_gestante,(coluna nova),Não enfrenta,CF,J130
+1914,casos.csv,C113,fundamento_inviabilidade_extrauterina,(coluna nova),Não enfrenta,CF,J130
+1915,casos.csv,C113,fundamento_dignidade_autonomia,(coluna nova),Não enfrenta,CF,J130
+1916,casos.csv,C113,comparacao_com_anencefalia,(coluna nova),Não faz,CF,J130
+1917,casos.csv,C113,cita_adpf54,(coluna nova),Não,CF,J130
+1918,casos.csv,C113,cita_hc_932495,(coluna nova),Não,CF,J130
+1919,casos.csv,C113,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J130
+1920,casos.csv,C113,perda_de_objeto,(coluna nova),Sim,CF,J130
+1921,casos.csv,C114,ig_semanas,16 (pedido),16,IG,J131
+1922,casos.csv,C114,ig_momento,(coluna nova),Pedido,IG,J131
+1923,casos.csv,C114,fonte_dos_fundamentos,(coluna nova),Julgado que relata a decisão,CF,J131
+1924,casos.csv,C114,instancia,(coluna nova),2º grau,CF,J131
+1925,casos.csv,C114,orgao_julgador,(coluna nova),3ª Câmara Criminal Extraordinária do Tribunal de Justiça do Estado de São Paulo (TJSP),CF,J131
+1926,casos.csv,C114,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J131
+1927,casos.csv,C114,art128_I,(coluna nova),Não mencionado,CF,J131
+1928,casos.csv,C114,fundamento_risco_vida_gestante,(coluna nova),Não enfrenta,CF,J131
+1929,casos.csv,C114,fundamento_inviabilidade_extrauterina,(coluna nova),Não enfrenta,CF,J131
+1930,casos.csv,C114,fundamento_dignidade_autonomia,(coluna nova),Não enfrenta,CF,J131
+1931,casos.csv,C114,comparacao_com_anencefalia,(coluna nova),Não faz,CF,J131
+1932,casos.csv,C114,cita_adpf54,(coluna nova),Não,CF,J131
+1933,casos.csv,C114,cita_hc_932495,(coluna nova),Não,CF,J131
+1934,casos.csv,C114,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J131
+1935,casos.csv,C114,perda_de_objeto,(coluna nova),Sim,CF,J131
+1936,casos.csv,C115,ig_semanas,15 (pedido),15,IG,J132
+1937,casos.csv,C115,ig_momento,(coluna nova),Pedido,IG,J132
+1938,casos.csv,C115,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J132
+1939,casos.csv,C115,instancia,(coluna nova),2º grau,CF,J132
+1940,casos.csv,C115,orgao_julgador,(coluna nova),5ª Câmara da Seção Criminal do Tribunal de Justiça do Estado de São Paulo (TJSP),CF,J132
+1941,casos.csv,C115,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J132
+1942,casos.csv,C115,art128_I,(coluna nova),Aplicado,CF,J132
+1943,casos.csv,C115,fundamento_risco_vida_gestante,(coluna nova),Acolhe,CF,J132
+1944,casos.csv,C115,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J132
+1945,casos.csv,C115,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J132
+1946,casos.csv,C115,comparacao_com_anencefalia,(coluna nova),Não faz,CF,J132
+1947,casos.csv,C115,cita_adpf54,(coluna nova),Não,CF,J132
+1948,casos.csv,C115,cita_hc_932495,(coluna nova),Não,CF,J132
+1949,casos.csv,C115,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J132
+1950,casos.csv,C115,perda_de_objeto,(coluna nova),Não,CF,J132
+1951,casos.csv,C116,ig_semanas,30 (pedido),30,IG,J133
+1952,casos.csv,C116,ig_momento,(coluna nova),Pedido,IG,J133
+1953,casos.csv,C116,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J133
+1954,casos.csv,C116,instancia,(coluna nova),2º grau,CF,J133
+1955,casos.csv,C116,orgao_julgador,(coluna nova),2ª Câmara Criminal Extraordinária do Tribunal de Justiça do Estado de São Paulo (TJSP),CF,J133
+1956,casos.csv,C116,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J133
+1957,casos.csv,C116,art128_I,(coluna nova),Mencionado sem exame,CF,J133
+1958,casos.csv,C116,fundamento_risco_vida_gestante,(coluna nova),Não enfrenta,CF,J133
+1959,casos.csv,C116,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J133
+1960,casos.csv,C116,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J133
+1961,casos.csv,C116,comparacao_com_anencefalia,(coluna nova),Não faz,CF,J133
+1962,casos.csv,C116,cita_adpf54,(coluna nova),Não,CF,J133
+1963,casos.csv,C116,cita_hc_932495,(coluna nova),Não,CF,J133
+1964,casos.csv,C116,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J133
+1965,casos.csv,C116,perda_de_objeto,(coluna nova),Não,CF,J133
+1966,casos.csv,C117,ig_semanas,17 (pedido),17,IG,J134
+1967,casos.csv,C117,ig_momento,(coluna nova),Pedido,IG,J134
+1968,casos.csv,C117,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J134
+1969,casos.csv,C117,instancia,(coluna nova),2º grau,CF,J134
+1970,casos.csv,C117,orgao_julgador,(coluna nova),16ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo (TJSP),CF,J134
+1971,casos.csv,C117,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J134
+1972,casos.csv,C117,art128_I,(coluna nova),Aplicado,CF,J134
+1973,casos.csv,C117,fundamento_risco_vida_gestante,(coluna nova),Acolhe,CF,J134
+1974,casos.csv,C117,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J134
+1975,casos.csv,C117,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J134
+1976,casos.csv,C117,comparacao_com_anencefalia,(coluna nova),Não faz,CF,J134
+1977,casos.csv,C117,cita_adpf54,(coluna nova),Não,CF,J134
+1978,casos.csv,C117,cita_hc_932495,(coluna nova),Não,CF,J134
+1979,casos.csv,C117,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J134
+1980,casos.csv,C117,perda_de_objeto,(coluna nova),Não,CF,J134
+1981,casos.csv,C118,ig_semanas,18 (pedido),18,IG,J135
+1982,casos.csv,C118,ig_momento,(coluna nova),Pedido,IG,J135
+1983,casos.csv,C118,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J135
+1984,casos.csv,C118,instancia,(coluna nova),2º grau,CF,J135
+1985,casos.csv,C118,orgao_julgador,(coluna nova),8ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo (TJSP),CF,J135
+1986,casos.csv,C118,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J135
+1987,casos.csv,C118,art128_I,(coluna nova),Aplicado,CF,J135
+1988,casos.csv,C118,fundamento_risco_vida_gestante,(coluna nova),Acolhe,CF,J135
+1989,casos.csv,C118,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J135
+1990,casos.csv,C118,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J135
+1991,casos.csv,C118,comparacao_com_anencefalia,(coluna nova),Não faz,CF,J135
+1992,casos.csv,C118,cita_adpf54,(coluna nova),Não,CF,J135
+1993,casos.csv,C118,cita_hc_932495,(coluna nova),Não,CF,J135
+1994,casos.csv,C118,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J135
+1995,casos.csv,C118,perda_de_objeto,(coluna nova),Não,CF,J135
+1996,casos.csv,C119,ig_semanas,16 (pedido),16,IG,J136
+1997,casos.csv,C119,ig_momento,(coluna nova),Pedido,IG,J136
+1998,casos.csv,C119,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J136
+1999,casos.csv,C119,instancia,(coluna nova),2º grau,CF,J136
+2000,casos.csv,C119,orgao_julgador,(coluna nova),10ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo (TJSP),CF,J136
+2001,casos.csv,C119,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J136
+2002,casos.csv,C119,art128_I,(coluna nova),Aplicado,CF,J136
+2003,casos.csv,C119,fundamento_risco_vida_gestante,(coluna nova),Acolhe,CF,J136
+2004,casos.csv,C119,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J136
+2005,casos.csv,C119,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J136
+2006,casos.csv,C119,comparacao_com_anencefalia,(coluna nova),Não faz,CF,J136
+2007,casos.csv,C119,cita_adpf54,(coluna nova),Não,CF,J136
+2008,casos.csv,C119,cita_hc_932495,(coluna nova),Não,CF,J136
+2009,casos.csv,C119,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J136
+2010,casos.csv,C119,perda_de_objeto,(coluna nova),Não,CF,J136
+2011,casos.csv,C120,ig_momento,(coluna nova),Não consta,IG,Não aplicável
+2012,casos.csv,C120,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J137
+2013,casos.csv,C120,instancia,(coluna nova),2º grau,CF,J137
+2014,casos.csv,C120,orgao_julgador,(coluna nova),16ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo (TJSP),CF,J137
+2015,casos.csv,C120,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J137
+2016,casos.csv,C120,art128_I,(coluna nova),Aplicado,CF,J137
+2017,casos.csv,C120,fundamento_risco_vida_gestante,(coluna nova),Acolhe,CF,J137
+2018,casos.csv,C120,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J137
+2019,casos.csv,C120,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J137
+2020,casos.csv,C120,comparacao_com_anencefalia,(coluna nova),Não faz,CF,J137
+2021,casos.csv,C120,cita_adpf54,(coluna nova),Não,CF,J137
+2022,casos.csv,C120,cita_hc_932495,(coluna nova),Não,CF,J137
+2023,casos.csv,C120,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J137
+2024,casos.csv,C120,perda_de_objeto,(coluna nova),Não,CF,J137
+2025,casos.csv,C121,ig_semanas,20 (pedido),20,IG,J138
+2026,casos.csv,C121,ig_momento,(coluna nova),Pedido,IG,J138
+2027,casos.csv,C121,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J138
+2028,casos.csv,C121,instancia,(coluna nova),2º grau,CF,J138
+2029,casos.csv,C121,orgao_julgador,(coluna nova),13ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo (TJSP),CF,J138
+2030,casos.csv,C121,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J138
+2031,casos.csv,C121,art128_I,(coluna nova),Aplicado,CF,J138
+2032,casos.csv,C121,fundamento_risco_vida_gestante,(coluna nova),Acolhe,CF,J138
+2033,casos.csv,C121,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J138
+2034,casos.csv,C121,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J138
+2035,casos.csv,C121,comparacao_com_anencefalia,(coluna nova),Não faz,CF,J138
+2036,casos.csv,C121,cita_adpf54,(coluna nova),Não,CF,J138
+2037,casos.csv,C121,cita_hc_932495,(coluna nova),Não,CF,J138
+2038,casos.csv,C121,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J138
+2039,casos.csv,C121,perda_de_objeto,(coluna nova),Não,CF,J138
+2040,casos.csv,C122,ig_semanas,14 (pedido),14,IG,J139
+2041,casos.csv,C122,ig_momento,(coluna nova),Pedido,IG,J139
+2042,casos.csv,C122,fonte_dos_fundamentos,(coluna nova),Não aplicável,CF,Não aplicável
+2043,casos.csv,C122,instancia,(coluna nova),Não aplicável,CF,Não aplicável
+2044,casos.csv,C122,orgao_julgador,(coluna nova),Não aplicável,CF,Não aplicável
+2045,casos.csv,C122,via_processual,(coluna nova),Não aplicável,CF,Não aplicável
+2046,casos.csv,C122,art128_I,(coluna nova),Não aplicável,CF,Não aplicável
+2047,casos.csv,C122,fundamento_risco_vida_gestante,(coluna nova),Não aplicável,CF,Não aplicável
+2048,casos.csv,C122,fundamento_inviabilidade_extrauterina,(coluna nova),Não aplicável,CF,Não aplicável
+2049,casos.csv,C122,fundamento_dignidade_autonomia,(coluna nova),Não aplicável,CF,Não aplicável
+2050,casos.csv,C122,comparacao_com_anencefalia,(coluna nova),Não aplicável,CF,Não aplicável
+2051,casos.csv,C122,cita_adpf54,(coluna nova),Não aplicável,CF,Não aplicável
+2052,casos.csv,C122,cita_hc_932495,(coluna nova),Não aplicável,CF,Não aplicável
+2053,casos.csv,C122,forma_do_texto,(coluna nova),Não aplicável,CF,Não aplicável
+2054,casos.csv,C122,perda_de_objeto,(coluna nova),Não aplicável,CF,Não aplicável
+2055,casos.csv,C123,ig_momento,(coluna nova),Não consta,IG,Não aplicável
+2056,casos.csv,C123,fonte_dos_fundamentos,(coluna nova),Julgado decisivo,CF,J140
+2057,casos.csv,C123,instancia,(coluna nova),2º grau,CF,J140
+2058,casos.csv,C123,orgao_julgador,(coluna nova),5ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo (TJSP),CF,J140
+2059,casos.csv,C123,via_processual,(coluna nova),Autorização prévia sem polo passivo,CF,J140
+2060,casos.csv,C123,art128_I,(coluna nova),Aplicado,CF,J140
+2061,casos.csv,C123,fundamento_risco_vida_gestante,(coluna nova),Acolhe,CF,J140
+2062,casos.csv,C123,fundamento_inviabilidade_extrauterina,(coluna nova),Acolhe,CF,J140
+2063,casos.csv,C123,fundamento_dignidade_autonomia,(coluna nova),Acolhe,CF,J140
+2064,casos.csv,C123,comparacao_com_anencefalia,(coluna nova),Não faz,CF,J140
+2065,casos.csv,C123,cita_adpf54,(coluna nova),Não,CF,J140
+2066,casos.csv,C123,cita_hc_932495,(coluna nova),Não,CF,J140
+2067,casos.csv,C123,forma_do_texto,(coluna nova),PDF de inteiro teor,CF,J140
+2068,casos.csv,C123,perda_de_objeto,(coluna nova),Não,CF,J140

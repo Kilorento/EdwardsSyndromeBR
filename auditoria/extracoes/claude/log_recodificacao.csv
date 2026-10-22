@@ -1,0 +1,561 @@
+﻿ref,campo,antes,depois,origem,muda_alem_da_conversao,nota
+J001,fundamento_risco_vida_gestante,Sim,Acolhe,relido no corpus,Não,
+J001,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,
+J001,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,
+J001,comparacao_com_anencefalia,Equipara,Equipara,relido no corpus,Não,
+J002,fundamento_risco_vida_gestante,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J002,fundamento_inviabilidade_extrauterina,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J002,fundamento_dignidade_autonomia,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J002,comparacao_com_anencefalia,Não faz,Não faz,conversão automática (fora da lista de revisão),Não,
+J003,fundamento_risco_vida_gestante,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J003,fundamento_inviabilidade_extrauterina,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J003,fundamento_dignidade_autonomia,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J003,comparacao_com_anencefalia,Não faz,Não faz,conversão automática (fora da lista de revisão),Não,
+J004,fundamento_risco_vida_gestante,Sim,Rejeita,relido no corpus,Sim,
+J004,fundamento_inviabilidade_extrauterina,Sim,Rejeita,relido no corpus,Sim,
+J004,fundamento_dignidade_autonomia,Não,Não enfrenta,relido no corpus,Não,
+J004,comparacao_com_anencefalia,Distingue,Distingue,relido no corpus,Não,
+J005,fundamento_risco_vida_gestante,Sim,Acolhe,relido no corpus,Não,deferiu por risco + sofrimento + dignidade; recusou a analogia com a ADPF 54
+J005,fundamento_inviabilidade_extrauterina,Sim,Rejeita,relido no corpus,Sim,deferiu por risco + sofrimento + dignidade; recusou a analogia com a ADPF 54
+J005,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,deferiu por risco + sofrimento + dignidade; recusou a analogia com a ADPF 54
+J005,comparacao_com_anencefalia,Distingue,Distingue,relido no corpus,Não,deferiu por risco + sofrimento + dignidade; recusou a analogia com a ADPF 54
+J006,fundamento_risco_vida_gestante,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J006,fundamento_inviabilidade_extrauterina,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J006,fundamento_dignidade_autonomia,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J006,comparacao_com_anencefalia,Não faz,Não faz,conversão automática (fora da lista de revisão),Não,
+J007,fundamento_risco_vida_gestante,Não acessível,Não acessível,conversão automática (fora da lista de revisão),Não,
+J007,fundamento_inviabilidade_extrauterina,Não acessível,Não acessível,conversão automática (fora da lista de revisão),Não,
+J007,fundamento_dignidade_autonomia,Não acessível,Não acessível,conversão automática (fora da lista de revisão),Não,
+J007,comparacao_com_anencefalia,Não acessível,Não acessível,conversão automática (fora da lista de revisão),Não,
+J008,fundamento_risco_vida_gestante,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J008,fundamento_inviabilidade_extrauterina,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J008,fundamento_dignidade_autonomia,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J008,comparacao_com_anencefalia,Não faz,Não faz,conversão automática (fora da lista de revisão),Não,
+J009,fundamento_risco_vida_gestante,Não acessível,Não acessível,conversão automática (fora da lista de revisão),Não,
+J009,fundamento_inviabilidade_extrauterina,Não acessível,Não acessível,conversão automática (fora da lista de revisão),Não,
+J009,fundamento_dignidade_autonomia,Não acessível,Não acessível,conversão automática (fora da lista de revisão),Não,
+J009,comparacao_com_anencefalia,Não acessível,Não acessível,conversão automática (fora da lista de revisão),Não,
+J010,fundamento_risco_vida_gestante,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J010,fundamento_inviabilidade_extrauterina,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J010,fundamento_dignidade_autonomia,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J010,comparacao_com_anencefalia,Não faz,Não faz,conversão automática (fora da lista de revisão),Não,
+J011,fundamento_risco_vida_gestante,Não,Não enfrenta,relido no corpus,Não,FP (agenesia renal); aplica a ADPF 54 por extensão
+J011,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,FP (agenesia renal); aplica a ADPF 54 por extensão
+J011,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,FP (agenesia renal); aplica a ADPF 54 por extensão
+J011,comparacao_com_anencefalia,Não faz,Equipara,relido no corpus,Sim,FP (agenesia renal); aplica a ADPF 54 por extensão
+J012,fundamento_risco_vida_gestante,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J012,fundamento_inviabilidade_extrauterina,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J012,fundamento_dignidade_autonomia,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J012,comparacao_com_anencefalia,Não faz,Não faz,conversão automática (fora da lista de revisão),Não,
+J013,fundamento_risco_vida_gestante,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J013,fundamento_inviabilidade_extrauterina,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J013,fundamento_dignidade_autonomia,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J013,comparacao_com_anencefalia,Não faz,Não faz,conversão automática (fora da lista de revisão),Não,
+J014,fundamento_risco_vida_gestante,Sim,Rejeita,relido no corpus,Sim,per relationem às decisões do TJSC
+J014,fundamento_inviabilidade_extrauterina,Sim,Rejeita,relido no corpus,Sim,per relationem às decisões do TJSC
+J014,fundamento_dignidade_autonomia,Não,Não enfrenta,relido no corpus,Não,per relationem às decisões do TJSC
+J014,comparacao_com_anencefalia,Distingue,Distingue,relido no corpus,Não,per relationem às decisões do TJSC
+J015,fundamento_risco_vida_gestante,Sim,Rejeita,relido no corpus,Sim,per relationem; prejudicado
+J015,fundamento_inviabilidade_extrauterina,Sim,Rejeita,relido no corpus,Sim,per relationem; prejudicado
+J015,fundamento_dignidade_autonomia,Não,Não enfrenta,relido no corpus,Não,per relationem; prejudicado
+J015,comparacao_com_anencefalia,Distingue,Distingue,relido no corpus,Não,per relationem; prejudicado
+J016,fundamento_risco_vida_gestante,Sim,Rejeita,relido no corpus,Sim,"dignidade discutida em abstrato, sem ser razão de decidir"
+J016,fundamento_inviabilidade_extrauterina,Sim,Rejeita,relido no corpus,Sim,"dignidade discutida em abstrato, sem ser razão de decidir"
+J016,fundamento_dignidade_autonomia,Não,Não enfrenta,relido no corpus,Não,"dignidade discutida em abstrato, sem ser razão de decidir"
+J016,comparacao_com_anencefalia,Distingue,Distingue,relido no corpus,Não,"dignidade discutida em abstrato, sem ser razão de decidir"
+J017,fundamento_risco_vida_gestante,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J017,fundamento_inviabilidade_extrauterina,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J017,fundamento_dignidade_autonomia,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J017,comparacao_com_anencefalia,Não faz,Não faz,conversão automática (fora da lista de revisão),Não,
+J018,fundamento_risco_vida_gestante,Sim,Rejeita,relido no corpus,Sim,
+J018,fundamento_inviabilidade_extrauterina,Sim,Rejeita,relido no corpus,Sim,
+J018,fundamento_dignidade_autonomia,Não,Não enfrenta,relido no corpus,Não,
+J018,comparacao_com_anencefalia,Distingue,Distingue,relido no corpus,Não,
+J019,fundamento_risco_vida_gestante,Não,Não enfrenta,relido no corpus,Não,RELEITURA: antes Não/Não; o juiz afasta a viabilidade como critério ('sem considerações de viabilidade') e pondera o sofrimento da gestante contra a vida do nascituro — afastamento expresso = Rejeita
+J019,fundamento_inviabilidade_extrauterina,Não,Rejeita,relido no corpus,Sim,RELEITURA: antes Não/Não; o juiz afasta a viabilidade como critério ('sem considerações de viabilidade') e pondera o sofrimento da gestante contra a vida do nascituro — afastamento expresso = Rejeita
+J019,fundamento_dignidade_autonomia,Não,Rejeita,relido no corpus,Sim,RELEITURA: antes Não/Não; o juiz afasta a viabilidade como critério ('sem considerações de viabilidade') e pondera o sofrimento da gestante contra a vida do nascituro — afastamento expresso = Rejeita
+J019,comparacao_com_anencefalia,Distingue,Distingue,relido no corpus,Não,RELEITURA: antes Não/Não; o juiz afasta a viabilidade como critério ('sem considerações de viabilidade') e pondera o sofrimento da gestante contra a vida do nascituro — afastamento expresso = Rejeita
+J020,fundamento_risco_vida_gestante,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J020,fundamento_inviabilidade_extrauterina,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J020,fundamento_dignidade_autonomia,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J020,comparacao_com_anencefalia,Não faz,Não faz,conversão automática (fora da lista de revisão),Não,
+J021,fundamento_risco_vida_gestante,Sim,Rejeita,relido no corpus,Sim,FP (encefalocele)
+J021,fundamento_inviabilidade_extrauterina,Sim,Rejeita,relido no corpus,Sim,FP (encefalocele)
+J021,fundamento_dignidade_autonomia,Sim,Rejeita,relido no corpus,Sim,FP (encefalocele)
+J021,comparacao_com_anencefalia,Distingue,Distingue,relido no corpus,Não,FP (encefalocele)
+J022,fundamento_risco_vida_gestante,Não,Não enfrenta,relido no corpus,Não,"risco à saúde (histerectomia), não à vida"
+J022,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,"risco à saúde (histerectomia), não à vida"
+J022,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,"risco à saúde (histerectomia), não à vida"
+J022,comparacao_com_anencefalia,Equipara,Equipara,relido no corpus,Não,"risco à saúde (histerectomia), não à vida"
+J023,fundamento_risco_vida_gestante,Não,Não enfrenta,relido no corpus,Não,
+J023,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,
+J023,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,
+J023,comparacao_com_anencefalia,Equipara,Equipara,relido no corpus,Não,
+J024,fundamento_risco_vida_gestante,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J024,fundamento_inviabilidade_extrauterina,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J024,fundamento_dignidade_autonomia,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J024,comparacao_com_anencefalia,Não faz,Não faz,conversão automática (fora da lista de revisão),Não,
+J025,fundamento_risco_vida_gestante,Sim,Acolhe,relido no corpus,Não,"subsume ao art. 128, I; não cita a ADPF 54"
+J025,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,"subsume ao art. 128, I; não cita a ADPF 54"
+J025,fundamento_dignidade_autonomia,Não,Não enfrenta,relido no corpus,Não,"subsume ao art. 128, I; não cita a ADPF 54"
+J025,comparacao_com_anencefalia,Não faz,Não faz,relido no corpus,Não,"subsume ao art. 128, I; não cita a ADPF 54"
+J026,fundamento_risco_vida_gestante,Sim,Acolhe,relido no corpus,Não,
+J026,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,
+J026,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,
+J026,comparacao_com_anencefalia,Equipara,Equipara,relido no corpus,Não,
+J027,fundamento_risco_vida_gestante,Não,Não enfrenta,relido no corpus,Não,"risco à saúde, não à vida"
+J027,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,"risco à saúde, não à vida"
+J027,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,"risco à saúde, não à vida"
+J027,comparacao_com_anencefalia,Equipara,Equipara,relido no corpus,Não,"risco à saúde, não à vida"
+J028,fundamento_risco_vida_gestante,Sim,Rejeita,relido no corpus,Sim,"FP (estupro, sem anomalia)"
+J028,fundamento_inviabilidade_extrauterina,Não,Não enfrenta,relido no corpus,Não,"FP (estupro, sem anomalia)"
+J028,fundamento_dignidade_autonomia,Não,Não enfrenta,relido no corpus,Não,"FP (estupro, sem anomalia)"
+J028,comparacao_com_anencefalia,Não faz,Não faz,relido no corpus,Não,"FP (estupro, sem anomalia)"
+J029,fundamento_risco_vida_gestante,Sim,Rejeita,relido no corpus,Sim,argumento antidiscriminação
+J029,fundamento_inviabilidade_extrauterina,Sim,Rejeita,relido no corpus,Sim,argumento antidiscriminação
+J029,fundamento_dignidade_autonomia,Sim,Rejeita,relido no corpus,Sim,argumento antidiscriminação
+J029,comparacao_com_anencefalia,Distingue,Distingue,relido no corpus,Não,argumento antidiscriminação
+J030,fundamento_risco_vida_gestante,Não,Não enfrenta,relido no corpus,Não,"não usa a ADPF 54; inviabilidade assimilada ao art. 128, I"
+J030,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,"não usa a ADPF 54; inviabilidade assimilada ao art. 128, I"
+J030,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,"não usa a ADPF 54; inviabilidade assimilada ao art. 128, I"
+J030,comparacao_com_anencefalia,Não faz,Não faz,relido no corpus,Não,"não usa a ADPF 54; inviabilidade assimilada ao art. 128, I"
+J031,fundamento_risco_vida_gestante,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J031,fundamento_inviabilidade_extrauterina,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J031,fundamento_dignidade_autonomia,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J031,comparacao_com_anencefalia,Não faz,Não faz,conversão automática (fora da lista de revisão),Não,
+J032,fundamento_risco_vida_gestante,Sim,Acolhe,relido no corpus,Não,"VOTO CONDUTOR; 2 de 3 julgadores rejeitam inviabilidade e ADPF 54 e concedem só pelo art. 128, I — a decidir"
+J032,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,"VOTO CONDUTOR; 2 de 3 julgadores rejeitam inviabilidade e ADPF 54 e concedem só pelo art. 128, I — a decidir"
+J032,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,"VOTO CONDUTOR; 2 de 3 julgadores rejeitam inviabilidade e ADPF 54 e concedem só pelo art. 128, I — a decidir"
+J032,comparacao_com_anencefalia,Equipara,Equipara,relido no corpus,Não,"VOTO CONDUTOR; 2 de 3 julgadores rejeitam inviabilidade e ADPF 54 e concedem só pelo art. 128, I — a decidir"
+J033,fundamento_risco_vida_gestante,Não,Não enfrenta,relido no corpus,Não,"FP (T13, indenização); ADPF 54 citada para o dano moral, sem analogia para autorizar"
+J033,fundamento_inviabilidade_extrauterina,Não,Não enfrenta,relido no corpus,Não,"FP (T13, indenização); ADPF 54 citada para o dano moral, sem analogia para autorizar"
+J033,fundamento_dignidade_autonomia,Não,Não enfrenta,relido no corpus,Não,"FP (T13, indenização); ADPF 54 citada para o dano moral, sem analogia para autorizar"
+J033,comparacao_com_anencefalia,Não faz,Não faz,relido no corpus,Não,"FP (T13, indenização); ADPF 54 citada para o dano moral, sem analogia para autorizar"
+J034,fundamento_risco_vida_gestante,Sim,Rejeita,relido no corpus,Sim,RELEITURA dignidade: antes Não; voto condutor usa o argumento antidiscriminação para afastar a dignidade da gestante (mesmo critério do J029)
+J034,fundamento_inviabilidade_extrauterina,Sim,Rejeita,relido no corpus,Sim,RELEITURA dignidade: antes Não; voto condutor usa o argumento antidiscriminação para afastar a dignidade da gestante (mesmo critério do J029)
+J034,fundamento_dignidade_autonomia,Não,Rejeita,relido no corpus,Sim,RELEITURA dignidade: antes Não; voto condutor usa o argumento antidiscriminação para afastar a dignidade da gestante (mesmo critério do J029)
+J034,comparacao_com_anencefalia,Distingue,Distingue,relido no corpus,Não,RELEITURA dignidade: antes Não; voto condutor usa o argumento antidiscriminação para afastar a dignidade da gestante (mesmo critério do J029)
+J035,fundamento_risco_vida_gestante,Sim,Rejeita,relido no corpus,Sim,RELEITURA dignidade: idem J034
+J035,fundamento_inviabilidade_extrauterina,Sim,Rejeita,relido no corpus,Sim,RELEITURA dignidade: idem J034
+J035,fundamento_dignidade_autonomia,Não,Rejeita,relido no corpus,Sim,RELEITURA dignidade: idem J034
+J035,comparacao_com_anencefalia,Distingue,Distingue,relido no corpus,Não,RELEITURA dignidade: idem J034
+J036,fundamento_risco_vida_gestante,Sim,Acolhe,relido no corpus,Não,FP (holoprosencefalia)
+J036,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,FP (holoprosencefalia)
+J036,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,FP (holoprosencefalia)
+J036,comparacao_com_anencefalia,Equipara,Equipara,relido no corpus,Não,FP (holoprosencefalia)
+J037,fundamento_risco_vida_gestante,Sim,Rejeita,relido no corpus,Sim,"relator afasta o art. 128, I; concede por analogia + saúde + dignidade"
+J037,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,"relator afasta o art. 128, I; concede por analogia + saúde + dignidade"
+J037,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,"relator afasta o art. 128, I; concede por analogia + saúde + dignidade"
+J037,comparacao_com_anencefalia,Equipara,Equipara,relido no corpus,Não,"relator afasta o art. 128, I; concede por analogia + saúde + dignidade"
+J038,fundamento_risco_vida_gestante,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J038,fundamento_inviabilidade_extrauterina,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J038,fundamento_dignidade_autonomia,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J038,comparacao_com_anencefalia,Não faz,Não faz,conversão automática (fora da lista de revisão),Não,
+J039,fundamento_risco_vida_gestante,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J039,fundamento_inviabilidade_extrauterina,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J039,fundamento_dignidade_autonomia,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J039,comparacao_com_anencefalia,Não faz,Não faz,conversão automática (fora da lista de revisão),Não,
+J040,fundamento_risco_vida_gestante,Não,Não enfrenta,relido no corpus,Não,FP (T13); 'questão que ultrapassa' o perigo à vida
+J040,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,FP (T13); 'questão que ultrapassa' o perigo à vida
+J040,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,FP (T13); 'questão que ultrapassa' o perigo à vida
+J040,comparacao_com_anencefalia,Equipara,Equipara,relido no corpus,Não,FP (T13); 'questão que ultrapassa' o perigo à vida
+J041,fundamento_risco_vida_gestante,Sim,Acolhe,relido no corpus,Não,FP (body stalk); só ementa
+J041,fundamento_inviabilidade_extrauterina,Não acessível,Não acessível,relido no corpus,Não,FP (body stalk); só ementa
+J041,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,FP (body stalk); só ementa
+J041,comparacao_com_anencefalia,Não acessível,Não acessível,relido no corpus,Não,FP (body stalk); só ementa
+J042,fundamento_risco_vida_gestante,Não,Não enfrenta,relido no corpus,Não,FP (T13); só ementa; a ementa rotula 'aborto necessário' mas não examina risco à vida
+J042,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,FP (T13); só ementa; a ementa rotula 'aborto necessário' mas não examina risco à vida
+J042,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,FP (T13); só ementa; a ementa rotula 'aborto necessário' mas não examina risco à vida
+J042,comparacao_com_anencefalia,Não acessível,Não acessível,relido no corpus,Não,FP (T13); só ementa; a ementa rotula 'aborto necessário' mas não examina risco à vida
+J043,fundamento_risco_vida_gestante,Não,Não enfrenta,relido no corpus,Não,
+J043,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,
+J043,fundamento_dignidade_autonomia,Não,Não enfrenta,relido no corpus,Não,
+J043,comparacao_com_anencefalia,Equipara,Equipara,relido no corpus,Não,
+J044,fundamento_risco_vida_gestante,Sim,Acolhe,relido no corpus,Não,FP (T13)
+J044,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,FP (T13)
+J044,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,FP (T13)
+J044,comparacao_com_anencefalia,Equipara,Equipara,relido no corpus,Não,FP (T13)
+J045,fundamento_risco_vida_gestante,Não,Não enfrenta,relido no corpus,Não,"analogia ao art. 128, II, e liminar da ADPF 54 (2004)"
+J045,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,"analogia ao art. 128, II, e liminar da ADPF 54 (2004)"
+J045,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,"analogia ao art. 128, II, e liminar da ADPF 54 (2004)"
+J045,comparacao_com_anencefalia,Equipara,Equipara,relido no corpus,Não,"analogia ao art. 128, II, e liminar da ADPF 54 (2004)"
+J046,fundamento_risco_vida_gestante,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J046,fundamento_inviabilidade_extrauterina,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J046,fundamento_dignidade_autonomia,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J046,comparacao_com_anencefalia,Não faz,Não faz,conversão automática (fora da lista de revisão),Não,
+J047,fundamento_risco_vida_gestante,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J047,fundamento_inviabilidade_extrauterina,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J047,fundamento_dignidade_autonomia,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J047,comparacao_com_anencefalia,Não faz,Não faz,conversão automática (fora da lista de revisão),Não,
+J048,fundamento_risco_vida_gestante,Sim,Acolhe,relido no corpus,Não,"art. 128, I, para risco à saúde; não cita a ADPF 54"
+J048,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,"art. 128, I, para risco à saúde; não cita a ADPF 54"
+J048,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,"art. 128, I, para risco à saúde; não cita a ADPF 54"
+J048,comparacao_com_anencefalia,Não faz,Não faz,relido no corpus,Não,"art. 128, I, para risco à saúde; não cita a ADPF 54"
+J049,fundamento_risco_vida_gestante,Não,Não enfrenta,relido no corpus,Não,razão de decidir processual (HC incabível); a defesa da analogia com a ADPF 54 é obiter dictum
+J049,fundamento_inviabilidade_extrauterina,Não,Não enfrenta,relido no corpus,Não,razão de decidir processual (HC incabível); a defesa da analogia com a ADPF 54 é obiter dictum
+J049,fundamento_dignidade_autonomia,Não,Não enfrenta,relido no corpus,Não,razão de decidir processual (HC incabível); a defesa da analogia com a ADPF 54 é obiter dictum
+J049,comparacao_com_anencefalia,Não faz,Não faz,relido no corpus,Não,razão de decidir processual (HC incabível); a defesa da analogia com a ADPF 54 é obiter dictum
+J050,fundamento_risco_vida_gestante,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J050,fundamento_inviabilidade_extrauterina,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J050,fundamento_dignidade_autonomia,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J050,comparacao_com_anencefalia,Não faz,Não faz,conversão automática (fora da lista de revisão),Não,
+J051,fundamento_risco_vida_gestante,Sim,Acolhe,relido no corpus,Não,FP (agenesia renal); só ementa
+J051,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,FP (agenesia renal); só ementa
+J051,fundamento_dignidade_autonomia,Não acessível,Não acessível,relido no corpus,Não,FP (agenesia renal); só ementa
+J051,comparacao_com_anencefalia,Equipara,Equipara,relido no corpus,Não,FP (agenesia renal); só ementa
+J052,fundamento_risco_vida_gestante,Não,Rejeita,relido no corpus,Sim,RELEITURA risco: antes Não; a relatora registra que o laudo não indica risco de morte e concede sem ele (mesmo critério do J037)
+J052,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,RELEITURA risco: antes Não; a relatora registra que o laudo não indica risco de morte e concede sem ele (mesmo critério do J037)
+J052,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,RELEITURA risco: antes Não; a relatora registra que o laudo não indica risco de morte e concede sem ele (mesmo critério do J037)
+J052,comparacao_com_anencefalia,Equipara,Equipara,relido no corpus,Não,RELEITURA risco: antes Não; a relatora registra que o laudo não indica risco de morte e concede sem ele (mesmo critério do J037)
+J053,fundamento_risco_vida_gestante,Sim,Acolhe,relido no corpus,Não,
+J053,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,
+J053,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,
+J053,comparacao_com_anencefalia,Não faz,Não faz,relido no corpus,Não,
+J054,fundamento_risco_vida_gestante,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J054,fundamento_inviabilidade_extrauterina,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J054,fundamento_dignidade_autonomia,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J054,comparacao_com_anencefalia,Não faz,Não faz,conversão automática (fora da lista de revisão),Não,
+J055,fundamento_risco_vida_gestante,Não,Não enfrenta,relido no corpus,Não,
+J055,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,
+J055,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,
+J055,comparacao_com_anencefalia,Equipara,Equipara,relido no corpus,Não,
+J056,fundamento_risco_vida_gestante,Sim,Rejeita,relido no corpus,Sim,FP (T13 suspeita)
+J056,fundamento_inviabilidade_extrauterina,Sim,Rejeita,relido no corpus,Sim,FP (T13 suspeita)
+J056,fundamento_dignidade_autonomia,Sim,Rejeita,relido no corpus,Sim,FP (T13 suspeita)
+J056,comparacao_com_anencefalia,Distingue,Distingue,relido no corpus,Não,FP (T13 suspeita)
+J057,fundamento_risco_vida_gestante,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J057,fundamento_inviabilidade_extrauterina,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J057,fundamento_dignidade_autonomia,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J057,comparacao_com_anencefalia,Não faz,Não faz,conversão automática (fora da lista de revisão),Não,
+J058,fundamento_risco_vida_gestante,Sim,Rejeita,relido no corpus,Sim,
+J058,fundamento_inviabilidade_extrauterina,Sim,Rejeita,relido no corpus,Sim,
+J058,fundamento_dignidade_autonomia,Sim,Rejeita,relido no corpus,Sim,
+J058,comparacao_com_anencefalia,Distingue,Distingue,relido no corpus,Não,
+J059,fundamento_risco_vida_gestante,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J059,fundamento_inviabilidade_extrauterina,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J059,fundamento_dignidade_autonomia,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J059,comparacao_com_anencefalia,Não faz,Não faz,conversão automática (fora da lista de revisão),Não,
+J060,fundamento_risco_vida_gestante,Sim,Rejeita,relido no corpus,Sim,
+J060,fundamento_inviabilidade_extrauterina,Sim,Rejeita,relido no corpus,Sim,
+J060,fundamento_dignidade_autonomia,Não,Não enfrenta,relido no corpus,Não,
+J060,comparacao_com_anencefalia,Distingue,Distingue,relido no corpus,Não,
+J061,fundamento_risco_vida_gestante,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J061,fundamento_inviabilidade_extrauterina,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J061,fundamento_dignidade_autonomia,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J061,comparacao_com_anencefalia,Não faz,Não faz,conversão automática (fora da lista de revisão),Não,
+J062,fundamento_risco_vida_gestante,Sim,Acolhe,relido no corpus,Não,
+J062,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,
+J062,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,
+J062,comparacao_com_anencefalia,Equipara,Equipara,relido no corpus,Não,
+J063,fundamento_risco_vida_gestante,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J063,fundamento_inviabilidade_extrauterina,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J063,fundamento_dignidade_autonomia,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J063,comparacao_com_anencefalia,Não faz,Não faz,conversão automática (fora da lista de revisão),Não,
+J064,fundamento_risco_vida_gestante,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J064,fundamento_inviabilidade_extrauterina,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J064,fundamento_dignidade_autonomia,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J064,comparacao_com_anencefalia,Não faz,Não faz,conversão automática (fora da lista de revisão),Não,
+J065,fundamento_risco_vida_gestante,Sim,Rejeita,relido no corpus,Sim,só ementa
+J065,fundamento_inviabilidade_extrauterina,Sim,Rejeita,relido no corpus,Sim,só ementa
+J065,fundamento_dignidade_autonomia,Não,Não enfrenta,relido no corpus,Não,só ementa
+J065,comparacao_com_anencefalia,Não faz,Não faz,relido no corpus,Não,só ementa
+J066,fundamento_risco_vida_gestante,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J066,fundamento_inviabilidade_extrauterina,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J066,fundamento_dignidade_autonomia,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J066,comparacao_com_anencefalia,Não faz,Não faz,conversão automática (fora da lista de revisão),Não,
+J067,fundamento_risco_vida_gestante,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J067,fundamento_inviabilidade_extrauterina,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J067,fundamento_dignidade_autonomia,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J067,comparacao_com_anencefalia,Não faz,Não faz,conversão automática (fora da lista de revisão),Não,
+J068,fundamento_risco_vida_gestante,Não,Não enfrenta,relido no corpus,Não,FP (T13)
+J068,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,FP (T13)
+J068,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,FP (T13)
+J068,comparacao_com_anencefalia,Equipara,Equipara,relido no corpus,Não,FP (T13)
+J069,fundamento_risco_vida_gestante,Sim,Rejeita,relido no corpus,Sim,só ementa
+J069,fundamento_inviabilidade_extrauterina,Sim,Rejeita,relido no corpus,Sim,só ementa
+J069,fundamento_dignidade_autonomia,Não,Não enfrenta,relido no corpus,Não,só ementa
+J069,comparacao_com_anencefalia,Não faz,Não faz,relido no corpus,Não,só ementa
+J070,fundamento_risco_vida_gestante,Não acessível,Não acessível,conversão automática (fora da lista de revisão),Não,
+J070,fundamento_inviabilidade_extrauterina,Não acessível,Não acessível,conversão automática (fora da lista de revisão),Não,
+J070,fundamento_dignidade_autonomia,Não acessível,Não acessível,conversão automática (fora da lista de revisão),Não,
+J070,comparacao_com_anencefalia,Não acessível,Não acessível,conversão automática (fora da lista de revisão),Não,
+J071,fundamento_risco_vida_gestante,Não,Não enfrenta,relido no corpus,Não,"ação contra plano: aplica a 'lógica subjacente' da ADPF 54 (e do HC 56.572) por analogia, para qualificar a urgência contratual; não enfrenta a tipificação"
+J071,fundamento_inviabilidade_extrauterina,Não,Não enfrenta,relido no corpus,Não,"ação contra plano: aplica a 'lógica subjacente' da ADPF 54 (e do HC 56.572) por analogia, para qualificar a urgência contratual; não enfrenta a tipificação"
+J071,fundamento_dignidade_autonomia,Não,Não enfrenta,relido no corpus,Não,"ação contra plano: aplica a 'lógica subjacente' da ADPF 54 (e do HC 56.572) por analogia, para qualificar a urgência contratual; não enfrenta a tipificação"
+J071,comparacao_com_anencefalia,Não faz,Equipara,relido no corpus,Sim,"ação contra plano: aplica a 'lógica subjacente' da ADPF 54 (e do HC 56.572) por analogia, para qualificar a urgência contratual; não enfrenta a tipificação"
+J072,fundamento_risco_vida_gestante,Sim,Acolhe,relido no corpus,Não,"FP (o próprio feto é anencéfalo): aplica a ADPF 54 diretamente, não por analogia"
+J072,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,"FP (o próprio feto é anencéfalo): aplica a ADPF 54 diretamente, não por analogia"
+J072,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,"FP (o próprio feto é anencéfalo): aplica a ADPF 54 diretamente, não por analogia"
+J072,comparacao_com_anencefalia,Não faz,Não faz,relido no corpus,Não,"FP (o próprio feto é anencéfalo): aplica a ADPF 54 diretamente, não por analogia"
+J073,fundamento_risco_vida_gestante,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J073,fundamento_inviabilidade_extrauterina,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J073,fundamento_dignidade_autonomia,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J073,comparacao_com_anencefalia,Não faz,Não faz,conversão automática (fora da lista de revisão),Não,
+J074,fundamento_risco_vida_gestante,Não,Não enfrenta,relido no corpus,Não,
+J074,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,
+J074,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,
+J074,comparacao_com_anencefalia,Equipara,Equipara,relido no corpus,Não,
+J075,fundamento_risco_vida_gestante,Não,Não enfrenta,relido no corpus,Não,"FP (body stalk); modelo da 1ª Vara do Júri (inexigibilidade), sem ADPF 54"
+J075,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,"FP (body stalk); modelo da 1ª Vara do Júri (inexigibilidade), sem ADPF 54"
+J075,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,"FP (body stalk); modelo da 1ª Vara do Júri (inexigibilidade), sem ADPF 54"
+J075,comparacao_com_anencefalia,Não faz,Não faz,relido no corpus,Não,"FP (body stalk); modelo da 1ª Vara do Júri (inexigibilidade), sem ADPF 54"
+J076,fundamento_risco_vida_gestante,Não,Não enfrenta,relido no corpus,Não,FP (cefalópagos); modelo da vara
+J076,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,FP (cefalópagos); modelo da vara
+J076,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,FP (cefalópagos); modelo da vara
+J076,comparacao_com_anencefalia,Não faz,Não faz,relido no corpus,Não,FP (cefalópagos); modelo da vara
+J077,fundamento_risco_vida_gestante,Não,Não enfrenta,relido no corpus,Não,modelo da vara
+J077,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,modelo da vara
+J077,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,modelo da vara
+J077,comparacao_com_anencefalia,Não faz,Não faz,relido no corpus,Não,modelo da vara
+J078,fundamento_risco_vida_gestante,Não,Não enfrenta,relido no corpus,Não,FP (brida amniótica); modelo da vara
+J078,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,FP (brida amniótica); modelo da vara
+J078,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,FP (brida amniótica); modelo da vara
+J078,comparacao_com_anencefalia,Não faz,Não faz,relido no corpus,Não,FP (brida amniótica); modelo da vara
+J079,fundamento_risco_vida_gestante,Não,Não enfrenta,relido no corpus,Não,modelo da vara
+J079,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,modelo da vara
+J079,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,modelo da vara
+J079,comparacao_com_anencefalia,Não faz,Não faz,relido no corpus,Não,modelo da vara
+J080,fundamento_risco_vida_gestante,Não,Não enfrenta,relido no corpus,Não,FP (agenesia renal); modelo da vara
+J080,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,FP (agenesia renal); modelo da vara
+J080,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,FP (agenesia renal); modelo da vara
+J080,comparacao_com_anencefalia,Não faz,Não faz,relido no corpus,Não,FP (agenesia renal); modelo da vara
+J081,fundamento_risco_vida_gestante,Não,Não enfrenta,relido no corpus,Não,variante do modelo da vara
+J081,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,variante do modelo da vara
+J081,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,variante do modelo da vara
+J081,comparacao_com_anencefalia,Não faz,Não faz,relido no corpus,Não,variante do modelo da vara
+J082,fundamento_risco_vida_gestante,Não,Não enfrenta,relido no corpus,Não,FP (agenesia renal); modelo da vara
+J082,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,FP (agenesia renal); modelo da vara
+J082,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,FP (agenesia renal); modelo da vara
+J082,comparacao_com_anencefalia,Não faz,Não faz,relido no corpus,Não,FP (agenesia renal); modelo da vara
+J083,fundamento_risco_vida_gestante,Não,Não enfrenta,relido no corpus,Não,FP (agenesia renal + cardiopatia); modelo da vara
+J083,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,FP (agenesia renal + cardiopatia); modelo da vara
+J083,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,FP (agenesia renal + cardiopatia); modelo da vara
+J083,comparacao_com_anencefalia,Não faz,Não faz,relido no corpus,Não,FP (agenesia renal + cardiopatia); modelo da vara
+J084,fundamento_risco_vida_gestante,Sim,Acolhe,relido no corpus,Não,ação contra plano: risco de vida como razão contratual
+J084,fundamento_inviabilidade_extrauterina,Não,Não enfrenta,relido no corpus,Não,ação contra plano: risco de vida como razão contratual
+J084,fundamento_dignidade_autonomia,Não,Não enfrenta,relido no corpus,Não,ação contra plano: risco de vida como razão contratual
+J084,comparacao_com_anencefalia,Não faz,Não faz,relido no corpus,Não,ação contra plano: risco de vida como razão contratual
+J085,fundamento_risco_vida_gestante,Não,Não enfrenta,relido no corpus,Não,FP (T13); modelo da vara
+J085,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,FP (T13); modelo da vara
+J085,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,FP (T13); modelo da vara
+J085,comparacao_com_anencefalia,Não faz,Não faz,relido no corpus,Não,FP (T13); modelo da vara
+J086,fundamento_risco_vida_gestante,Não,Não enfrenta,relido no corpus,Não,art. 128 como causa de justificação + inexigibilidade; ADPF 54 só por remissão ao parecer do MP
+J086,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,art. 128 como causa de justificação + inexigibilidade; ADPF 54 só por remissão ao parecer do MP
+J086,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,art. 128 como causa de justificação + inexigibilidade; ADPF 54 só por remissão ao parecer do MP
+J086,comparacao_com_anencefalia,Não faz,Não faz,relido no corpus,Não,art. 128 como causa de justificação + inexigibilidade; ADPF 54 só por remissão ao parecer do MP
+J087,fundamento_risco_vida_gestante,Não,Não enfrenta,relido no corpus,Não,FP (displasia esquelética); modelo da vara
+J087,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,FP (displasia esquelética); modelo da vara
+J087,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,FP (displasia esquelética); modelo da vara
+J087,comparacao_com_anencefalia,Não faz,Não faz,relido no corpus,Não,FP (displasia esquelética); modelo da vara
+J088,fundamento_risco_vida_gestante,Não,Não enfrenta,relido no corpus,Não,FP (body stalk); modelo da vara + analogia expressa à ADPF 54
+J088,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,FP (body stalk); modelo da vara + analogia expressa à ADPF 54
+J088,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,FP (body stalk); modelo da vara + analogia expressa à ADPF 54
+J088,comparacao_com_anencefalia,Equipara,Equipara,relido no corpus,Não,FP (body stalk); modelo da vara + analogia expressa à ADPF 54
+J089,fundamento_risco_vida_gestante,Não,Não enfrenta,relido no corpus,Não,FP (holoprosencefalia); modelo da vara
+J089,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,FP (holoprosencefalia); modelo da vara
+J089,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,FP (holoprosencefalia); modelo da vara
+J089,comparacao_com_anencefalia,Não faz,Não faz,relido no corpus,Não,FP (holoprosencefalia); modelo da vara
+J090,fundamento_risco_vida_gestante,Não,Rejeita,relido no corpus,Sim,"RECODIFICADO risco: antes Não; o juiz afirma expressamente que o caso não se subsume ao art. 128, I (mesmo critério de J105/J107); corrigido na revisão final de 14/10"
+J090,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,"RECODIFICADO risco: antes Não; o juiz afirma expressamente que o caso não se subsume ao art. 128, I (mesmo critério de J105/J107); corrigido na revisão final de 14/10"
+J090,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,"RECODIFICADO risco: antes Não; o juiz afirma expressamente que o caso não se subsume ao art. 128, I (mesmo critério de J105/J107); corrigido na revisão final de 14/10"
+J090,comparacao_com_anencefalia,Equipara,Equipara,relido no corpus,Não,"RECODIFICADO risco: antes Não; o juiz afirma expressamente que o caso não se subsume ao art. 128, I (mesmo critério de J105/J107); corrigido na revisão final de 14/10"
+J091,fundamento_risco_vida_gestante,Sim,Rejeita,relido no corpus,Sim,FP (T13)
+J091,fundamento_inviabilidade_extrauterina,Sim,Rejeita,relido no corpus,Sim,FP (T13)
+J091,fundamento_dignidade_autonomia,Não,Não enfrenta,relido no corpus,Não,FP (T13)
+J091,comparacao_com_anencefalia,Distingue,Distingue,relido no corpus,Não,FP (T13)
+J092,fundamento_risco_vida_gestante,Não,Não enfrenta,relido no corpus,Não,RELEITURA dignidade: antes Não; a juíza pondera o 'intenso' sofrimento e faz prevalecer a vida do nascituro (mesmo critério do J019)
+J092,fundamento_inviabilidade_extrauterina,Sim,Rejeita,relido no corpus,Sim,RELEITURA dignidade: antes Não; a juíza pondera o 'intenso' sofrimento e faz prevalecer a vida do nascituro (mesmo critério do J019)
+J092,fundamento_dignidade_autonomia,Não,Rejeita,relido no corpus,Sim,RELEITURA dignidade: antes Não; a juíza pondera o 'intenso' sofrimento e faz prevalecer a vida do nascituro (mesmo critério do J019)
+J092,comparacao_com_anencefalia,Distingue,Distingue,relido no corpus,Não,RELEITURA dignidade: antes Não; a juíza pondera o 'intenso' sofrimento e faz prevalecer a vida do nascituro (mesmo critério do J019)
+J093,fundamento_risco_vida_gestante,Não,Não enfrenta,relido no corpus,Não,"risco materno (placenta prévia) tratado como risco à saúde, sem art. 128, I — mesmo critério de J022/J027"
+J093,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,"risco materno (placenta prévia) tratado como risco à saúde, sem art. 128, I — mesmo critério de J022/J027"
+J093,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,"risco materno (placenta prévia) tratado como risco à saúde, sem art. 128, I — mesmo critério de J022/J027"
+J093,comparacao_com_anencefalia,Não faz,Não faz,relido no corpus,Não,"risco materno (placenta prévia) tratado como risco à saúde, sem art. 128, I — mesmo critério de J022/J027"
+J094,fundamento_risco_vida_gestante,Não,Não enfrenta,relido no corpus,Não,
+J094,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,
+J094,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,
+J094,comparacao_com_anencefalia,Equipara,Equipara,relido no corpus,Não,
+J095,fundamento_risco_vida_gestante,Sim,Rejeita,relido no corpus,Sim,FP (sirenomelia)
+J095,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,FP (sirenomelia)
+J095,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,FP (sirenomelia)
+J095,comparacao_com_anencefalia,Equipara,Equipara,relido no corpus,Não,FP (sirenomelia)
+J096,fundamento_risco_vida_gestante,Não,Não enfrenta,relido no corpus,Não,"modelo de Campinas (inexigibilidade + estado de necessidade), sem ADPF 54"
+J096,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,"modelo de Campinas (inexigibilidade + estado de necessidade), sem ADPF 54"
+J096,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,"modelo de Campinas (inexigibilidade + estado de necessidade), sem ADPF 54"
+J096,comparacao_com_anencefalia,Não faz,Não faz,relido no corpus,Não,"modelo de Campinas (inexigibilidade + estado de necessidade), sem ADPF 54"
+J097,fundamento_risco_vida_gestante,Sim,Rejeita,relido no corpus,Sim,FP (sem malformação); RECODIFICADO comparação: antes Não faz; recusa a analogia com a ADPF 54 por falta de inviabilidade demonstrada
+J097,fundamento_inviabilidade_extrauterina,Sim,Rejeita,relido no corpus,Sim,FP (sem malformação); RECODIFICADO comparação: antes Não faz; recusa a analogia com a ADPF 54 por falta de inviabilidade demonstrada
+J097,fundamento_dignidade_autonomia,Não,Não enfrenta,relido no corpus,Não,FP (sem malformação); RECODIFICADO comparação: antes Não faz; recusa a analogia com a ADPF 54 por falta de inviabilidade demonstrada
+J097,comparacao_com_anencefalia,Não faz,Distingue,relido no corpus,Sim,FP (sem malformação); RECODIFICADO comparação: antes Não faz; recusa a analogia com a ADPF 54 por falta de inviabilidade demonstrada
+J098,fundamento_risco_vida_gestante,Não,Não enfrenta,relido no corpus,Não,"FP (anencefalia/exencefalia): ADPF 54 aplicada diretamente, não por analogia"
+J098,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,"FP (anencefalia/exencefalia): ADPF 54 aplicada diretamente, não por analogia"
+J098,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,"FP (anencefalia/exencefalia): ADPF 54 aplicada diretamente, não por analogia"
+J098,comparacao_com_anencefalia,Não faz,Não faz,relido no corpus,Não,"FP (anencefalia/exencefalia): ADPF 54 aplicada diretamente, não por analogia"
+J099,fundamento_risco_vida_gestante,Não,Não enfrenta,relido no corpus,Não,FP (pentalogia de Cantrell): ADPF 54 por semelhança
+J099,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,FP (pentalogia de Cantrell): ADPF 54 por semelhança
+J099,fundamento_dignidade_autonomia,Não,Não enfrenta,relido no corpus,Não,FP (pentalogia de Cantrell): ADPF 54 por semelhança
+J099,comparacao_com_anencefalia,Equipara,Equipara,relido no corpus,Não,FP (pentalogia de Cantrell): ADPF 54 por semelhança
+J100,fundamento_risco_vida_gestante,Não,Não enfrenta,relido no corpus,Não,taxatividade do art. 128; não cita ADPF 54
+J100,fundamento_inviabilidade_extrauterina,Sim,Rejeita,relido no corpus,Sim,taxatividade do art. 128; não cita ADPF 54
+J100,fundamento_dignidade_autonomia,Não,Não enfrenta,relido no corpus,Não,taxatividade do art. 128; não cita ADPF 54
+J100,comparacao_com_anencefalia,Não faz,Não faz,relido no corpus,Não,taxatividade do art. 128; não cita ADPF 54
+J101,fundamento_risco_vida_gestante,Sim,Rejeita,relido no corpus,Sim,CONVENÇÃO A CONFIRMAR: risco remetido ao médico (carência de ação) codificado como Rejeita
+J101,fundamento_inviabilidade_extrauterina,Sim,Rejeita,relido no corpus,Sim,CONVENÇÃO A CONFIRMAR: risco remetido ao médico (carência de ação) codificado como Rejeita
+J101,fundamento_dignidade_autonomia,Não,Não enfrenta,relido no corpus,Não,CONVENÇÃO A CONFIRMAR: risco remetido ao médico (carência de ação) codificado como Rejeita
+J101,comparacao_com_anencefalia,Não faz,Não faz,relido no corpus,Não,CONVENÇÃO A CONFIRMAR: risco remetido ao médico (carência de ação) codificado como Rejeita
+J102,fundamento_risco_vida_gestante,Sim,Rejeita,relido no corpus,Sim,CONVENÇÃO A CONFIRMAR: risco reconhecido mas remetido ao médico (carência de ação) codificado como Rejeita
+J102,fundamento_inviabilidade_extrauterina,Sim,Rejeita,relido no corpus,Sim,CONVENÇÃO A CONFIRMAR: risco reconhecido mas remetido ao médico (carência de ação) codificado como Rejeita
+J102,fundamento_dignidade_autonomia,Não,Não enfrenta,relido no corpus,Não,CONVENÇÃO A CONFIRMAR: risco reconhecido mas remetido ao médico (carência de ação) codificado como Rejeita
+J102,comparacao_com_anencefalia,Não faz,Não faz,relido no corpus,Não,CONVENÇÃO A CONFIRMAR: risco reconhecido mas remetido ao médico (carência de ação) codificado como Rejeita
+J103,fundamento_risco_vida_gestante,Sim,Acolhe,relido no corpus,Não,RECODIFICADO comparação: antes Não faz; usa a decisão do STF sobre anencefalia (antecipação de parto) para valer como autorização; risco é o critério declarado; extinção formal com efeito de alvará
+J103,fundamento_inviabilidade_extrauterina,Sim,Rejeita,relido no corpus,Sim,RECODIFICADO comparação: antes Não faz; usa a decisão do STF sobre anencefalia (antecipação de parto) para valer como autorização; risco é o critério declarado; extinção formal com efeito de alvará
+J103,fundamento_dignidade_autonomia,Não,Não enfrenta,relido no corpus,Não,RECODIFICADO comparação: antes Não faz; usa a decisão do STF sobre anencefalia (antecipação de parto) para valer como autorização; risco é o critério declarado; extinção formal com efeito de alvará
+J103,comparacao_com_anencefalia,Não faz,Equipara,relido no corpus,Sim,RECODIFICADO comparação: antes Não faz; usa a decisão do STF sobre anencefalia (antecipação de parto) para valer como autorização; risco é o critério declarado; extinção formal com efeito de alvará
+J104,fundamento_risco_vida_gestante,Sim,Acolhe,relido no corpus,Não,RECODIFICADO comparação: antes Não faz; mesmo modelo do J103
+J104,fundamento_inviabilidade_extrauterina,Sim,Rejeita,relido no corpus,Sim,RECODIFICADO comparação: antes Não faz; mesmo modelo do J103
+J104,fundamento_dignidade_autonomia,Não,Não enfrenta,relido no corpus,Não,RECODIFICADO comparação: antes Não faz; mesmo modelo do J103
+J104,comparacao_com_anencefalia,Não faz,Equipara,relido no corpus,Sim,RECODIFICADO comparação: antes Não faz; mesmo modelo do J103
+J105,fundamento_risco_vida_gestante,Sim,Rejeita,relido no corpus,Sim,"afasta expressamente o art. 128, I; modelo E de Campinas"
+J105,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,"afasta expressamente o art. 128, I; modelo E de Campinas"
+J105,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,"afasta expressamente o art. 128, I; modelo E de Campinas"
+J105,comparacao_com_anencefalia,Não faz,Não faz,relido no corpus,Não,"afasta expressamente o art. 128, I; modelo E de Campinas"
+J106,fundamento_risco_vida_gestante,Não,Não enfrenta,relido no corpus,Não,"modelo D de Campinas; alto risco à saúde sem art. 128, I"
+J106,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,"modelo D de Campinas; alto risco à saúde sem art. 128, I"
+J106,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,"modelo D de Campinas; alto risco à saúde sem art. 128, I"
+J106,comparacao_com_anencefalia,Não faz,Não faz,relido no corpus,Não,"modelo D de Campinas; alto risco à saúde sem art. 128, I"
+J107,fundamento_risco_vida_gestante,Sim,Rejeita,relido no corpus,Sim,"afasta expressamente o art. 128, I; modelo E de Campinas"
+J107,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,"afasta expressamente o art. 128, I; modelo E de Campinas"
+J107,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,"afasta expressamente o art. 128, I; modelo E de Campinas"
+J107,comparacao_com_anencefalia,Não faz,Não faz,relido no corpus,Não,"afasta expressamente o art. 128, I; modelo E de Campinas"
+J108,fundamento_risco_vida_gestante,Não,Não enfrenta,relido no corpus,Não,"modelo D de Campinas; alto risco à saúde sem art. 128, I"
+J108,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,"modelo D de Campinas; alto risco à saúde sem art. 128, I"
+J108,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,"modelo D de Campinas; alto risco à saúde sem art. 128, I"
+J108,comparacao_com_anencefalia,Não faz,Não faz,relido no corpus,Não,"modelo D de Campinas; alto risco à saúde sem art. 128, I"
+J109,fundamento_risco_vida_gestante,Sim,Acolhe,relido no corpus,Não,RECODIFICADO comparação: antes Não faz; mesmo modelo do J103
+J109,fundamento_inviabilidade_extrauterina,Sim,Rejeita,relido no corpus,Sim,RECODIFICADO comparação: antes Não faz; mesmo modelo do J103
+J109,fundamento_dignidade_autonomia,Não,Não enfrenta,relido no corpus,Não,RECODIFICADO comparação: antes Não faz; mesmo modelo do J103
+J109,comparacao_com_anencefalia,Não faz,Equipara,relido no corpus,Sim,RECODIFICADO comparação: antes Não faz; mesmo modelo do J103
+J110,fundamento_risco_vida_gestante,Não,Não enfrenta,relido no corpus,Não,modelo D de Campinas
+J110,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,modelo D de Campinas
+J110,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,modelo D de Campinas
+J110,comparacao_com_anencefalia,Não faz,Não faz,relido no corpus,Não,modelo D de Campinas
+J111,fundamento_risco_vida_gestante,Sim,Acolhe,relido no corpus,Não,RECODIFICADO comparação: antes Não faz; mesmo modelo do J103
+J111,fundamento_inviabilidade_extrauterina,Sim,Rejeita,relido no corpus,Sim,RECODIFICADO comparação: antes Não faz; mesmo modelo do J103
+J111,fundamento_dignidade_autonomia,Não,Não enfrenta,relido no corpus,Não,RECODIFICADO comparação: antes Não faz; mesmo modelo do J103
+J111,comparacao_com_anencefalia,Não faz,Equipara,relido no corpus,Sim,RECODIFICADO comparação: antes Não faz; mesmo modelo do J103
+J112,fundamento_risco_vida_gestante,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J112,fundamento_inviabilidade_extrauterina,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J112,fundamento_dignidade_autonomia,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J112,comparacao_com_anencefalia,Não faz,Não faz,conversão automática (fora da lista de revisão),Não,
+J113,fundamento_risco_vida_gestante,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J113,fundamento_inviabilidade_extrauterina,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J113,fundamento_dignidade_autonomia,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J113,comparacao_com_anencefalia,Não faz,Não faz,conversão automática (fora da lista de revisão),Não,
+J114,fundamento_risco_vida_gestante,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J114,fundamento_inviabilidade_extrauterina,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J114,fundamento_dignidade_autonomia,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J114,comparacao_com_anencefalia,Não faz,Não faz,conversão automática (fora da lista de revisão),Não,
+J115,fundamento_risco_vida_gestante,Não,Não enfrenta,relido no corpus,Não,"ADPF 54 + analogia ao art. 128, II; pedido subsidiário de risco não examinado"
+J115,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,"ADPF 54 + analogia ao art. 128, II; pedido subsidiário de risco não examinado"
+J115,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,"ADPF 54 + analogia ao art. 128, II; pedido subsidiário de risco não examinado"
+J115,comparacao_com_anencefalia,Equipara,Equipara,relido no corpus,Não,"ADPF 54 + analogia ao art. 128, II; pedido subsidiário de risco não examinado"
+J116,fundamento_risco_vida_gestante,Não,Não enfrenta,relido no corpus,Não,FP (displasia esquelética letal); risco só à saúde psíquica
+J116,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,FP (displasia esquelética letal); risco só à saúde psíquica
+J116,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,FP (displasia esquelética letal); risco só à saúde psíquica
+J116,comparacao_com_anencefalia,Equipara,Equipara,relido no corpus,Não,FP (displasia esquelética letal); risco só à saúde psíquica
+J117,fundamento_risco_vida_gestante,Sim,Acolhe,relido no corpus,Não,"art. 128, I + semelhança com a ADPF 54"
+J117,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,"art. 128, I + semelhança com a ADPF 54"
+J117,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,"art. 128, I + semelhança com a ADPF 54"
+J117,comparacao_com_anencefalia,Equipara,Equipara,relido no corpus,Não,"art. 128, I + semelhança com a ADPF 54"
+J118,fundamento_risco_vida_gestante,Sim,Acolhe,relido no corpus,Não,"FP (body stalk); analogia ao art. 128, I para risco à saúde psíquica — regra: art. 128, I invocado (direto ou por analogia) = Acolhe, mesmo se o risco é à saúde"
+J118,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,"FP (body stalk); analogia ao art. 128, I para risco à saúde psíquica — regra: art. 128, I invocado (direto ou por analogia) = Acolhe, mesmo se o risco é à saúde"
+J118,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,"FP (body stalk); analogia ao art. 128, I para risco à saúde psíquica — regra: art. 128, I invocado (direto ou por analogia) = Acolhe, mesmo se o risco é à saúde"
+J118,comparacao_com_anencefalia,Equipara,Equipara,relido no corpus,Não,"FP (body stalk); analogia ao art. 128, I para risco à saúde psíquica — regra: art. 128, I invocado (direto ou por analogia) = Acolhe, mesmo se o risco é à saúde"
+J119,fundamento_risco_vida_gestante,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J119,fundamento_inviabilidade_extrauterina,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J119,fundamento_dignidade_autonomia,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J119,comparacao_com_anencefalia,Não faz,Não faz,conversão automática (fora da lista de revisão),Não,
+J120,fundamento_risco_vida_gestante,Não,Não enfrenta,relido no corpus,Não,"ratio da ADPF 54 estendida; risco à saúde como reforço sem art. 128, I"
+J120,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,"ratio da ADPF 54 estendida; risco à saúde como reforço sem art. 128, I"
+J120,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,"ratio da ADPF 54 estendida; risco à saúde como reforço sem art. 128, I"
+J120,comparacao_com_anencefalia,Equipara,Equipara,relido no corpus,Não,"ratio da ADPF 54 estendida; risco à saúde como reforço sem art. 128, I"
+J121,fundamento_risco_vida_gestante,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J121,fundamento_inviabilidade_extrauterina,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J121,fundamento_dignidade_autonomia,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J121,comparacao_com_anencefalia,Não faz,Não faz,conversão automática (fora da lista de revisão),Não,
+J122,fundamento_risco_vida_gestante,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J122,fundamento_inviabilidade_extrauterina,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J122,fundamento_dignidade_autonomia,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J122,comparacao_com_anencefalia,Não faz,Não faz,conversão automática (fora da lista de revisão),Não,
+J123,fundamento_risco_vida_gestante,Sim,Acolhe,relido no corpus,Não,"art. 128, I; não cita ADPF 54"
+J123,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,"art. 128, I; não cita ADPF 54"
+J123,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,"art. 128, I; não cita ADPF 54"
+J123,comparacao_com_anencefalia,Não faz,Não faz,relido no corpus,Não,"art. 128, I; não cita ADPF 54"
+J124,fundamento_risco_vida_gestante,Não,Não enfrenta,relido no corpus,Não,"RECODIFICADO comparação: antes Não faz; transcreve no corpo do voto o raciocínio de Marco Aurélio na ADPF 54 (cautelar) e o aplica à T18; risco: ementa fala em risco iminente, razão é dignidade/saúde psíquica sem art. 128, I"
+J124,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,"RECODIFICADO comparação: antes Não faz; transcreve no corpo do voto o raciocínio de Marco Aurélio na ADPF 54 (cautelar) e o aplica à T18; risco: ementa fala em risco iminente, razão é dignidade/saúde psíquica sem art. 128, I"
+J124,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,"RECODIFICADO comparação: antes Não faz; transcreve no corpo do voto o raciocínio de Marco Aurélio na ADPF 54 (cautelar) e o aplica à T18; risco: ementa fala em risco iminente, razão é dignidade/saúde psíquica sem art. 128, I"
+J124,comparacao_com_anencefalia,Não faz,Equipara,relido no corpus,Sim,"RECODIFICADO comparação: antes Não faz; transcreve no corpo do voto o raciocínio de Marco Aurélio na ADPF 54 (cautelar) e o aplica à T18; risco: ementa fala em risco iminente, razão é dignidade/saúde psíquica sem art. 128, I"
+J125,fundamento_risco_vida_gestante,Não,Não enfrenta,relido no corpus,Não,"analogia ao art. 128, II; não cita ADPF 54"
+J125,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,"analogia ao art. 128, II; não cita ADPF 54"
+J125,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,"analogia ao art. 128, II; não cita ADPF 54"
+J125,comparacao_com_anencefalia,Não faz,Não faz,relido no corpus,Não,"analogia ao art. 128, II; não cita ADPF 54"
+J126,fundamento_risco_vida_gestante,Sim,Acolhe,relido no corpus,Não,"RECODIFICADO comparação: antes Distingue; diz que a ADPF se restringe à anencefalia mas 'embora não se trate de anencefalia' o prognóstico é igualmente precário — leitura de analogia; ratio principal é o art. 128, I — A CONFIRMAR"
+J126,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,"RECODIFICADO comparação: antes Distingue; diz que a ADPF se restringe à anencefalia mas 'embora não se trate de anencefalia' o prognóstico é igualmente precário — leitura de analogia; ratio principal é o art. 128, I — A CONFIRMAR"
+J126,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,"RECODIFICADO comparação: antes Distingue; diz que a ADPF se restringe à anencefalia mas 'embora não se trate de anencefalia' o prognóstico é igualmente precário — leitura de analogia; ratio principal é o art. 128, I — A CONFIRMAR"
+J126,comparacao_com_anencefalia,Distingue,Equipara,relido no corpus,Sim,"RECODIFICADO comparação: antes Distingue; diz que a ADPF se restringe à anencefalia mas 'embora não se trate de anencefalia' o prognóstico é igualmente precário — leitura de analogia; ratio principal é o art. 128, I — A CONFIRMAR"
+J127,fundamento_risco_vida_gestante,Sim,Acolhe,relido no corpus,Não,"FP (exencefalia, antes da ADPF 54); art. 128, I"
+J127,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,"FP (exencefalia, antes da ADPF 54); art. 128, I"
+J127,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,"FP (exencefalia, antes da ADPF 54); art. 128, I"
+J127,comparacao_com_anencefalia,Não faz,Não faz,relido no corpus,Não,"FP (exencefalia, antes da ADPF 54); art. 128, I"
+J128,fundamento_risco_vida_gestante,Sim,Rejeita,relido no corpus,Sim,maioria denega; vencido concedia
+J128,fundamento_inviabilidade_extrauterina,Sim,Rejeita,relido no corpus,Sim,maioria denega; vencido concedia
+J128,fundamento_dignidade_autonomia,Não,Não enfrenta,relido no corpus,Não,maioria denega; vencido concedia
+J128,comparacao_com_anencefalia,Não faz,Não faz,relido no corpus,Não,maioria denega; vencido concedia
+J129,fundamento_risco_vida_gestante,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J129,fundamento_inviabilidade_extrauterina,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J129,fundamento_dignidade_autonomia,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J129,comparacao_com_anencefalia,Não faz,Não faz,conversão automática (fora da lista de revisão),Não,
+J130,fundamento_risco_vida_gestante,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J130,fundamento_inviabilidade_extrauterina,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J130,fundamento_dignidade_autonomia,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J130,comparacao_com_anencefalia,Não faz,Não faz,conversão automática (fora da lista de revisão),Não,
+J131,fundamento_risco_vida_gestante,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J131,fundamento_inviabilidade_extrauterina,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J131,fundamento_dignidade_autonomia,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J131,comparacao_com_anencefalia,Não faz,Não faz,conversão automática (fora da lista de revisão),Não,
+J132,fundamento_risco_vida_gestante,Sim,Acolhe,relido no corpus,Não,"art. 128, I + inviabilidade"
+J132,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,"art. 128, I + inviabilidade"
+J132,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,"art. 128, I + inviabilidade"
+J132,comparacao_com_anencefalia,Não faz,Não faz,relido no corpus,Não,"art. 128, I + inviabilidade"
+J133,fundamento_risco_vida_gestante,Não,Não enfrenta,relido no corpus,Não,"a fortiori do art. 128, II; 128, I só em citação"
+J133,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,"a fortiori do art. 128, II; 128, I só em citação"
+J133,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,"a fortiori do art. 128, II; 128, I só em citação"
+J133,comparacao_com_anencefalia,Não faz,Não faz,relido no corpus,Não,"a fortiori do art. 128, II; 128, I só em citação"
+J134,fundamento_risco_vida_gestante,Sim,Acolhe,relido no corpus,Não,extensão do art. 128 pelo risco à saúde física e psíquica — A CONFIRMAR
+J134,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,extensão do art. 128 pelo risco à saúde física e psíquica — A CONFIRMAR
+J134,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,extensão do art. 128 pelo risco à saúde física e psíquica — A CONFIRMAR
+J134,comparacao_com_anencefalia,Não faz,Não faz,relido no corpus,Não,extensão do art. 128 pelo risco à saúde física e psíquica — A CONFIRMAR
+J135,fundamento_risco_vida_gestante,Sim,Acolhe,relido no corpus,Não,"extensão do art. 128 + art. 128, I (risco obstétrico)"
+J135,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,"extensão do art. 128 + art. 128, I (risco obstétrico)"
+J135,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,"extensão do art. 128 + art. 128, I (risco obstétrico)"
+J135,comparacao_com_anencefalia,Não faz,Não faz,relido no corpus,Não,"extensão do art. 128 + art. 128, I (risco obstétrico)"
+J136,fundamento_risco_vida_gestante,Sim,Acolhe,relido no corpus,Não,"art. 128, I ampliado ao risco à saúde"
+J136,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,"art. 128, I ampliado ao risco à saúde"
+J136,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,"art. 128, I ampliado ao risco à saúde"
+J136,comparacao_com_anencefalia,Não faz,Não faz,relido no corpus,Não,"art. 128, I ampliado ao risco à saúde"
+J137,fundamento_risco_vida_gestante,Sim,Acolhe,relido no corpus,Não,"aborto terapêutico dilatado (art. 128, I teleológico)"
+J137,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,"aborto terapêutico dilatado (art. 128, I teleológico)"
+J137,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,"aborto terapêutico dilatado (art. 128, I teleológico)"
+J137,comparacao_com_anencefalia,Não faz,Não faz,relido no corpus,Não,"aborto terapêutico dilatado (art. 128, I teleológico)"
+J138,fundamento_risco_vida_gestante,Sim,Acolhe,relido no corpus,Não,"FP (displasia esquelética letal); art. 128, I"
+J138,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,"FP (displasia esquelética letal); art. 128, I"
+J138,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,"FP (displasia esquelética letal); art. 128, I"
+J138,comparacao_com_anencefalia,Não faz,Não faz,relido no corpus,Não,"FP (displasia esquelética letal); art. 128, I"
+J139,fundamento_risco_vida_gestante,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J139,fundamento_inviabilidade_extrauterina,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J139,fundamento_dignidade_autonomia,Não,Não enfrenta,conversão automática (fora da lista de revisão),Não,
+J139,comparacao_com_anencefalia,Não faz,Não faz,conversão automática (fora da lista de revisão),Não,
+J140,fundamento_risco_vida_gestante,Sim,Acolhe,relido no corpus,Não,"art. 128, I por risco à saúde física e mental; frase 'embora não se trate de anencefalia' é do MP"
+J140,fundamento_inviabilidade_extrauterina,Sim,Acolhe,relido no corpus,Não,"art. 128, I por risco à saúde física e mental; frase 'embora não se trate de anencefalia' é do MP"
+J140,fundamento_dignidade_autonomia,Sim,Acolhe,relido no corpus,Não,"art. 128, I por risco à saúde física e mental; frase 'embora não se trate de anencefalia' é do MP"
+J140,comparacao_com_anencefalia,Não faz,Não faz,relido no corpus,Não,"art. 128, I por risco à saúde física e mental; frase 'embora não se trate de anencefalia' é do MP"

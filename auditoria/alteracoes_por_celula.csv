@@ -1,0 +1,255 @@
+﻿n,data,base,id_julgado,campo,valor_anterior,valor_novo,criterio,decidido_por,nota
+1,2026-10-14,Claude (base final),J002,provimento,REPORTAR,Parcialmente provido,R1,Pesquisador,
+2,2026-10-14,Claude (base final),J003,provimento,REPORTAR,Parcialmente provido,R1,Pesquisador,
+3,2026-10-14,Claude (base final),J047,provimento,REPORTAR,Parcialmente provido,R1,Pesquisador,
+4,2026-10-14,Claude (base final),J059,provimento,REPORTAR,Parcialmente provido,R1,Pesquisador,
+5,2026-10-14,Claude (base final),J114,provimento,REPORTAR,Parcialmente provido,R1,Pesquisador,
+6,2026-10-14,Claude (base final),J004,provimento,REPORTAR,Liminar indeferida,R2,Pesquisador,
+7,2026-10-14,Claude (base final),J008,provimento,REPORTAR,Não conhecido,R3,Pesquisador,
+8,2026-10-14,Claude (base final),J054,provimento,REPORTAR,Não conhecido,R5,Pesquisador,
+9,2026-10-14,Claude (base final),J013,via_processual,REPORTAR,Impugnação da autorização,R6,Pesquisador,
+10,2026-10-14,Claude (base final),J041,via_processual,REPORTAR,Impugnação da autorização,R6,Pesquisador,
+11,2026-10-14,Claude (base final),J053,via_processual,Autorização prévia sem polo passivo,Impugnação da autorização,R6,Pesquisador,
+12,2026-10-14,Claude (base final),J054,via_processual,Autorização prévia sem polo passivo,Impugnação da autorização,R6,Pesquisador,
+13,2026-10-14,Claude (base final),J129,via_processual,Autorização prévia sem polo passivo,Impugnação da autorização,R6,Pesquisador,
+14,2026-10-14,Claude (base final),J130,via_processual,Autorização prévia sem polo passivo,Impugnação da autorização,R6,Pesquisador,
+15,2026-10-14,Claude (base final),J072,via_processual,REPORTAR,Autorização prévia contra hospital ou médico,R7,Pesquisador,
+16,2026-10-14,Claude (base final),J077,provimento,Ordem concedida,Procedente,Ab,Pesquisador,
+17,2026-10-14,Claude (base final),J124,provimento,Ordem concedida,Liminar deferida,Ac,Pesquisador,
+18,2026-10-14,Claude (base final),J116,provimento,Ordem concedida,Liminar deferida,Ac,Pesquisador,
+19,2026-10-14,Claude (base final),J002,via_processual,Menção incidental,Autorização prévia contra operadora de plano,V1,Pesquisador,
+20,2026-10-14,Claude (base final),J003,via_processual,Menção incidental,Autorização prévia contra operadora de plano,V1,Pesquisador,
+21,2026-10-14,Claude (base final),J047,via_processual,Menção incidental,Demanda indenizatória conexa,V2,Pesquisador,
+22,2026-10-14,Claude (base final),J059,via_processual,Menção incidental,Demanda indenizatória conexa,V2,Pesquisador,
+23,2026-10-14,Claude (base final),J113,via_processual,Menção incidental,Demanda indenizatória conexa,V2,Pesquisador,
+24,2026-10-14,Claude (base final),J114,via_processual,Menção incidental,Demanda indenizatória conexa,V2,Pesquisador,
+25,2026-10-14,Claude (base final),J012,(linha inteira),julgado,documento de contexto,X1,Pesquisador,
+26,2026-10-14,Claude (base final),(todos),art128_I,(coluna nova),preenchida por leitura,A1,Pesquisador,
+27,2026-10-14,Claude (base final),(todos),efeito_pratico,(coluna nova),preenchida por regra,EP,Pesquisador,
+28,2026-10-14,Claude (base final),J004,fundamento_risco_vida_gestante,Sim,Rejeita,RF,Pesquisador (regra); Extrator (leitura),
+29,2026-10-14,Claude (base final),J004,fundamento_inviabilidade_extrauterina,Sim,Rejeita,RF,Pesquisador (regra); Extrator (leitura),
+30,2026-10-14,Claude (base final),J005,fundamento_inviabilidade_extrauterina,Sim,Rejeita,RF,Pesquisador (regra); Extrator (leitura),deferiu por risco + sofrimento + dignidade; recusou a analogia com a ADPF 54
+31,2026-10-14,Claude (base final),J011,comparacao_com_anencefalia,Não faz,Equipara,CE,Pesquisador (regra); Extrator (leitura),FP (agenesia renal); aplica a ADPF 54 por extensão
+32,2026-10-14,Claude (base final),J014,fundamento_risco_vida_gestante,Sim,Rejeita,RF,Pesquisador (regra); Extrator (leitura),per relationem às decisões do TJSC
+33,2026-10-14,Claude (base final),J014,fundamento_inviabilidade_extrauterina,Sim,Rejeita,RF,Pesquisador (regra); Extrator (leitura),per relationem às decisões do TJSC
+34,2026-10-14,Claude (base final),J015,fundamento_risco_vida_gestante,Sim,Rejeita,RF,Pesquisador (regra); Extrator (leitura),per relationem; prejudicado
+35,2026-10-14,Claude (base final),J015,fundamento_inviabilidade_extrauterina,Sim,Rejeita,RF,Pesquisador (regra); Extrator (leitura),per relationem; prejudicado
+36,2026-10-14,Claude (base final),J016,fundamento_risco_vida_gestante,Sim,Rejeita,RF,Pesquisador (regra); Extrator (leitura),"dignidade discutida em abstrato, sem ser razão de decidir"
+37,2026-10-14,Claude (base final),J016,fundamento_inviabilidade_extrauterina,Sim,Rejeita,RF,Pesquisador (regra); Extrator (leitura),"dignidade discutida em abstrato, sem ser razão de decidir"
+38,2026-10-14,Claude (base final),J018,fundamento_risco_vida_gestante,Sim,Rejeita,RF,Pesquisador (regra); Extrator (leitura),
+39,2026-10-14,Claude (base final),J018,fundamento_inviabilidade_extrauterina,Sim,Rejeita,RF,Pesquisador (regra); Extrator (leitura),
+40,2026-10-14,Claude (base final),J019,fundamento_inviabilidade_extrauterina,Não,Rejeita,RF,Pesquisador (regra); Extrator (leitura),RELEITURA: antes Não/Não; o juiz afasta a viabilidade como critério ('sem considerações de viabilidade') e pondera o sofrimento da gestante contra a vida do nascituro — afastamento expresso = Rejeita
+41,2026-10-14,Claude (base final),J019,fundamento_dignidade_autonomia,Não,Rejeita,RF,Pesquisador (regra); Extrator (leitura),RELEITURA: antes Não/Não; o juiz afasta a viabilidade como critério ('sem considerações de viabilidade') e pondera o sofrimento da gestante contra a vida do nascituro — afastamento expresso = Rejeita
+42,2026-10-14,Claude (base final),J021,fundamento_risco_vida_gestante,Sim,Rejeita,RF,Pesquisador (regra); Extrator (leitura),FP (encefalocele)
+43,2026-10-14,Claude (base final),J021,fundamento_inviabilidade_extrauterina,Sim,Rejeita,RF,Pesquisador (regra); Extrator (leitura),FP (encefalocele)
+44,2026-10-14,Claude (base final),J021,fundamento_dignidade_autonomia,Sim,Rejeita,RF,Pesquisador (regra); Extrator (leitura),FP (encefalocele)
+45,2026-10-14,Claude (base final),J028,fundamento_risco_vida_gestante,Sim,Rejeita,RF,Pesquisador (regra); Extrator (leitura),"FP (estupro, sem anomalia)"
+46,2026-10-14,Claude (base final),J029,fundamento_risco_vida_gestante,Sim,Rejeita,RF,Pesquisador (regra); Extrator (leitura),argumento antidiscriminação
+47,2026-10-14,Claude (base final),J029,fundamento_inviabilidade_extrauterina,Sim,Rejeita,RF,Pesquisador (regra); Extrator (leitura),argumento antidiscriminação
+48,2026-10-14,Claude (base final),J029,fundamento_dignidade_autonomia,Sim,Rejeita,RF,Pesquisador (regra); Extrator (leitura),argumento antidiscriminação
+49,2026-10-14,Claude (base final),J034,fundamento_risco_vida_gestante,Sim,Rejeita,RF,Pesquisador (regra); Extrator (leitura),RELEITURA dignidade: antes Não; voto condutor usa o argumento antidiscriminação para afastar a dignidade da gestante (mesmo critério do J029)
+50,2026-10-14,Claude (base final),J034,fundamento_inviabilidade_extrauterina,Sim,Rejeita,RF,Pesquisador (regra); Extrator (leitura),RELEITURA dignidade: antes Não; voto condutor usa o argumento antidiscriminação para afastar a dignidade da gestante (mesmo critério do J029)
+51,2026-10-14,Claude (base final),J034,fundamento_dignidade_autonomia,Não,Rejeita,RF,Pesquisador (regra); Extrator (leitura),RELEITURA dignidade: antes Não; voto condutor usa o argumento antidiscriminação para afastar a dignidade da gestante (mesmo critério do J029)
+52,2026-10-14,Claude (base final),J035,fundamento_risco_vida_gestante,Sim,Rejeita,RF,Pesquisador (regra); Extrator (leitura),RELEITURA dignidade: idem J034
+53,2026-10-14,Claude (base final),J035,fundamento_inviabilidade_extrauterina,Sim,Rejeita,RF,Pesquisador (regra); Extrator (leitura),RELEITURA dignidade: idem J034
+54,2026-10-14,Claude (base final),J035,fundamento_dignidade_autonomia,Não,Rejeita,RF,Pesquisador (regra); Extrator (leitura),RELEITURA dignidade: idem J034
+55,2026-10-14,Claude (base final),J037,fundamento_risco_vida_gestante,Sim,Rejeita,RF,Pesquisador (regra); Extrator (leitura),"relator afasta o art. 128, I; concede por analogia + saúde + dignidade"
+56,2026-10-14,Claude (base final),J052,fundamento_risco_vida_gestante,Não,Rejeita,RF,Pesquisador (regra); Extrator (leitura),RELEITURA risco: antes Não; a relatora registra que o laudo não indica risco de morte e concede sem ele (mesmo critério do J037)
+57,2026-10-14,Claude (base final),J056,fundamento_risco_vida_gestante,Sim,Rejeita,RF,Pesquisador (regra); Extrator (leitura),FP (T13 suspeita)
+58,2026-10-14,Claude (base final),J056,fundamento_inviabilidade_extrauterina,Sim,Rejeita,RF,Pesquisador (regra); Extrator (leitura),FP (T13 suspeita)
+59,2026-10-14,Claude (base final),J056,fundamento_dignidade_autonomia,Sim,Rejeita,RF,Pesquisador (regra); Extrator (leitura),FP (T13 suspeita)
+60,2026-10-14,Claude (base final),J058,fundamento_risco_vida_gestante,Sim,Rejeita,RF,Pesquisador (regra); Extrator (leitura),
+61,2026-10-14,Claude (base final),J058,fundamento_inviabilidade_extrauterina,Sim,Rejeita,RF,Pesquisador (regra); Extrator (leitura),
+62,2026-10-14,Claude (base final),J058,fundamento_dignidade_autonomia,Sim,Rejeita,RF,Pesquisador (regra); Extrator (leitura),
+63,2026-10-14,Claude (base final),J060,fundamento_risco_vida_gestante,Sim,Rejeita,RF,Pesquisador (regra); Extrator (leitura),
+64,2026-10-14,Claude (base final),J060,fundamento_inviabilidade_extrauterina,Sim,Rejeita,RF,Pesquisador (regra); Extrator (leitura),
+65,2026-10-14,Claude (base final),J065,fundamento_risco_vida_gestante,Sim,Rejeita,RF,Pesquisador (regra); Extrator (leitura),só ementa
+66,2026-10-14,Claude (base final),J065,fundamento_inviabilidade_extrauterina,Sim,Rejeita,RF,Pesquisador (regra); Extrator (leitura),só ementa
+67,2026-10-14,Claude (base final),J069,fundamento_risco_vida_gestante,Sim,Rejeita,RF,Pesquisador (regra); Extrator (leitura),só ementa
+68,2026-10-14,Claude (base final),J069,fundamento_inviabilidade_extrauterina,Sim,Rejeita,RF,Pesquisador (regra); Extrator (leitura),só ementa
+69,2026-10-14,Claude (base final),J071,comparacao_com_anencefalia,Não faz,Equipara,CE,Pesquisador (regra); Extrator (leitura),"ação contra plano: aplica a 'lógica subjacente' da ADPF 54 (e do HC 56.572) por analogia, para qualificar a urgência contratual; não enfrenta a tipificação"
+70,2026-10-14,Claude (base final),J090,fundamento_risco_vida_gestante,Não,Rejeita,RF,Pesquisador (regra); Extrator (leitura),"RECODIFICADO risco: antes Não; o juiz afirma expressamente que o caso não se subsume ao art. 128, I (mesmo critério de J105/J107); corrigido na revisão final de 14/10"
+71,2026-10-14,Claude (base final),J091,fundamento_risco_vida_gestante,Sim,Rejeita,RF,Pesquisador (regra); Extrator (leitura),FP (T13)
+72,2026-10-14,Claude (base final),J091,fundamento_inviabilidade_extrauterina,Sim,Rejeita,RF,Pesquisador (regra); Extrator (leitura),FP (T13)
+73,2026-10-14,Claude (base final),J092,fundamento_inviabilidade_extrauterina,Sim,Rejeita,RF,Pesquisador (regra); Extrator (leitura),RELEITURA dignidade: antes Não; a juíza pondera o 'intenso' sofrimento e faz prevalecer a vida do nascituro (mesmo critério do J019)
+74,2026-10-14,Claude (base final),J092,fundamento_dignidade_autonomia,Não,Rejeita,RF,Pesquisador (regra); Extrator (leitura),RELEITURA dignidade: antes Não; a juíza pondera o 'intenso' sofrimento e faz prevalecer a vida do nascituro (mesmo critério do J019)
+75,2026-10-14,Claude (base final),J095,fundamento_risco_vida_gestante,Sim,Rejeita,RF,Pesquisador (regra); Extrator (leitura),FP (sirenomelia)
+76,2026-10-14,Claude (base final),J097,fundamento_risco_vida_gestante,Sim,Rejeita,RF,Pesquisador (regra); Extrator (leitura),FP (sem malformação); RECODIFICADO comparação: antes Não faz; recusa a analogia com a ADPF 54 por falta de inviabilidade demonstrada
+77,2026-10-14,Claude (base final),J097,fundamento_inviabilidade_extrauterina,Sim,Rejeita,RF,Pesquisador (regra); Extrator (leitura),FP (sem malformação); RECODIFICADO comparação: antes Não faz; recusa a analogia com a ADPF 54 por falta de inviabilidade demonstrada
+78,2026-10-14,Claude (base final),J097,comparacao_com_anencefalia,Não faz,Distingue,CE,Pesquisador (regra); Extrator (leitura),FP (sem malformação); RECODIFICADO comparação: antes Não faz; recusa a analogia com a ADPF 54 por falta de inviabilidade demonstrada
+79,2026-10-14,Claude (base final),J100,fundamento_inviabilidade_extrauterina,Sim,Rejeita,RF,Pesquisador (regra); Extrator (leitura),taxatividade do art. 128; não cita ADPF 54
+80,2026-10-14,Claude (base final),J101,fundamento_risco_vida_gestante,Sim,Rejeita,RP,"Extrator (convenção), aceita pelo pesquisador em 14/10; a situação fica explícita na coluna art128_I (Remetido ao médico)",CONVENÇÃO A CONFIRMAR: risco remetido ao médico (carência de ação) codificado como Rejeita
+81,2026-10-14,Claude (base final),J101,fundamento_inviabilidade_extrauterina,Sim,Rejeita,RF,Pesquisador (regra); Extrator (leitura),CONVENÇÃO A CONFIRMAR: risco remetido ao médico (carência de ação) codificado como Rejeita
+82,2026-10-14,Claude (base final),J102,fundamento_risco_vida_gestante,Sim,Rejeita,RP,"Extrator (convenção), aceita pelo pesquisador em 14/10; a situação fica explícita na coluna art128_I (Remetido ao médico)",CONVENÇÃO A CONFIRMAR: risco reconhecido mas remetido ao médico (carência de ação) codificado como Rejeita
+83,2026-10-14,Claude (base final),J102,fundamento_inviabilidade_extrauterina,Sim,Rejeita,RF,Pesquisador (regra); Extrator (leitura),CONVENÇÃO A CONFIRMAR: risco reconhecido mas remetido ao médico (carência de ação) codificado como Rejeita
+84,2026-10-14,Claude (base final),J103,fundamento_inviabilidade_extrauterina,Sim,Rejeita,RF,Pesquisador (regra); Extrator (leitura),RECODIFICADO comparação: antes Não faz; usa a decisão do STF sobre anencefalia (antecipação de parto) para valer como autorização; risco é o critério declarado; extinção formal com efeito de alvará
+85,2026-10-14,Claude (base final),J103,comparacao_com_anencefalia,Não faz,Equipara,CE,Pesquisador (regra); Extrator (leitura),RECODIFICADO comparação: antes Não faz; usa a decisão do STF sobre anencefalia (antecipação de parto) para valer como autorização; risco é o critério declarado; extinção formal com efeito de alvará
+86,2026-10-14,Claude (base final),J104,fundamento_inviabilidade_extrauterina,Sim,Rejeita,RF,Pesquisador (regra); Extrator (leitura),RECODIFICADO comparação: antes Não faz; mesmo modelo do J103
+87,2026-10-14,Claude (base final),J104,comparacao_com_anencefalia,Não faz,Equipara,CE,Pesquisador (regra); Extrator (leitura),RECODIFICADO comparação: antes Não faz; mesmo modelo do J103
+88,2026-10-14,Claude (base final),J105,fundamento_risco_vida_gestante,Sim,Rejeita,RF,Pesquisador (regra); Extrator (leitura),"afasta expressamente o art. 128, I; modelo E de Campinas"
+89,2026-10-14,Claude (base final),J107,fundamento_risco_vida_gestante,Sim,Rejeita,RF,Pesquisador (regra); Extrator (leitura),"afasta expressamente o art. 128, I; modelo E de Campinas"
+90,2026-10-14,Claude (base final),J109,fundamento_inviabilidade_extrauterina,Sim,Rejeita,RF,Pesquisador (regra); Extrator (leitura),RECODIFICADO comparação: antes Não faz; mesmo modelo do J103
+91,2026-10-14,Claude (base final),J109,comparacao_com_anencefalia,Não faz,Equipara,CE,Pesquisador (regra); Extrator (leitura),RECODIFICADO comparação: antes Não faz; mesmo modelo do J103
+92,2026-10-14,Claude (base final),J111,fundamento_inviabilidade_extrauterina,Sim,Rejeita,RF,Pesquisador (regra); Extrator (leitura),RECODIFICADO comparação: antes Não faz; mesmo modelo do J103
+93,2026-10-14,Claude (base final),J111,comparacao_com_anencefalia,Não faz,Equipara,CE,Pesquisador (regra); Extrator (leitura),RECODIFICADO comparação: antes Não faz; mesmo modelo do J103
+94,2026-10-14,Claude (base final),J124,comparacao_com_anencefalia,Não faz,Equipara,CE,Pesquisador (regra); Extrator (leitura),"RECODIFICADO comparação: antes Não faz; transcreve no corpo do voto o raciocínio de Marco Aurélio na ADPF 54 (cautelar) e o aplica à T18; risco: ementa fala em risco iminente, razão é dignidade/saúde psíquica sem art. 128, I"
+95,2026-10-14,Claude (base final),J126,comparacao_com_anencefalia,Distingue,Equipara,CP,Pesquisador (regra da analogia direta); Extrator (leitura),"RECODIFICADO comparação: antes Distingue; diz que a ADPF se restringe à anencefalia mas 'embora não se trate de anencefalia' o prognóstico é igualmente precário — leitura de analogia; ratio principal é o art. 128, I — A CONFIRMAR"
+96,2026-10-14,Claude (base final),J128,fundamento_risco_vida_gestante,Sim,Rejeita,RF,Pesquisador (regra); Extrator (leitura),maioria denega; vencido concedia
+97,2026-10-14,Claude (base final),J128,fundamento_inviabilidade_extrauterina,Sim,Rejeita,RF,Pesquisador (regra); Extrator (leitura),maioria denega; vencido concedia
+98,2026-10-14,Claude (base final),(demais),fundamento_*,Sim / Não,Acolhe / Não enfrenta,RA,Pesquisador,
+99,2026-10-14,Gemini (só na comparação),J002,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+100,2026-10-14,Gemini (só na comparação),J003,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+101,2026-10-14,Gemini (só na comparação),J011,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+102,2026-10-14,Gemini (só na comparação),J021,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+103,2026-10-14,Gemini (só na comparação),J022,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+104,2026-10-14,Gemini (só na comparação),J023,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+105,2026-10-14,Gemini (só na comparação),J024,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+106,2026-10-14,Gemini (só na comparação),J025,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+107,2026-10-14,Gemini (só na comparação),J026,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+108,2026-10-14,Gemini (só na comparação),J026,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+109,2026-10-14,Gemini (só na comparação),J027,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+110,2026-10-14,Gemini (só na comparação),J028,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+111,2026-10-14,Gemini (só na comparação),J029,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+112,2026-10-14,Gemini (só na comparação),J029,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+113,2026-10-14,Gemini (só na comparação),J030,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+114,2026-10-14,Gemini (só na comparação),J030,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+115,2026-10-14,Gemini (só na comparação),J031,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+116,2026-10-14,Gemini (só na comparação),J032,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+117,2026-10-14,Gemini (só na comparação),J033,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+118,2026-10-14,Gemini (só na comparação),J034,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+119,2026-10-14,Gemini (só na comparação),J035,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+120,2026-10-14,Gemini (só na comparação),J036,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+121,2026-10-14,Gemini (só na comparação),J037,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+122,2026-10-14,Gemini (só na comparação),J037,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+123,2026-10-14,Gemini (só na comparação),J040,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+124,2026-10-14,Gemini (só na comparação),J040,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+125,2026-10-14,Gemini (só na comparação),J041,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+126,2026-10-14,Gemini (só na comparação),J042,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+127,2026-10-14,Gemini (só na comparação),J043,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+128,2026-10-14,Gemini (só na comparação),J044,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+129,2026-10-14,Gemini (só na comparação),J045,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+130,2026-10-14,Gemini (só na comparação),J046,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+131,2026-10-14,Gemini (só na comparação),J047,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+132,2026-10-14,Gemini (só na comparação),J048,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+133,2026-10-14,Gemini (só na comparação),J049,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+134,2026-10-14,Gemini (só na comparação),J050,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+135,2026-10-14,Gemini (só na comparação),J051,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+136,2026-10-14,Gemini (só na comparação),J051,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+137,2026-10-14,Gemini (só na comparação),J052,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+138,2026-10-14,Gemini (só na comparação),J053,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+139,2026-10-14,Gemini (só na comparação),J054,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+140,2026-10-14,Gemini (só na comparação),J055,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+141,2026-10-14,Gemini (só na comparação),J056,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+142,2026-10-14,Gemini (só na comparação),J057,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+143,2026-10-14,Gemini (só na comparação),J057,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+144,2026-10-14,Gemini (só na comparação),J058,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+145,2026-10-14,Gemini (só na comparação),J059,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+146,2026-10-14,Gemini (só na comparação),J060,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+147,2026-10-14,Gemini (só na comparação),J061,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+148,2026-10-14,Gemini (só na comparação),J062,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+149,2026-10-14,Gemini (só na comparação),J062,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+150,2026-10-14,Gemini (só na comparação),J064,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+151,2026-10-14,Gemini (só na comparação),J065,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+152,2026-10-14,Gemini (só na comparação),J066,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+153,2026-10-14,Gemini (só na comparação),J067,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+154,2026-10-14,Gemini (só na comparação),J068,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+155,2026-10-14,Gemini (só na comparação),J069,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+156,2026-10-14,Gemini (só na comparação),J070,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+157,2026-10-14,Gemini (só na comparação),J074,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+158,2026-10-14,Gemini (só na comparação),J075,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+159,2026-10-14,Gemini (só na comparação),J076,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+160,2026-10-14,Gemini (só na comparação),J077,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+161,2026-10-14,Gemini (só na comparação),J078,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+162,2026-10-14,Gemini (só na comparação),J079,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+163,2026-10-14,Gemini (só na comparação),J080,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+164,2026-10-14,Gemini (só na comparação),J081,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+165,2026-10-14,Gemini (só na comparação),J084,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+166,2026-10-14,Gemini (só na comparação),J088,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+167,2026-10-14,Gemini (só na comparação),J090,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+168,2026-10-14,Gemini (só na comparação),J099,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+169,2026-10-14,Gemini (só na comparação),J105,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+170,2026-10-14,Gemini (só na comparação),J107,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+171,2026-10-14,Gemini (só na comparação),J112,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+172,2026-10-14,Gemini (só na comparação),J112,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+173,2026-10-14,Gemini (só na comparação),J113,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+174,2026-10-14,Gemini (só na comparação),J114,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+175,2026-10-14,Gemini (só na comparação),J115,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+176,2026-10-14,Gemini (só na comparação),J115,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+177,2026-10-14,Gemini (só na comparação),J116,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+178,2026-10-14,Gemini (só na comparação),J117,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+179,2026-10-14,Gemini (só na comparação),J118,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+180,2026-10-14,Gemini (só na comparação),J119,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+181,2026-10-14,Gemini (só na comparação),J120,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+182,2026-10-14,Gemini (só na comparação),J121,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+183,2026-10-14,Gemini (só na comparação),J122,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+184,2026-10-14,Gemini (só na comparação),J123,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+185,2026-10-14,Gemini (só na comparação),J125,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+186,2026-10-14,Gemini (só na comparação),J126,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+187,2026-10-14,Gemini (só na comparação),J128,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+188,2026-10-14,Gemini (só na comparação),J129,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+189,2026-10-14,Gemini (só na comparação),J129,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+190,2026-10-14,Gemini (só na comparação),J130,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+191,2026-10-14,Gemini (só na comparação),J130,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+192,2026-10-14,Gemini (só na comparação),J137,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+193,2026-10-14,Gemini (só na comparação),J140,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+194,2026-10-14,Manus (só na comparação),J003,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+195,2026-10-14,Manus (só na comparação),J004,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+196,2026-10-14,Manus (só na comparação),J013,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+197,2026-10-14,Manus (só na comparação),J018,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+198,2026-10-14,Manus (só na comparação),J021,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+199,2026-10-14,Manus (só na comparação),J024,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+200,2026-10-14,Manus (só na comparação),J026,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+201,2026-10-14,Manus (só na comparação),J029,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+202,2026-10-14,Manus (só na comparação),J030,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+203,2026-10-14,Manus (só na comparação),J033,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+204,2026-10-14,Manus (só na comparação),J037,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+205,2026-10-14,Manus (só na comparação),J039,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+206,2026-10-14,Manus (só na comparação),J040,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+207,2026-10-14,Manus (só na comparação),J041,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+208,2026-10-14,Manus (só na comparação),J043,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+209,2026-10-14,Manus (só na comparação),J044,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+210,2026-10-14,Manus (só na comparação),J044,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+211,2026-10-14,Manus (só na comparação),J045,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+212,2026-10-14,Manus (só na comparação),J045,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+213,2026-10-14,Manus (só na comparação),J046,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+214,2026-10-14,Manus (só na comparação),J046,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+215,2026-10-14,Manus (só na comparação),J047,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+216,2026-10-14,Manus (só na comparação),J048,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+217,2026-10-14,Manus (só na comparação),J051,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+218,2026-10-14,Manus (só na comparação),J052,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+219,2026-10-14,Manus (só na comparação),J055,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+220,2026-10-14,Manus (só na comparação),J057,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+221,2026-10-14,Manus (só na comparação),J062,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+222,2026-10-14,Manus (só na comparação),J064,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+223,2026-10-14,Manus (só na comparação),J066,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+224,2026-10-14,Manus (só na comparação),J067,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+225,2026-10-14,Manus (só na comparação),J068,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+226,2026-10-14,Manus (só na comparação),J084,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+227,2026-10-14,Manus (só na comparação),J088,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+228,2026-10-14,Manus (só na comparação),J090,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+229,2026-10-14,Manus (só na comparação),J099,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+230,2026-10-14,Manus (só na comparação),J105,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+231,2026-10-14,Manus (só na comparação),J107,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+232,2026-10-14,Manus (só na comparação),J112,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+233,2026-10-14,Manus (só na comparação),J115,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+234,2026-10-14,Manus (só na comparação),J117,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+235,2026-10-14,Manus (só na comparação),J118,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+236,2026-10-14,Manus (só na comparação),J119,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+237,2026-10-14,Manus (só na comparação),J120,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+238,2026-10-14,Manus (só na comparação),J121,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+239,2026-10-14,Manus (só na comparação),J122,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+240,2026-10-14,Manus (só na comparação),J123,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+241,2026-10-14,Manus (só na comparação),J125,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+242,2026-10-14,Manus (só na comparação),J125,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+243,2026-10-14,Manus (só na comparação),J126,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+244,2026-10-14,Manus (só na comparação),J126,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+245,2026-10-14,Manus (só na comparação),J128,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+246,2026-10-14,Manus (só na comparação),J128,via_processual,Autorização prévia contra Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+247,2026-10-14,Manus (só na comparação),J129,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+248,2026-10-14,Manus (só na comparação),J130,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+249,2026-10-14,Manus (só na comparação),J132,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+250,2026-10-14,Manus (só na comparação),J133,via_processual,Autorização prévia contra Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+251,2026-10-14,Manus (só na comparação),J134,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+252,2026-10-14,Manus (só na comparação),J137,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
+253,2026-10-14,Manus (só na comparação),J137,via_processual,Autorização prévia contra o Estado,Autorização prévia sem polo passivo,I2,Pesquisador,
+254,2026-10-14,Manus (só na comparação),J140,momento_idade_gestacional,Não especificado,Não consta,I1,Pesquisador,
